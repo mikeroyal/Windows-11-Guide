@@ -72,13 +72,11 @@
 
 # Getting Started
 
-[Getting started with your new Windows 11 PC](https://www.microsoft.com/en-US/windows/getting-started)
-
-[Windows Media Creation tool](https://www.microsoft.com/software-download/windows10) is a tool to create installation media (USB flash drive, DVD, or ISO file) to install Windows 10 on a different PC (click to show more or less information) Follow these steps to create installation media (USB flash drive or DVD) you can use to install a new copy of Windows 10, perform a clean installation, or reinstall Windows 10.
+[Getting started with your new Windows 11 PC](https://www.microsoft.com/en-us/windows/windows-11)
 
 [Microsoft Windows Server](https://www.microsoft.com/en-us/windows-server/) is the operating system that connects on-premises environments with [Azure](https://azure.microsoft.com), adding additional layers of security while helping you modernize your applications and infrastructure.
 
-[Windows as a Service (WaaS)](https://docs.microsoft.com/en-us/windows/deployment/update/waas-overview) is a new development concept, introduced with the release of Windows 10. It simplifies the lives of IT professionals and maintains a consistent Windows 10 experience for all Windows customers. These improvements primarily focus on maximizing customer involvement in Windows development, simplifying the deployment and servicing of Windows client computers, and leveling out the resources needed to deploy and maintain Windows over time.
+[Windows as a Service (WaaS)](https://docs.microsoft.com/en-us/windows/deployment/update/waas-overview) is a new development concept, introduced with the release of Windows 11. It simplifies the lives of IT professionals and maintains a consistent Windows 11 experience for all Windows customers. These improvements primarily focus on maximizing customer involvement in Windows development, simplifying the deployment and servicing of Windows client computers, and leveling out the resources needed to deploy and maintain Windows over time.
 
 [Windows Virtual Desktop](https://azure.microsoft.com/en-us/services/virtual-desktop/) is a service that enables a secure, remote desktop experience from anywhere.
 
@@ -86,7 +84,7 @@
 
 [Microsoft Intune](https://docs.microsoft.com/en-us/mem/intune/fundamentals/) is a cloud-based service that focuses on mobile device management (MDM) and mobile application management (MAM). Let's you control how your organization's devices are used, including mobile phones, tablets, and laptops. Intune also configures specific policies to control applications.
 
-[Microsoft Edge](https://www.microsoft.com/edge) is a cross-platform web browser developed by Microsoft. It is supported on Windows 10, Xbox, Android, iOS, macOS, and as a [preview for Linux](https://www.microsoftedgeinsider.com/en-us/download/?platform=linux).
+[Microsoft Edge](https://www.microsoft.com/edge) is a cross-platform web browser developed by Microsoft. It is supported on Windows 11, Windows 10, Xbox, Android, iOS, macOS, and as a [preview for Linux](https://www.microsoftedgeinsider.com/en-us/download/?platform=linux).
 
 [Microsoft Azure](https://azure.microsoft.com) is a public cloud computing platform that comes with solutions developed by Microsoft including Infrastructure as a Service (IaaS), Platform as a Service (PaaS), Windows as a Service (WaaS), and Software as a Service (SaaS) that can be used for services such as analytics, virtual computing, storage, networking, and security.
 
@@ -94,11 +92,48 @@
 
 [Citrix Virtual Apps and Desktops for Azure](https://azure.microsoft.com/en-us/services/virtual-desktop/citrix-virtual-apps-desktops-for-azure/) is a desktop and app virtualization service available through Azure Marketplace or agreements with Citrix. Use familiar tools to manage on-premises Citrix deployments alongside Windows Virtual Desktop on Azure, supporting cloud modernization while maximizing your existing investment.
 
+[eBPF for Windows](https://github.com/microsoft/ebpf-for-windows) is an eBPF implementation that runs on top of Windows. eBPF is a well-known technology for providing programmability and agility, especially for extending an OS kernel, for use cases such as DoS protection and observability.
 
-<h3 align="center">
- <img src="">
-  Windows 11 Desktop
-</h3>
+[Secure boot](https://docs.microsoft.com/en-us/windows-hardware/design/device-experiences/oem-secure-boot) is a security standard developed by members of the PC industry to help make sure that a device boots(Unified Extensible Firmware Interface (UEFI) BIOS) using only software(such as bootloaders, OS, UEFI drivers, and utilities) that is trusted by the Original Equipment Manufacturer (OEM).
+
+[BitLocker Drive Encryption](https://docs.microsoft.com/en-us/windows/security/information-protection/bitlocker/bitlocker-overview) is a data protection feature that integrates with the operating system and addresses the threats of data theft or exposure from lost, stolen, or inappropriately decommissioned computers. BitLocker provides the most protection when used with a Trusted Platform Module (TPM) version 1.2 or later.
+
+[Trusted Platform Module (TPM](https://docs.microsoft.com/en-us/windows/security/information-protection/tpm/trusted-platform-module-overview) is a technology module designed to provide hardware-based, security-related functions. A TPM chip is a secure crypto-processor that is designed to carry out cryptographic operations.
+
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/124991551-acdc4e00-dff6-11eb-9711-eb03460f144e.png">
+  <br />
+</p>
+
+**Windows 11 Desktop with new Start menu. Source: [Microsoft](https://www.microsoft.com/en-us/windows/windows-11)**
+
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/124991554-aea61180-dff6-11eb-8677-07876e9b313d.png">
+  <br />
+</p>
+
+**By Default the Start menu and icons are centered, but can be easily changed back to the traditional layout.  Source: [Microsoft](https://www.microsoft.com/en-us/windows/windows-11)**
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/124991560-b06fd500-dff6-11eb-8cf3-ab300cf6e82a.png">
+  <br />
+</p>
+
+**Going into system settings to change the position of the Start menu back to the traditional Left-side layout.  Source: [Microsoft](https://www.microsoft.com/en-us/windows/windows-11)**
+
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/124991557-afd73e80-dff6-11eb-990c-7a8fd1b2776c.png">
+  <br />
+</p>
+
+**Windows 11 desktop with the traditional Left-side layout. Source: [Microsoft](https://www.microsoft.com/en-us/windows/windows-11)**
+
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/124991563-b1a10200-dff6-11eb-95a9-0d224a4d4007.png">
+  <br />
+</p>
+
+**Easily snap the layout of your Desktop Apps on Windows 11. Source: [Microsoft](https://www.microsoft.com/en-us/windows/windows-11)**
 
 
 # Getting Software
