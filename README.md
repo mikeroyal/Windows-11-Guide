@@ -112,14 +112,14 @@
   <br />
 </p>
 
-**By Default the Start menu and icons are centered, but can be easily changed back to the traditional layout.  Source: [Microsoft](https://www.microsoft.com/en-us/windows/windows-11)**
+**By Default the Start menu and icons are centered, but can be easily changed back to the Left-side layout. Source: [Microsoft](https://www.microsoft.com/en-us/windows/windows-11)**
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/124991560-b06fd500-dff6-11eb-8cf3-ab300cf6e82a.png">
   <br />
 </p>
 
-**Going into system settings to change the position of the Start menu back to the traditional Left-side layout.  Source: [Microsoft](https://www.microsoft.com/en-us/windows/windows-11)**
+**Going into system settings to change the position of the Start menu back to the Left-side layout. Source: [Microsoft](https://www.microsoft.com/en-us/windows/windows-11)**
 
  <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/124991557-afd73e80-dff6-11eb-990c-7a8fd1b2776c.png">
