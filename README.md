@@ -74,11 +74,15 @@
 
 [Getting started with your new Windows 11 PC](https://www.microsoft.com/en-us/windows/windows-11)
 
+[Getting Started with the DirectX 12 Agility SDK](https://devblogs.microsoft.com/directx/gettingstarted-dx12agility/)
+
 [Microsoft Windows Server](https://www.microsoft.com/en-us/windows-server/) is the operating system that connects on-premises environments with [Azure](https://azure.microsoft.com), adding additional layers of security while helping you modernize your applications and infrastructure.
 
 [Windows as a Service (WaaS)](https://docs.microsoft.com/en-us/windows/deployment/update/waas-overview) is a new development concept, introduced with the release of Windows 11. It simplifies the lives of IT professionals and maintains a consistent Windows 11 experience for all Windows customers. These improvements primarily focus on maximizing customer involvement in Windows development, simplifying the deployment and servicing of Windows client computers, and leveling out the resources needed to deploy and maintain Windows over time.
 
 [Windows Virtual Desktop](https://azure.microsoft.com/en-us/services/virtual-desktop/) is a service that enables a secure, remote desktop experience from anywhere.
+
+[Windows 365 Cloud PC](https://www.microsoft.com/en-us/windows-365) is a service that provides a secure way to stream your Windows experience including your personalized apps, content, and settings from the Microsoft cloud([Azure](https://azure.microsoft.com/)) to any device with your Windows 365 Cloud PC. Available August 2nd, 2021.
 
 [Microsoft Dynamics 365](https://dynamics.microsoft.com/en-us/) is the essential business solution for busy professionals who need to engage with customers while staying productive at work and on the go. Arrive prepared for every appointment and update notes, tasks, and attachments. Along with relevant service and sales records.
 
@@ -91,6 +95,10 @@
 [VMware Horizon Cloud on Microsoft Azure](https://azure.microsoft.com/en-us/services/virtual-desktop/vmware-horizon-cloud/) is a desktop virtualization service available in Azure Marketplace. Simplify your delivery of on-premises and cloud virtual desktops and applications by connecting your instance of Azure to VMware.
 
 [Citrix Virtual Apps and Desktops for Azure](https://azure.microsoft.com/en-us/services/virtual-desktop/citrix-virtual-apps-desktops-for-azure/) is a desktop and app virtualization service available through Azure Marketplace or agreements with Citrix. Use familiar tools to manage on-premises Citrix deployments alongside Windows Virtual Desktop on Azure, supporting cloud modernization while maximizing your existing investment.
+
+[DirectStorage API](https://devblogs.microsoft.com/directx/directstorage-is-coming-to-pc/) is an API in the DirectX family originally designed for the [Velocity Architecture](https://news.xbox.com/en-us/2020/07/14/a-closer-look-at-xbox-velocity-architecture/) to Windows. The DirectX API is architected in a way that takes all this into account and maximizes performance throughout the entire pipeline from NVMe drive all the way to the GPU. It does this in several ways: by reducing per-request NVMe overhead, enabling batched many-at-a-time parallel IO requests which can be efficiently fed to the GPU, and giving games finer grain control over when they get notified of IO request completion instead of having to react to every tiny IO completion. The DirectStorage API will be available on [Windows 11](https://www.microsoft.com/en-us/windows/windows-11) PCs with NVMe SSDs, but will also be support in [Windows 10](https://www.microsoft.com/software-download/windows10) version 1909 and newer.
+
+[WinDirStat(Windows Directory Statistics)](https://windirstat.net/) is a disk usage statistics viewer and cleanup tool for various versions of Microsoft Windows.
 
 [eBPF for Windows](https://github.com/microsoft/ebpf-for-windows) is an eBPF implementation that runs on top of Windows. eBPF is a well-known technology for providing programmability and agility, especially for extending an OS kernel, for use cases such as DoS protection and observability.
 
