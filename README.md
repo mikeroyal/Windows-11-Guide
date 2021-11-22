@@ -12,6 +12,9 @@
 
 1. [Getting Started](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#getting-started)
 
+      - [Windows 11 Desktop](https://github.com/mikeroyal/Windows-11-Guide#Windowss-11-Desktop)
+      - [Ways to Customize Windows 11 Look and Feel](https://github.com/mikeroyal/Windows-11-Guide#Ways-to-Customize-Windows-11-Look-and-Feel)
+
 2. [Getting Software](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#getting-software)
 
 3. [Gaming](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#gaming)
@@ -86,8 +89,6 @@
 
 [Microsoft Dynamics 365](https://dynamics.microsoft.com/en-us/) is the essential business solution for busy professionals who need to engage with customers while staying productive at work and on the go. Arrive prepared for every appointment and update notes, tasks, and attachments. Along with relevant service and sales records.
 
-[Microsoft Intune](https://docs.microsoft.com/en-us/mem/intune/fundamentals/) is a cloud-based service that focuses on mobile device management (MDM) and mobile application management (MAM). Let's you control how your organization's devices are used, including mobile phones, tablets, and laptops. Intune also configures specific policies to control applications.
-
 [Microsoft Edge](https://www.microsoft.com/edge) is a cross-platform web browser developed by Microsoft. It is supported on Windows 11, Windows 10, Xbox, Android, iOS, macOS, and as a [preview for Linux](https://www.microsoftedgeinsider.com/en-us/download/?platform=linux).
 
 [Microsoft Azure](https://azure.microsoft.com) is a public cloud computing platform that comes with solutions developed by Microsoft including Infrastructure as a Service (IaaS), Platform as a Service (PaaS), Windows as a Service (WaaS), and Software as a Service (SaaS) that can be used for services such as analytics, virtual computing, storage, networking, and security.
@@ -110,7 +111,7 @@
 
 [ARM64EC (“Emulation Compatible”)](https://docs.microsoft.com/en-us/windows/uwp/porting/arm64ec) is a new application binary interface (ABI) for Windows 11 on ARM that runs with native speed and is interoperable with x64 architecture. An app, process, or even a module can freely mix and match with ARM64EC and x64 as needed. The ARM64EC code in the app will run natively while any x64 code will run using Windows 11 on ARM’s built-in emulation. The ARM64EC ABI differs slightly from the current [ARM64 ABI](https://docs.microsoft.com/en-us/cpp/build/arm64-windows-abi-conventions?view=msvc-160) in ways that make it binary compatible with x64 code. Specifically, the ARM64EC ABI follows x64 software conventions including calling convention, stack usage, and data alignment, making ARM64EC and x64 interoperable. Apps built as ARM64EC may contain x64 code but do not have to, since ARM64EC is its own complete, first-class ABI for Windows.
 
-### Screenshots of the Windows 11 Desktop
+## Windows 11 Desktop
 
  <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/124991551-acdc4e00-dff6-11eb-9711-eb03460f144e.png">
@@ -147,6 +148,29 @@
 
 **Easily snap the layout of your Desktop Apps on Windows 11. Source: [Microsoft](https://www.microsoft.com/en-us/windows/windows-11)**
 
+## Ways to Customize Windows 11 Look and Feel
+
+[StartAllBack](https://startallback.com/)
+
+[Start11](https://www.stardock.com/products/start11/)
+
+[ThisIsWin11](https://github.com/builtbybel/ThisIsWin11)
+
+[Live Tiles Anywhere](https://www.reddit.com/r/windows/comments/q18fq7/live_tiles_anywhere_create_custom_live_tiles_for/)
+
+[RoundedTB](https://github.com/torchgm/RoundedTB)
+
+[Win11DisableOrRestoreRoundedCorners](https://github.com/valinet/Win11DisableRoundedCorners)
+
+[MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect)
+
+[AltDrag](https://stefansundin.github.io/altdrag/)
+
+[Twinkle Tray](https://twinkletray.com/)
+
+[Microsoft PowerToys](https://docs.microsoft.com/en-us/windows/powertoys/)
+
+[Winaero Tweaker (registry hacks)](https://winaero.com/winaero-tweaker/)
 
 # Getting Software
 
@@ -1674,14 +1698,18 @@ Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-L
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/93719689-0d1e0400-fb39-11ea-82e5-331a8ff8060d.png">
-
 </p>
 
+
 ## .NET Learning Resources
+
+[Announcing .NET 6](https://devblogs.microsoft.com/dotnet/announcing-net-6/)
 
 [.NET](https://dotnet.microsoft.com/learn/dotnet/what-is-dotnet) is a developer platform with tools and libraries for building any type of app, including web, mobile, desktop, games, IoT, cloud, and microservices.
 
 [.NET documentation](https://docs.microsoft.com/en-us/dotnet/fundamentals/)
+
+[C# documentation](https://docs.microsoft.com/en-us/dotnet/csharp/)
 
 [Getting started with .NET](https://docs.microsoft.com/en-us/dotnet/standard/get-started)
 
@@ -1689,9 +1717,39 @@ Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-L
 
 [Intro .NET Guide by JetBrains ](https://blog.jetbrains.com/dotnet/2020/07/09/introducing-the-net-guide-tutorials-and-tips-tricks-for-net-rider-and-resharper/)
 
-[C# documentation](https://docs.microsoft.com/en-us/dotnet/csharp/) write any application using the C# programming language on the .NET platform.
+[.NET on Microsoft Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/dotnet/)
 
-## Tools
+[Top .NET Courses Online | Udemy](https://www.udemy.com/topic/net/)
+
+[Top ASP.NET Core Courses Online | Udemy](https://www.udemy.com/topic/aspnet-core/)
+
+[Learn Parallel Programming with C# and .NET | Udemy](https://www.udemy.com/course/parallel-dotnet/)
+
+[Learn to build an e-commerce app with .Net Core and Angular | Udemy](https://www.udemy.com/course/learn-to-build-an-e-commerce-app-with-net-core-and-angular/)
+
+[Dependency Injection in C# and .NET with the Autofac Library | Udemy](https://www.udemy.com/course/di-ioc-dotnet/)
+
+[Modern Application Development with .NET on AWS Specialization | Coursera](https://www.coursera.org/specializations/aws-net-serverless-development)
+
+[Introducing .NET Core Course | Coursera](https://www.coursera.org/lecture/develop-windows-apps-gcp/introducing-net-core-JkSfp)
+
+[Learn .NET with Online Courses | edX](https://www.edx.org/learn/.net)
+
+[.NET Training Course | LearningTree](https://www.learningtree.com/training-directory/net-visual-studio-training/)
+
+[.NET Training: Introduction | Pluralsight](https://www.pluralsight.com/courses/becoming-dotnet-developer)
+
+# .NET Tools and Frameworks
+
+[Visual Studio](https://visualstudio.microsoft.com/) is an integrated development environment (IDE) from Microsoft; which is a feature-rich application that can be used for many aspects of software development. Visual Studio makes it easy to edit, debug, build, and publish your app. By using Microsoft software development platforms such as Windows API, Windows Forms, Windows Presentation Foundation, and Windows Store.
+
+[Visual Studio Code](https://code.visualstudio.com/) is a code editor redefined and optimized for building and debugging modern web and cloud applications.
+
+[Code Server](https://coder.com/) is a tool that allows you to run [VS Code](https://code.visualstudio.com/) on any machine anywhere and access it in the browser.
+
+[Language Server Protocol (LSP)](https://microsoft.github.io/language-server-protocol/) is a tool that defines the protocol used between an editor or IDE and a language server that provides language features like auto complete, go to definition, find all references.
+
+[Tabnine](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode) is the AI code completion tool trusted by millions of developers to code faster with fewer errors. Whether you are a new dev or a seasoned pro, working solo or part of a team, Tabnine will help push your productivity to new heights while cutting your QA time.
 
 [.NET Core](https://docs.microsoft.com/en-us/dotnet/core/introduction) is a cross-platform .NET implementation for websites, servers, and console apps on Windows, Linux, and macOS.The .NET Framework supports websites, services, desktop apps, and more on Windows. Xamarin/Mono is a .NET implementation for running apps on all the major mobile operating systems.
 
@@ -1700,8 +1758,6 @@ Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-L
 [ASP.NET Core](https://asp.net/) is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
 
 [Mono](https://www.mono-project.com/) is a software platform designed to allow developers to easily create cross platform applications. It is an open source implementation of Microsoft's .NET Framework based on the ECMA standards for C# and the Common Language Runtime.
-
-[Visual Studio](https://visualstudio.microsoft.com/) is an integrated development environment (IDE) from Microsoft; which is a feature-rich application that can be used for many aspects of software development. Visual Studio makes it easy to edit, debug, build, and publish your app. By using Microsoft software development platforms such as Windows API, Windows Forms, Windows Presentation Foundation, and Windows Store.
 
 [Rider](https://www.jetbrains.com/rider/) is a fast and powerful, cross-platform .NET IDE devloped by JetBrains to develop .NET, ASP.NET, .NET Core, Xamarin; or Unity applications for Windows, Mac, Linux.
 
@@ -1723,7 +1779,7 @@ Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-L
 
 [Hangfire](https://www.hangfire.io/) is an easy way to perform background job processing in your .NET and .NET Core applications with no Windows Service or Task Scheduler required.
 
-[React Native Windows](https://microsoft.github.io/react-native-windows/) is a ramework for building native Windows apps with React. [React Native](https://reactnative.dev/) is a framework developed by Facebook that enables you to build world-class application experiences on native platforms using a consistent developer experience based on JavaScript and React.
+[React Native Windows](https://microsoft.github.io/react-native-windows/) is a framework for building native Windows apps with React. [React Native](https://reactnative.dev/) is a framework developed by Facebook that enables you to build world-class application experiences on native platforms using a consistent developer experience based on JavaScript and React.
 
 [ReactiveUI](https://reactiveui.net/) is a composable, cross-platform model-view-viewmodel framework for all .NET platforms that is inspired by functional reactive programming, which is a paradigm that allows you to abstract mutable state away from your user interfaces and express the idea around a feature in one readable place and improve the testability of your application.
 
