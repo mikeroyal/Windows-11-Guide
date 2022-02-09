@@ -157,6 +157,8 @@
 
 ## Ways to Customize Windows 11 Look and Feel
 
+[Files](https://github.com/files-community/Files) is a file manager for Windows with a powerful yet intuitive design. It has features like multiple tabs, panes, columns, shell extensions in the context menu and tags.
+
 [StartAllBack](https://startallback.com/)
 
 [Start11](https://www.stardock.com/products/start11/)
