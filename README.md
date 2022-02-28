@@ -18,6 +18,7 @@
 1. [Getting Started](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#getting-started)
 
       - [Windows 11 Desktop](https://github.com/mikeroyal/Windows-11-Guide#Windows-11-Desktop)
+      - [Creating a Local Account on Windows 11 Home and Pro](https://github.com/mikeroyal/Windows-11-Guide#Creating-a-Local-Account-on-Windows-11-Home-and-Pro)
       - [Ways to Customize Windows 11 Look and Feel](https://github.com/mikeroyal/Windows-11-Guide#Ways-to-Customize-Windows-11-Look-and-Feel)
 
 2. [Getting Software](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#getting-software)
@@ -154,6 +155,61 @@
 </p>
 
 **Easily snap the layout of your Desktop Apps on Windows 11. Source: [Microsoft](https://www.microsoft.com/en-us/windows/windows-11)**
+
+## Creating a Local Account on Windows 11 Home and Pro
+[Back to the Top](https://github.com/mikeroyal/Windows11-Guide#table-of-contents)
+
+**In Windows 11 Home and Pro editions Microsoft will require you to sign-in with Microsoft Account. Though, by following the simple steps below you can create a Local Account on the your Windows 11 device.**
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/155907610-1ec0e0c3-ebfc-4906-b88c-ef36e71e8d71.png">
+  <br />
+  Microsoft Account Sign-in on Windows 11
+</p>
+
+**Before we begin this process make sure to not connect your Wi-Fi or unplug your Ethernet cable if you use one.**
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/155907612-a1220895-cbf7-4a21-a5d8-334685d9d781.png">
+  <br />
+</p>
+
+### Steps 1-5:
+
+1. Press keys **Shift + F10** this will open the Windows Command prompt as System.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/155907621-03f48d86-ede0-4668-92cc-6fa5b5742f8d.png">
+  <br />
+</p>
+
+2. Then type **taskmgr** and Press Enter
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/155907624-f73f18b4-9b9c-43ad-b86f-26b897cf7141.png">
+  <br />
+</p>
+
+3. This will Taskmanger click the **more details** option in the bottom left corner
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/155907633-d531dbab-6475-437e-9f25-994fbe388535.png">
+  <br />
+</p>
+
+4. Now scroll down til you see **Network Connection Flow**. Right click on the process and select **End Process**.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/155907635-010e70fe-a4e5-40e5-839a-7a76da83948b.png">
+  <br />
+</p>
+
+5. You will now see on the Windows screen that you can sign-up for a Local account.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/155907640-f89a6b5a-8226-4d47-a5da-f0038a4e661b.png">
+  <br />
+</p>
 
 ## Ways to Customize Windows 11 Look and Feel
 
