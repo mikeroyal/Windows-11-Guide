@@ -157,7 +157,7 @@
 **Easily snap the layout of your Desktop Apps on Windows 11. Source: [Microsoft](https://www.microsoft.com/en-us/windows/windows-11)**
 
 ## Creating a Local Account on Windows 11 Home and Pro
-[Back to the Top](https://github.com/mikeroyal/Windows11-Guide#table-of-contents)
+[Back to the Top](https://github.com/mikeroyal/Windows-11-Guide#table-of-contents)
 
 **In Windows 11 Home and Pro editions Microsoft will require you to sign-in with Microsoft Account. Though, by following these simple steps below you can create a Local Account on the your Windows 11 device.**
 
