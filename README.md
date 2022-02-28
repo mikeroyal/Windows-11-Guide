@@ -159,7 +159,7 @@
 ## Creating a Local Account on Windows 11 Home and Pro
 [Back to the Top](https://github.com/mikeroyal/Windows11-Guide#table-of-contents)
 
-**In Windows 11 Home and Pro editions Microsoft will require you to sign-in with Microsoft Account. Though, by following the simple steps below you can create a Local Account on the your Windows 11 device.**
+**In Windows 11 Home and Pro editions Microsoft will require you to sign-in with Microsoft Account. Though, by following these simple steps below you can create a Local Account on the your Windows 11 device.**
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/155907610-1ec0e0c3-ebfc-4906-b88c-ef36e71e8d71.png">
@@ -183,21 +183,21 @@
   <br />
 </p>
 
-2. Then type **taskmgr** and Press Enter
+2. Then type **taskmgr** and Press Enter.
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/155907624-f73f18b4-9b9c-43ad-b86f-26b897cf7141.png">
   <br />
 </p>
 
-3. This will Taskmanger click the **more details** option in the bottom left corner
+3. This opens up the **Task Manager**. Click the **more details** option in the bottom left corner.
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/155907633-d531dbab-6475-437e-9f25-994fbe388535.png">
   <br />
 </p>
 
-4. Now scroll down til you see **Network Connection Flow**. Right click on the process and select **End Process**.
+4. Now scroll down til you see **Network Connection Flow**. Right click on the process and select **End task**.
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/155907635-010e70fe-a4e5-40e5-839a-7a76da83948b.png">
