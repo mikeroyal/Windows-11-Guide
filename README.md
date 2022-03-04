@@ -237,7 +237,7 @@
 
 [Winaero Tweaker](https://winaero.com/winaero-tweaker/) is an all-in-one application that comes with dozens of options for fine-grained tuning of various Windows settings and features.
 
-[Ultimate Windows Toolbox by Chris Titus Tech](https://github.com/ChrisTitusTech/win10script) is the Ultimate Windows 10 & 11 Script from a creation from multiple debloat scripts and gists from github. This script is a designed to be a swiss army knife of Windows tools to help setup and optimize machines.
+[Ultimate Windows Toolbox by Chris Titus Tech](https://github.com/ChrisTitusTech/win10script) is the Ultimate Windows 10 & 11 Script from a creation from multiple debloat scripts and gists from github. This script is designed to be a swiss army knife of Windows tools to help setup and optimize machines.
 
 [Wallpaper Engine](https://store.steampowered.com/app/431960/Wallpaper_Engine/) is a tool enables you to use live wallpapers on your Windows desktop. Various types of animated wallpapers are supported, including 3D and 2D animations, websites, videos and even certain applications. 
 
