@@ -219,10 +219,9 @@
 
 [Start11](https://www.stardock.com/products/start11/) is a tool designed to bring menus back from Windows 7/10 to Windows 11.
 
-[ThisIsWin11](https://github.com/builtbybel/ThisIsWin11) is a tool that brings a new way of thinking and using Windows Live Tiles, this is Live Tiles Anywhere.
-LTA is the first app that allows you to create not only working custom Live Tiles, but also add Live Tiles as widgets on your Desktop.
+[ThisIsWin11](https://github.com/builtbybel/ThisIsWin11) is a tool which helps you set up and customize Windows 11.
 
-[Live Tiles Anywhere](https://www.reddit.com/r/windows/comments/q18fq7/live_tiles_anywhere_create_custom_live_tiles_for/) 
+[Live Tiles Anywhere](https://www.reddit.com/r/windows/comments/q18fq7/live_tiles_anywhere_create_custom_live_tiles_for/) is a tool that brings a new way of thinking and using Windows Live Tiles, this is Live Tiles Anywhere. LTA is the first app that allows you to create not only working custom Live Tiles, but also add Live Tiles as widgets on your Desktop.
 
 [RoundedTB](https://github.com/torchgm/RoundedTB) is a tool that adds margins, rounded corners and segments to your taskbars.
 
