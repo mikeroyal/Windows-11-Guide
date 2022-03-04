@@ -215,27 +215,34 @@
 
 [Files](https://github.com/files-community/Files) is a file manager for Windows with a powerful yet intuitive design. It has features like multiple tabs, panes, columns, shell extensions in the context menu and tags.
 
-[StartAllBack](https://startallback.com/)
+[StartAllBack](https://startallback.com/) is a tool that restores the taskbar, start menu, context menus, explorer, style and order back to the Windows 7 & 10 style.
 
-[Start11](https://www.stardock.com/products/start11/)
+[Start11](https://www.stardock.com/products/start11/) is a tool designed to bring menus back from Windows 7/10 to Windows 11.
 
-[ThisIsWin11](https://github.com/builtbybel/ThisIsWin11)
+[ThisIsWin11](https://github.com/builtbybel/ThisIsWin11) is a tool that brings a new way of thinking and using Windows Live Tiles, this is Live Tiles Anywhere.
+LTA is the first app that allows you to create not only working custom Live Tiles, but also add Live Tiles as widgets on your Desktop.
 
-[Live Tiles Anywhere](https://www.reddit.com/r/windows/comments/q18fq7/live_tiles_anywhere_create_custom_live_tiles_for/)
+[Live Tiles Anywhere](https://www.reddit.com/r/windows/comments/q18fq7/live_tiles_anywhere_create_custom_live_tiles_for/) 
 
-[RoundedTB](https://github.com/torchgm/RoundedTB)
+[RoundedTB](https://github.com/torchgm/RoundedTB) is a tool that adds margins, rounded corners and segments to your taskbars.
 
-[Win11DisableOrRestoreRoundedCorners](https://github.com/valinet/Win11DisableRoundedCorners)
+[Win11DisableOrRestoreRoundedCorners](https://github.com/valinet/Win11DisableRoundedCorners) is a tool that cold patches dwm (uDWM.dll) in order to disable window rounded corners in Windows 11.
 
-[MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect)
+[MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect) is a tool that redirects News, Search, Widgets, Weather and more to Your Default Browser of choice in Windows 11.
 
-[AltDrag](https://stefansundin.github.io/altdrag/)
+[AltDrag](https://stefansundin.github.io/altdrag/) is a tool gives you the ability to move and resize windows in a new way. After starting AltDrag, you can simply hold down the Alt key and then click and drag any window. This behavior already exists in Linux and other operating systems, and AltDrag was made with the mission to copy that behavior to the Windows platform, and then to further expand it with new intuitive functionality.
 
-[Twinkle Tray](https://twinkletray.com/)
+[Twinkle Tray](https://twinkletray.com/) is a tool that lets you easily manage the brightness levels of multiple monitors. This app adds a new icon into your system tray, where you can click to have instant access to the brightness levels of all compatible monitors. 
 
-[Microsoft PowerToys](https://docs.microsoft.com/en-us/windows/powertoys/)
+[Microsoft PowerToys](https://docs.microsoft.com/en-us/windows/powertoys/) is a set of utilities for power users to tune and streamline their Windows 10 experience for greater productivity. To get more information on [PowerToys](https://docs.microsoft.com/windows/powertoys/), or any other tools and resources for [Windows development environments](https://docs.microsoft.com/windows/dev-environment/overview), go to [docs.microsoft.com](https://docs.microsoft.com/windows/powertoys/).
 
-[Winaero Tweaker (registry hacks)](https://winaero.com/winaero-tweaker/)
+[Winaero Tweaker](https://winaero.com/winaero-tweaker/) is an all-in-one application that comes with dozens of options for fine-grained tuning of various Windows settings and features.
+
+[Ultimate Windows Toolbox by Chris Titus Tech](https://github.com/ChrisTitusTech/win10script) is the Ultimate Windows 10 & 11 Script from a creation from multiple debloat scripts and gists from github. This script is a designed to be a swiss army knife of Windows tools to help setup and optimize machines.
+
+[Wallpaper Engine](https://store.steampowered.com/app/431960/Wallpaper_Engine/) is a tool enables you to use live wallpapers on your Windows desktop. Various types of animated wallpapers are supported, including 3D and 2D animations, websites, videos and even certain applications. 
+
+[Lively Wallpaper](https://lively-wallpaper.com/) is a Windows application designed to turn GIFs, games, and videos into animated wallpapers. 
 
 # Getting Software
 
