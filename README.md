@@ -121,6 +121,7 @@
 [ARM64EC (“Emulation Compatible”)](https://docs.microsoft.com/en-us/windows/uwp/porting/arm64ec) is a new application binary interface (ABI) for Windows 11 on ARM that runs with native speed and is interoperable with x64 architecture. An app, process, or even a module can freely mix and match with ARM64EC and x64 as needed. The ARM64EC code in the app will run natively while any x64 code will run using Windows 11 on ARM’s built-in emulation. The ARM64EC ABI differs slightly from the current [ARM64 ABI](https://docs.microsoft.com/en-us/cpp/build/arm64-windows-abi-conventions?view=msvc-160) in ways that make it binary compatible with x64 code. Specifically, the ARM64EC ABI follows x64 software conventions including calling convention, stack usage, and data alignment, making ARM64EC and x64 interoperable. Apps built as ARM64EC may contain x64 code but do not have to, since ARM64EC is its own complete, first-class ABI for Windows.
 
 ## Windows 11 Desktop
+[Back to the Top](https://github.com/mikeroyal/Windows-11-Guide#table-of-contents)
 
  <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/124991551-acdc4e00-dff6-11eb-9711-eb03460f144e.png">
@@ -213,6 +214,7 @@
 </p>
 
 ## Ways to Customize Windows 11 Look and Feel
+[Back to the Top](https://github.com/mikeroyal/Windows-11-Guide#table-of-contents)
 
 [Files](https://github.com/files-community/Files) is a file manager for Windows with a powerful yet intuitive design. It has features like multiple tabs, panes, columns, shell extensions in the context menu and tags.
 
@@ -249,6 +251,7 @@
 [Lively Wallpaper](https://lively-wallpaper.com/) is a Windows application designed to turn GIFs, games, and videos into animated wallpapers. 
 
 ## Installing drivers for Windows, AMD, and NVIDIA
+[Back to the Top](https://github.com/mikeroyal/Windows-11-Guide#table-of-contents)
 
 [Snappy Driver Installer(SDI) Origin](https://www.snappy-driver-installer.org) is a portable Windows tool to install and update device drivers. It can be used offline to install drivers where Internet isn't available. No more searching for drivers after a clean install of Windows 10/11.
 
