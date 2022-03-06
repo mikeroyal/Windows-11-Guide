@@ -20,6 +20,7 @@
       - [Windows 11 Desktop](https://github.com/mikeroyal/Windows-11-Guide#Windows-11-Desktop)
       - [Creating a Local Account on Windows 11 Home and Pro](https://github.com/mikeroyal/Windows-11-Guide#Creating-a-Local-Account-on-Windows-11-Home-and-Pro)
       - [Ways to Customize Windows 11 Look and Feel](https://github.com/mikeroyal/Windows-11-Guide#Ways-to-Customize-Windows-11-Look-and-Feel)
+      - [Installing drivers for Windows, AMD, and NVIDIA the easy way](https://github.com/mikeroyal/Windows-11-Guide#installing-drivers-for-windows-amd-and-nvidia)
 
 2. [Getting Software](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#getting-software)
 
@@ -239,9 +240,25 @@
 
 [Ultimate Windows Toolbox by Chris Titus Tech](https://github.com/ChrisTitusTech/win10script) is the Ultimate Windows 10 & 11 Script from a creation from multiple debloat scripts and gists from github. This script is designed to be a swiss army knife of Windows tools to help setup and optimize machines.
 
+[QTTab Bar](https://indiff.github.io/qttabbar/) is a simple utility that will enable you to operate files and folders like tab browser folder grouping, and histories for Windows Explorer in Windows 10/11. 
+
+[Ear Trumpet](https://eartrumpet.app/) is a powerful volume control app for Windows 10/11 providing a system tray utility that gives you volume levels for every app and the ability to set custom inputs and outputs for those apps.
+
 [Wallpaper Engine](https://store.steampowered.com/app/431960/Wallpaper_Engine/) is a tool enables you to use live wallpapers on your Windows desktop. Various types of animated wallpapers are supported, including 3D and 2D animations, websites, videos and even certain applications. 
 
 [Lively Wallpaper](https://lively-wallpaper.com/) is a Windows application designed to turn GIFs, games, and videos into animated wallpapers. 
+
+## Installing drivers for Windows, AMD, and NVIDIA
+
+[Snappy Driver Installer(SDI) Origin](https://www.snappy-driver-installer.org) is a portable Windows tool to install and update device drivers. It can be used offline to install drivers where Internet isn't available. No more searching for drivers after a clean install of Windows 10/11.
+
+[Radeon Software Slimmer](https://github.com/GSDragoon/RadeonSoftwareSlimmer) is a utility to trim down the bloat with Radeon Software for AMD GPUs on Microsoft Windows.
+
+[NVCleanstall](https://www.techpowerup.com/nvcleanstall/) is a tool that lets you customize the NVIDIA GeForce Driver package by removing components that you don't need (or want). This not only keeps things tidy, but also lowers disk usage and memory footprint.
+
+[OpenRGB](https://openrgb.org/) is an open source RGB lighting control tool that doesn't depend on manufacturer software.  This includes ASUS Aura, ASRock, Corsair, G.Skill, Gigabyte, HyperX, MSI, Razer Synapse, ThermalTake, RGB Fusion, iCue, Mystic Light, Alienware AlienFX, Logitech G Hub, and any other RGB app. OpenRGB has support for Windows, Linux, MacOS(Apple Silicon ARM64 and Intel). 
+
+[OpenRGB SDK](https://gitlab.com/CalcProgrammer1/OpenRGB/-/wikis/OpenRGB-SDK-Documentation) is a network-based Software Development Kit, which allows third-party software to control all of your RGB. This allows for game integrations, music visualization, ambient lighting, and anything else you can imagine. SDK bindings are available for multiple programming languages including C++, Python, C#, Java, and more. 
 
 # Getting Software
 
