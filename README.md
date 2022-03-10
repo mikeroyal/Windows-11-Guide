@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://user-images.githubusercontent.com/45159366/110880075-e6908880-8292-11eb-86f0-6b06dd159e01.png">
+ <img src="https://user-images.githubusercontent.com/45159366/157766718-1d0780da-cfdf-4dd9-9cf6-d2a5cce3e57d.gif">
   <br />
   Windows 11 Guide
 </h1>
@@ -222,7 +222,7 @@
 
 [Start11](https://www.stardock.com/products/start11/) is a tool designed to bring menus back from Windows 7/10 to Windows 11.
 
-[ThisIsWin11](https://github.com/builtbybel/ThisIsWin11) is a tool which helps you set up and customize Windows 11.
+[ThisIsWin11](https://github.com/builtbybel/ThisIsWin11) is a tool which helps you set up and customize Windows 11. Created by [Builtbybel](https://twitter.com/builtbybel).
 
 [Live Tiles Anywhere](https://www.reddit.com/r/windows/comments/q18fq7/live_tiles_anywhere_create_custom_live_tiles_for/) is a tool that brings a new way of thinking and using Windows Live Tiles, this is Live Tiles Anywhere. LTA is the first app that allows you to create not only working custom Live Tiles, but also add Live Tiles as widgets on your Desktop.
 
@@ -237,6 +237,8 @@
 [Twinkle Tray](https://twinkletray.com/) is a tool that lets you easily manage the brightness levels of multiple monitors. This app adds a new icon into your system tray, where you can click to have instant access to the brightness levels of all compatible monitors. 
 
 [Microsoft PowerToys](https://docs.microsoft.com/en-us/windows/powertoys/) is a set of utilities for power users to tune and streamline their Windows 10 experience for greater productivity. To get more information on [PowerToys](https://docs.microsoft.com/windows/powertoys/), or any other tools and resources for [Windows development environments](https://docs.microsoft.com/windows/dev-environment/overview), go to [docs.microsoft.com](https://docs.microsoft.com/windows/powertoys/).
+
+[TweakUIX](https://github.com/builtbybel/TweakUIX) is a PowerToys/Tweak UI Replica created by [Builtbybel](https://twitter.com/builtbybel).
 
 [Winaero Tweaker](https://winaero.com/winaero-tweaker/) is an all-in-one application that comes with dozens of options for fine-grained tuning of various Windows settings and features.
 
