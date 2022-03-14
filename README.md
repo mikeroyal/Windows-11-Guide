@@ -223,7 +223,7 @@
 
 [ViVe](https://github.com/thebookisclosed/ViVe) is a C# library you can use to make your own programs that interact with Windows 10/11's A/B feature mechanism.
 
-p align="center">
+<p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/158266474-688046df-c708-4273-87c7-b057378838ef.png">
   <br />
  Vive
