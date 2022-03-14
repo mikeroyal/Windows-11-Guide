@@ -18,9 +18,15 @@
 1. [Getting Started](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#getting-started)
 
       - [Windows 11 Desktop](https://github.com/mikeroyal/Windows-11-Guide#Windows-11-Desktop)
+      - 
       - [Creating a Local Account on Windows 11 Home and Pro](https://github.com/mikeroyal/Windows-11-Guide#Creating-a-Local-Account-on-Windows-11-Home-and-Pro)
+      - 
       - [Ways to Customize Windows 11 Look and Feel](https://github.com/mikeroyal/Windows-11-Guide#Ways-to-Customize-Windows-11-Look-and-Feel)
+      - 
       - [Installing drivers for Windows, AMD, and NVIDIA the easy way](https://github.com/mikeroyal/Windows-11-Guide#installing-drivers-for-windows-amd-and-nvidia)
+      - [Microsoft Office Alternatives](https://github.com/mikeroyal/Windows-11-Guide#microsoft-office-alternatives)
+      
+      - [Secure & Privacy-focused Web Browsers](https://github.com/mikeroyal/Windows-11-Guide#secure--privacyfocused-web-browsers)
 
 2. [Getting Software](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#getting-software)
 
@@ -257,13 +263,98 @@
 
 [Snappy Driver Installer(SDI) Origin](https://www.snappy-driver-installer.org) is a portable Windows tool to install and update device drivers. It can be used offline to install drivers where Internet isn't available. No more searching for drivers after a clean install of Windows 10/11.
 
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/158266415-3d675f1d-5fd0-4671-8713-763a6e1fe397.png">
+  <br />
+  Snappy Driver Installer(SDI) Origin
+</p>
+
 [Radeon Software Slimmer](https://github.com/GSDragoon/RadeonSoftwareSlimmer) is a utility to trim down the bloat with Radeon Software for AMD GPUs on Microsoft Windows.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/158266424-0f312284-e0a4-4736-bdea-381924b1d5e7.png">
+  <br />
+  Radeon Software Slimmer UI
+</p>
 
 [NVCleanstall](https://www.techpowerup.com/nvcleanstall/) is a tool that lets you customize the NVIDIA GeForce Driver package by removing components that you don't need (or want). This not only keeps things tidy, but also lowers disk usage and memory footprint.
 
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/158266427-8c27071f-a131-4186-b299-7ce3bd619020.png">
+  <br />
+  NVCleanstall UI
+</p>
+
 [OpenRGB](https://openrgb.org/) is an open source RGB lighting control tool that doesn't depend on manufacturer software.  This includes ASUS Aura, ASRock, Corsair, G.Skill, Gigabyte, HyperX, MSI, Razer Synapse, ThermalTake, RGB Fusion, iCue, Mystic Light, Alienware AlienFX, Logitech G Hub, and any other RGB app. OpenRGB has support for Windows, Linux, MacOS(Apple Silicon ARM64 and Intel). 
 
-[OpenRGB SDK](https://gitlab.com/CalcProgrammer1/OpenRGB/-/wikis/OpenRGB-SDK-Documentation) is a network-based Software Development Kit, which allows third-party software to control all of your RGB. This allows for game integrations, music visualization, ambient lighting, and anything else you can imagine. SDK bindings are available for multiple programming languages including C++, Python, C#, Java, and more. 
+<p align="center">
+ <img src="ttps://user-images.githubusercontent.com/45159366/158266446-338527b6-bc26-48a5-a09b-0b80546ac1ae.PNG">
+  <br />
+  OpenRGB Device View
+</p>
+
+[OpenRGB SDK](https://gitlab.com/CalcProgrammer1/OpenRGB/-/wikis/OpenRGB-SDK-Documentation) is a network-based Software Development Kit, which allows third-party software to control all of your RGB. This allows for game integrations, music visualization, ambient lighting, and anything else you can imagine. SDK bindings are available for multiple programming languages including C++, Python, C#, Java, and more.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/158266439-b7c9fcb1-af89-4af2-921f-1272283ccf0b.png">
+  <br />
+  OpenRGB UI
+</p>
+
+## Microsoft Office Alternatives
+[Back to the Top](https://github.com/mikeroyal/Windows-11-Guide#table-of-contents)
+
+[OnlyOffice](https://www.onlyoffice.com/) is a secure offline/online office suite highly compatible with MS Office formats  for Windows, Mac and Linux.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/158266342-b3c06806-d2ca-4525-8e80-bcf08d468d55.png">
+  <br />
+  OnlyOffice
+</p>
+
+[FreeOffice](https://www.freeoffice.com/) is a secure office suite highly compatible with MS Office formats for Windows, Mac and Linux.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/158266331-321a1004-14cb-473f-a01f-9a9a6e67623a.png">
+  <br />
+  FreeOffice
+</p>
+
+[LibreOffice](https://www.libreoffice.org/) is a free and open-source office productivity software suite similar to Microsoft Office.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/158266358-562b324e-1842-4311-bf9f-44b190fdb61d.png">
+  <br />
+  LibreOffice
+</p>
+
+
+## Privacy Focused Web Browsers
+[Back to the Top](https://github.com/mikeroyal/Windows-11-Guide#table-of-contents)
+
+[Mozilla Firefox](https://www.mozilla.org/firefox/) is a free and open-source web browser developed by the Mozilla Foundation.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/158266387-04609c3f-1324-4c21-9186-5ed338835260.png">
+  <br />
+  Firefox
+</p>
+
+[Brave](https://brave.com/) is a fast, private and secure web browser for PC, Mac and mobile. It comes with [Brave Search](https://brave.com/search/), which is a private search engine that puts you first, not big tech for those that don't want to use Google Search.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/158266393-8891913c-5acd-4a3a-98cf-ce214282126d.png">
+  <br />
+  Brave
+</p>
+
+[Vivaldi](https://vivaldi.com/) is a fast, private and secure web browser for PC, Mac and mobile. It comes with built-in features like Notes, Screen Capture, Image Properties and (a lot) more.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/158266396-25f48ceb-9868-4d8f-80a3-30bbd0bbf092.png">
+  <br />
+  Vivaldi
+</p>
 
 # Getting Software
 
