@@ -18,14 +18,11 @@
 1. [Getting Started](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#getting-started)
 
       - [Windows 11 Desktop](https://github.com/mikeroyal/Windows-11-Guide#Windows-11-Desktop)
-      - 
       - [Creating a Local Account on Windows 11 Home and Pro](https://github.com/mikeroyal/Windows-11-Guide#Creating-a-Local-Account-on-Windows-11-Home-and-Pro)
-      - 
       - [Ways to Customize Windows 11 Look and Feel](https://github.com/mikeroyal/Windows-11-Guide#Ways-to-Customize-Windows-11-Look-and-Feel)
-      - 
+      - [Cleaning up your Windows 11 Desktop](https://github.com/mikeroyal/Windows-11-Guide#cleaning-up-your-windows-11-desktop)
       - [Installing drivers for Windows, AMD, and NVIDIA the easy way](https://github.com/mikeroyal/Windows-11-Guide#installing-drivers-for-windows-amd-and-nvidia)
       - [Microsoft Office Alternatives](https://github.com/mikeroyal/Windows-11-Guide#microsoft-office-alternatives)
-      
       - [Secure & Privacy-focused Web Browsers](https://github.com/mikeroyal/Windows-11-Guide#secure--privacyfocused-web-browsers)
 
 2. [Getting Software](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#getting-software)
@@ -91,6 +88,8 @@
 [Getting started with your new Windows 11 PC](https://www.microsoft.com/en-us/windows/windows-11)
 
 [Windows 11 Installation Assistant](https://www.microsoft.com/en-us/software-download/windows11)
+
+[Update to Windows Subsystem for Android™ on Windows 11](https://blogs.windows.com/windows-insider/2022/03/08/update-to-windows-subsystem-for-android-on-windows-11-for-windows-insiders/)
 
 [Getting Started with the DirectX 12 Agility SDK](https://devblogs.microsoft.com/directx/gettingstarted-dx12agility/)
 
@@ -222,13 +221,19 @@
 ## Ways to Customize Windows 11 Look and Feel
 [Back to the Top](https://github.com/mikeroyal/Windows-11-Guide#table-of-contents)
 
+[ViVe](https://github.com/thebookisclosed/ViVe) is a C# library you can use to make your own programs that interact with Windows 10/11's A/B feature mechanism.
+
+p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/158266474-688046df-c708-4273-87c7-b057378838ef.png">
+  <br />
+ Vive
+</p>
+
 [Files](https://github.com/files-community/Files) is a file manager for Windows with a powerful yet intuitive design. It has features like multiple tabs, panes, columns, shell extensions in the context menu and tags.
 
 [StartAllBack](https://startallback.com/) is a tool that restores the taskbar, start menu, context menus, explorer, style and order back to the Windows 7 & 10 style.
 
 [Start11](https://www.stardock.com/products/start11/) is a tool designed to bring menus back from Windows 7/10 to Windows 11.
-
-[ThisIsWin11](https://github.com/builtbybel/ThisIsWin11) is a tool which helps you set up and customize Windows 11. Created by [Builtbybel](https://twitter.com/builtbybel).
 
 [Live Tiles Anywhere](https://www.reddit.com/r/windows/comments/q18fq7/live_tiles_anywhere_create_custom_live_tiles_for/) is a tool that brings a new way of thinking and using Windows Live Tiles, this is Live Tiles Anywhere. LTA is the first app that allows you to create not only working custom Live Tiles, but also add Live Tiles as widgets on your Desktop.
 
@@ -248,8 +253,6 @@
 
 [Winaero Tweaker](https://winaero.com/winaero-tweaker/) is an all-in-one application that comes with dozens of options for fine-grained tuning of various Windows settings and features.
 
-[Ultimate Windows Toolbox by Chris Titus Tech](https://github.com/ChrisTitusTech/win10script) is the Ultimate Windows 10 & 11 Script from a creation from multiple debloat scripts and gists from github. This script is designed to be a swiss army knife of Windows tools to help setup and optimize machines.
-
 [QTTab Bar](https://indiff.github.io/qttabbar/) is a simple utility that will enable you to operate files and folders like tab browser folder grouping, and histories for Windows Explorer in Windows 10/11. 
 
 [Ear Trumpet](https://eartrumpet.app/) is a powerful volume control app for Windows 10/11 providing a system tray utility that gives you volume levels for every app and the ability to set custom inputs and outputs for those apps.
@@ -257,6 +260,25 @@
 [Wallpaper Engine](https://store.steampowered.com/app/431960/Wallpaper_Engine/) is a tool enables you to use live wallpapers on your Windows desktop. Various types of animated wallpapers are supported, including 3D and 2D animations, websites, videos and even certain applications. 
 
 [Lively Wallpaper](https://lively-wallpaper.com/) is a Windows application designed to turn GIFs, games, and videos into animated wallpapers. 
+
+## Cleaning up your Windows 11 Desktop
+[Back to the Top](https://github.com/mikeroyal/Windows-11-Guide#table-of-contents)
+
+[Ultimate Windows Toolbox by Chris Titus Tech](https://github.com/ChrisTitusTech/win10script) is the Ultimate Windows 10 & 11 Script from a creation from multiple debloat scripts and gists from github. This script is designed to be a swiss army knife of Windows tools to help setup and optimize machines.
+
+**Paste this command into Powershell (admin):**
+
+```iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/JJ8R4'))```
+
+[![The Ultimate Windows Utility Upgrade | Chris Titus Tech YouTube](https://img.youtube.com/watch?v=dKM8ZScbic8-Y/0.jpg)](https://www.youtube.com/watch?v=dKM8ZScbic8-Y "The Ultimate Windows Utility Upgrade")
+
+[ThisIsWin11](https://github.com/builtbybel/ThisIsWin11) is a tool which helps you set up and customize Windows 11. Created by [Builtbybel](https://twitter.com/builtbybel).
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/158269020-6157e460-0636-468a-82b4-dace91e9a739.png">
+  <br />
+  
+</p>
 
 ## Installing drivers for Windows, AMD, and NVIDIA
 [Back to the Top](https://github.com/mikeroyal/Windows-11-Guide#table-of-contents)
@@ -288,18 +310,13 @@
 [OpenRGB](https://openrgb.org/) is an open source RGB lighting control tool that doesn't depend on manufacturer software.  This includes ASUS Aura, ASRock, Corsair, G.Skill, Gigabyte, HyperX, MSI, Razer Synapse, ThermalTake, RGB Fusion, iCue, Mystic Light, Alienware AlienFX, Logitech G Hub, and any other RGB app. OpenRGB has support for Windows, Linux, MacOS(Apple Silicon ARM64 and Intel). 
 
 <p align="center">
- <img src="ttps://user-images.githubusercontent.com/45159366/158266446-338527b6-bc26-48a5-a09b-0b80546ac1ae.PNG">
+ <img src="https://user-images.githubusercontent.com/45159366/158266439-b7c9fcb1-af89-4af2-921f-1272283ccf0b.png">
   <br />
   OpenRGB Device View
 </p>
 
 [OpenRGB SDK](https://gitlab.com/CalcProgrammer1/OpenRGB/-/wikis/OpenRGB-SDK-Documentation) is a network-based Software Development Kit, which allows third-party software to control all of your RGB. This allows for game integrations, music visualization, ambient lighting, and anything else you can imagine. SDK bindings are available for multiple programming languages including C++, Python, C#, Java, and more.
 
-<p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/158266439-b7c9fcb1-af89-4af2-921f-1272283ccf0b.png">
-  <br />
-  OpenRGB UI
-</p>
 
 ## Microsoft Office Alternatives
 [Back to the Top](https://github.com/mikeroyal/Windows-11-Guide#table-of-contents)
