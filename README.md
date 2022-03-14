@@ -23,7 +23,7 @@
       - [Cleaning up your Windows 11 Desktop](https://github.com/mikeroyal/Windows-11-Guide#cleaning-up-your-windows-11-desktop)
       - [Installing drivers for Windows, AMD, and NVIDIA the easy way](https://github.com/mikeroyal/Windows-11-Guide#installing-drivers-for-windows-amd-and-nvidia)
       - [Microsoft Office Alternatives](https://github.com/mikeroyal/Windows-11-Guide#microsoft-office-alternatives)
-      - [Secure & Privacy-focused Web Browsers](https://github.com/mikeroyal/Windows-11-Guide#secure--privacyfocused-web-browsers)
+      - [Secure & Privacy-focused Web Browsers](https://github.com/mikeroyal/Windows-11-Guide#secure--privacy-focused-web-browsers)
 
 2. [Getting Software](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#getting-software)
 
@@ -346,7 +346,7 @@
 </p>
 
 
-## Privacy Focused Web Browsers
+## Secure & Privacy Focused Web Browsers
 [Back to the Top](https://github.com/mikeroyal/Windows-11-Guide#table-of-contents)
 
 [Mozilla Firefox](https://www.mozilla.org/firefox/) is a free and open-source web browser developed by the Mozilla Foundation.
