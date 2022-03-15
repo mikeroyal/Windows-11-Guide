@@ -20,7 +20,6 @@
       - [Windows 11 Desktop](https://github.com/mikeroyal/Windows-11-Guide#windows-11-desktop)
       - [Bypass Windows 11's TPM, CPU and RAM Requirements](https://github.com/mikeroyal/Windows-11-Guide#bypass-Windows-11-requirements)
       - [Creating a Local Account on Windows 11 Home and Pro](https://github.com/mikeroyal/Windows-11-Guide#Creating-a-Local-Account-on-Windows-11-Home-and-Pro)
-      - [Cleaning up your Windows 11 Desktop](https://github.com/mikeroyal/Windows-11-Guide#cleaning-up-your-windows-11-desktop)
       - [Ways to Customize Windows 11 Look and Feel](https://github.com/mikeroyal/Windows-11-Guide#Ways-to-Customize-Windows-11-Look-and-Feel)
       - [Installing drivers for Windows, AMD, and NVIDIA the easy way](https://github.com/mikeroyal/Windows-11-Guide#installing-drivers-for-windows-amd-and-nvidia)
       - [Microsoft Office Alternatives](https://github.com/mikeroyal/Windows-11-Guide#microsoft-office-alternatives)
@@ -255,6 +254,24 @@
 ## Ways to Customize Windows 11 Look and Feel
 [Back to the Top](https://github.com/mikeroyal/Windows-11-Guide#table-of-contents)
 
+[ThisIsWin11](https://github.com/builtbybel/ThisIsWin11) is a tool which helps you set up and customize Windows 11. Created by [Builtbybel](https://twitter.com/builtbybel).
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/158269020-6157e460-0636-468a-82b4-dace91e9a739.png">
+  <br />
+</p>
+
+[Ultimate Windows Toolbox by Chris Titus Tech](https://github.com/ChrisTitusTech/win10script) is the Ultimate Windows 10 & 11 Script from a creation from multiple debloat scripts and gists from github. This script is designed to be a swiss army knife of Windows tools to help setup and optimize machines. [![The Ultimate Windows Utility Upgrade | Chris Titus Tech YouTube.](https://img.youtube.com/watch?v=dKM8ZScbic8-Y/0.jpg)](https://www.youtube.com/watch?v=dKM8ZScbic8-Y "The Ultimate Windows Utility Upgrade")
+
+**Paste this command into Powershell (admin):**
+
+```iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/JJ8R4'))```
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/158462889-630efef2-c213-4d62-8398-a77d0fb40642.png">
+  <br />
+</p>
+
 [ViVe](https://github.com/thebookisclosed/ViVe) is a C# library you can use to make your own programs that interact with Windows 10/11's A/B feature mechanism.
 
 <p align="center">
@@ -294,27 +311,6 @@
 [Wallpaper Engine](https://store.steampowered.com/app/431960/Wallpaper_Engine/) is a tool enables you to use live wallpapers on your Windows desktop. Various types of animated wallpapers are supported, including 3D and 2D animations, websites, videos and even certain applications. 
 
 [Lively Wallpaper](https://lively-wallpaper.com/) is a Windows application designed to turn GIFs, games, and videos into animated wallpapers. 
-
-## Cleaning up your Windows 11 Desktop
-[Back to the Top](https://github.com/mikeroyal/Windows-11-Guide#table-of-contents)
-
-[Ultimate Windows Toolbox by Chris Titus Tech](https://github.com/ChrisTitusTech/win10script) is the Ultimate Windows 10 & 11 Script from a creation from multiple debloat scripts and gists from github. This script is designed to be a swiss army knife of Windows tools to help setup and optimize machines. [![The Ultimate Windows Utility Upgrade | Chris Titus Tech YouTube](https://img.youtube.com/watch?v=dKM8ZScbic8-Y/0.jpg)](https://www.youtube.com/watch?v=dKM8ZScbic8-Y "The Ultimate Windows Utility Upgrade")
-
-**Paste this command into Powershell (admin):**
-
-```iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/JJ8R4'))```
-
-<p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/158462889-630efef2-c213-4d62-8398-a77d0fb40642.png">
-  <br />
-</p>
-
-[ThisIsWin11](https://github.com/builtbybel/ThisIsWin11) is a tool which helps you set up and customize Windows 11. Created by [Builtbybel](https://twitter.com/builtbybel).
-
-<p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/158269020-6157e460-0636-468a-82b4-dace91e9a739.png">
-  <br />
-</p>
 
 ## Installing drivers for Windows, AMD, and NVIDIA
 [Back to the Top](https://github.com/mikeroyal/Windows-11-Guide#table-of-contents)
