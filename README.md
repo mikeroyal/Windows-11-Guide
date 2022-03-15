@@ -17,10 +17,11 @@
 
 1. [Getting Started](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#getting-started)
 
-      - [Windows 11 Desktop](https://github.com/mikeroyal/Windows-11-Guide#Windows-11-Desktop)
+      - [Windows 11 Desktop](https://github.com/mikeroyal/Windows-11-Guide#windows-11-desktop)
+      - [Bypass Windows 11's TPM, CPU and RAM Requirements](https://github.com/mikeroyal/Windows-11-Guide#bypass-Windows-11-requirements)
       - [Creating a Local Account on Windows 11 Home and Pro](https://github.com/mikeroyal/Windows-11-Guide#Creating-a-Local-Account-on-Windows-11-Home-and-Pro)
-      - [Ways to Customize Windows 11 Look and Feel](https://github.com/mikeroyal/Windows-11-Guide#Ways-to-Customize-Windows-11-Look-and-Feel)
       - [Cleaning up your Windows 11 Desktop](https://github.com/mikeroyal/Windows-11-Guide#cleaning-up-your-windows-11-desktop)
+      - [Ways to Customize Windows 11 Look and Feel](https://github.com/mikeroyal/Windows-11-Guide#Ways-to-Customize-Windows-11-Look-and-Feel)
       - [Installing drivers for Windows, AMD, and NVIDIA the easy way](https://github.com/mikeroyal/Windows-11-Guide#installing-drivers-for-windows-amd-and-nvidia)
       - [Microsoft Office Alternatives](https://github.com/mikeroyal/Windows-11-Guide#microsoft-office-alternatives)
       - [Secure & Privacy-focused Web Browsers](https://github.com/mikeroyal/Windows-11-Guide#secure--privacy-focused-web-browsers)
@@ -169,6 +170,33 @@
 
 **Easily snap the layout of your Desktop Apps on Windows 11. Source: [Microsoft](https://www.microsoft.com/en-us/windows/windows-11)**
 
+## Bypass Windows 11 Requirements
+[Back to the Top](https://github.com/mikeroyal/Windows-11-Guide#table-of-contents)
+
+**Note 1: Before performing any upgrade to your system make sure to do a full backup of your system in case anything happens during the upgrade process!**
+
+**Note 2: Some anti-cheat software for video games(like Valorant) will require TPM, Secure Boot on Windows 11.**
+
+[Ways to install Windows 11 on Unsupported hardware | Microsoft Support](https://support.microsoft.com/en-us/windows/ways-to-install-windows-11-e0edbbfb-cfc5-4011-868b-2ce77ac7c70e)
+
+[Fido](https://github.com/pbatard/Fido) is a PowerShell script that is primarily designed to be used in [Rufus](https://github.com/pbatard/rufus), but that can also be used in standalone fashion, and whose purpose is to automate access to the official Microsoft Windows retail ISO download links as well as provide convenient access to bootable UEFI Shell images.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/158462895-de225258-79a0-4c85-8a4f-f3ffd13c2c3d.png">
+  <br />
+  Fido
+</p>
+
+**OR**
+
+[Rufus](https://rufus.ie/) is a utility that helps format and create bootable USB flash drives.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/158462905-78bf121c-417d-40a6-a87c-6ad0dce92a14.png">
+  <br />
+  Rufus
+</p>
+
 ## Creating a Local Account on Windows 11 Home and Pro
 [Back to the Top](https://github.com/mikeroyal/Windows-11-Guide#table-of-contents)
 
@@ -270,20 +298,22 @@
 ## Cleaning up your Windows 11 Desktop
 [Back to the Top](https://github.com/mikeroyal/Windows-11-Guide#table-of-contents)
 
-[Ultimate Windows Toolbox by Chris Titus Tech](https://github.com/ChrisTitusTech/win10script) is the Ultimate Windows 10 & 11 Script from a creation from multiple debloat scripts and gists from github. This script is designed to be a swiss army knife of Windows tools to help setup and optimize machines.
+[Ultimate Windows Toolbox by Chris Titus Tech](https://github.com/ChrisTitusTech/win10script) is the Ultimate Windows 10 & 11 Script from a creation from multiple debloat scripts and gists from github. This script is designed to be a swiss army knife of Windows tools to help setup and optimize machines. [![The Ultimate Windows Utility Upgrade | Chris Titus Tech YouTube](https://img.youtube.com/watch?v=dKM8ZScbic8-Y/0.jpg)](https://www.youtube.com/watch?v=dKM8ZScbic8-Y "The Ultimate Windows Utility Upgrade")
 
 **Paste this command into Powershell (admin):**
 
 ```iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/JJ8R4'))```
 
-[![The Ultimate Windows Utility Upgrade | Chris Titus Tech YouTube](https://img.youtube.com/watch?v=dKM8ZScbic8-Y/0.jpg)](https://www.youtube.com/watch?v=dKM8ZScbic8-Y "The Ultimate Windows Utility Upgrade")
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/158462889-630efef2-c213-4d62-8398-a77d0fb40642.png">
+  <br />
+</p>
 
 [ThisIsWin11](https://github.com/builtbybel/ThisIsWin11) is a tool which helps you set up and customize Windows 11. Created by [Builtbybel](https://twitter.com/builtbybel).
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/158269020-6157e460-0636-468a-82b4-dace91e9a739.png">
   <br />
-  
 </p>
 
 ## Installing drivers for Windows, AMD, and NVIDIA
