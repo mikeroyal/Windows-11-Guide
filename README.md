@@ -355,7 +355,7 @@
 [OnlyOffice](https://www.onlyoffice.com/) is a secure offline/online office suite highly compatible with MS Office formats  for Windows, Mac and Linux.
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/158470264-f01e9d50-6f4b-414c-9541-8e2de07f893a.png">
+ <img src="https://user-images.githubusercontent.com/45159366/158472597-9ca73786-4e28-497f-9c6d-0a0040e8c3da.png">
   <br />
   OnlyOffice
 </p>
