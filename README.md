@@ -181,7 +181,7 @@
 [Fido](https://github.com/pbatard/Fido) is a PowerShell script that is primarily designed to be used in [Rufus](https://github.com/pbatard/rufus), but that can also be used in standalone fashion, and whose purpose is to automate access to the official Microsoft Windows retail ISO download links as well as provide convenient access to bootable UEFI Shell images.
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/158462895-de225258-79a0-4c85-8a4f-f3ffd13c2c3d.png">
+ <img src="https://user-images.githubusercontent.com/45159366/158471944-242c2dba-e40a-4802-9a34-e767e14d1c18.png">
   <br />
   Fido
 </p>
@@ -191,7 +191,7 @@
 [Rufus](https://rufus.ie/) is a utility that helps format and create bootable USB flash drives.
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/158462905-78bf121c-417d-40a6-a87c-6ad0dce92a14.png">
+ <img src="https://user-images.githubusercontent.com/45159366/158471950-74640216-66ed-407b-a615-e643284ba0b8.png">
   <br />
   Rufus
 </p>
@@ -277,7 +277,6 @@
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/158266474-688046df-c708-4273-87c7-b057378838ef.png">
   <br />
- Vive
 </p>
 
 [Files](https://github.com/files-community/Files) is a file manager for Windows with a powerful yet intuitive design. It has features like multiple tabs, panes, columns, shell extensions in the context menu and tags.
@@ -326,7 +325,7 @@
 [Radeon Software Slimmer](https://github.com/GSDragoon/RadeonSoftwareSlimmer) is a utility to trim down the bloat with Radeon Software for AMD GPUs on Microsoft Windows.
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/158266424-0f312284-e0a4-4736-bdea-381924b1d5e7.png">
+ <img src="https://user-images.githubusercontent.com/45159366/158469181-d31fabff-c75c-4e4e-92c8-e0a5ea37cbac.png">
   <br />
   Radeon Software Slimmer UI
 </p>
@@ -334,7 +333,7 @@
 [NVCleanstall](https://www.techpowerup.com/nvcleanstall/) is a tool that lets you customize the NVIDIA GeForce Driver package by removing components that you don't need (or want). This not only keeps things tidy, but also lowers disk usage and memory footprint.
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/158266427-8c27071f-a131-4186-b299-7ce3bd619020.png">
+ <img src="https://user-images.githubusercontent.com/45159366/158471956-9a6d5225-f27e-4096-a36f-8c0c72437e7e.png">
   <br />
   NVCleanstall UI
 </p>
@@ -356,7 +355,7 @@
 [OnlyOffice](https://www.onlyoffice.com/) is a secure offline/online office suite highly compatible with MS Office formats  for Windows, Mac and Linux.
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/158266342-b3c06806-d2ca-4525-8e80-bcf08d468d55.png">
+ <img src="https://user-images.githubusercontent.com/45159366/158470264-f01e9d50-6f4b-414c-9541-8e2de07f893a.png">
   <br />
   OnlyOffice
 </p>
@@ -372,7 +371,7 @@
 [LibreOffice](https://www.libreoffice.org/) is a free and open-source office productivity software suite similar to Microsoft Office.
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/158266358-562b324e-1842-4311-bf9f-44b190fdb61d.png">
+ <img src="https://user-images.githubusercontent.com/45159366/158470268-2834d32d-72ef-4e5e-8cd6-02db51a5dcfa.png">
   <br />
   LibreOffice
 </p>
