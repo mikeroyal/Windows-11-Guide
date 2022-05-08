@@ -35,59 +35,74 @@
    - [Game Emulators](https://github.com/mikeroyal/Windows-11-Guide#game-emulators)
    - [Performance Benchmarks](https://github.com/mikeroyal/Windows-11-Guide#performance-benchmarks)
 
-4. [Game Development](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#game-development)
+4. [Windows Subsystem for Android (WSA)](https://github.com/mikeroyal/Windows-11-Guide#windows-subsystem-for-android-wsa)
 
-5. [Setting up a macOS Workspace](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#setting-up-a-macos-workspace)
+   - [Getting started with Windows Subsystem for Android](https://github.com/mikeroyal/Windows-11-Guide#getting-started-with-windows-subsystem-for-android)
+   - [Windows Subsystem for Android Settings](https://github.com/mikeroyal/Windows-11-Guide#windows-subsystem-for-android-settings)
 
-6. [Using Android and Android Apps on Windows 11](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#using-android-and-android-apps-on-windows-11)
+5. [Windows Subsystem for Linux (WSL)](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#windows-subsystem-for-linux-wsl)
+  
+    - [WSL Learning Resources](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#wsl-learning-resources)
+    - [WSL Tools and Projects](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#wsl-tools--projects)
+    - [Setting up WSL Linux Distributions](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#setting-up-wsl-linux-distributions)
 
-7. [Professional Audio/Video Editing](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#professional-audio--video-editing)
+6. [Windows Terminal](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#windows-terminal)
 
-8. [3D Graphics and Design](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#3d-graphics-and-design)
+7. [VSCode](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#vscode)
 
-9. [Kubernetes](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#kubernetes)
+    - [VS Code Extensions for Developer Productivity](https://github.com/mikeroyal/Windows-Terminal-Guide#VS-Code-Extensions-for-Developer-Productivity)
 
-10. [Machine Learning](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#machine-learning)
+8. [Game Development](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#game-development)
 
-11. [Robotics](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#robotics)
+9. [Setting up a macOS Workspace](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#setting-up-a-macos-workspace)
 
-12. [Open Source Security](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#open-source-security)
+10. [Using Android and Android Apps on Windows 11](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#using-android-and-android-apps-on-windows-11)
 
-13. [Differential Privacy](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#differential-privacy)
+11. [Professional Audio/Video Editing](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#professional-audio--video-editing)
 
-14. [DevOps](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#devops)
+12. [3D Graphics and Design](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#3d-graphics-and-design)
 
-15. [Windows Subsystem for Linux (WSL)](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#windows-subsystem-for-linux-wsl)
+13. [Kubernetes](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#kubernetes)
 
-16. [.NET Development](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#net-development)
+14. [Machine Learning](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#machine-learning)
 
-17. [C# Development](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#c-development)
+15. [Robotics](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#robotics)
 
-18. [F# Development](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#f-development)
+16. [Open Source Security](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#open-source-security)
 
-19. [PowerShell Development](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#powershell-development)
+17. [Differential Privacy](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#differential-privacy)
 
-20. [TypeScript Development](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#typescript-development)
+18. [DevOps](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#devops)
 
-21. [React Native Development](https://github.com/mikeroyal/Windows-11-Guide#react-native-development)
+19. [.NET Development](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#net-development)
 
-22. [ElectronJS Development](https://github.com/mikeroyal/Windows-11-Guide#electron-development)
+20. [C# Development](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#c-development)
 
-23. [C/C++ Development](https://github.com/mikeroyal/Windows-11-Guide#cc-development)
+21. [F# Development](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#f-development)
 
-24. [Java Development](https://github.com/mikeroyal/Windows-11-Guide#java-development)
+22. [PowerShell Development](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#powershell-development)
 
-25. [Python Development](https://github.com/mikeroyal/Windows-11-Guide#python-development)
+23. [TypeScript Development](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#typescript-development)
 
-26. [Ruby Development](https://github.com/mikeroyal/Windows-11-Guide#ruby-development)
+24. [React Native Development](https://github.com/mikeroyal/Windows-11-Guide#react-native-development)
 
-27. [Flutter Development](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#flutter-development)
+25. [ElectronJS Development](https://github.com/mikeroyal/Windows-11-Guide#electron-development)
 
-28. [Node.js Development](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#nodejs-development)
+26. [C/C++ Development](https://github.com/mikeroyal/Windows-11-Guide#cc-development)
 
-29. [Networking](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#networking)
+27. [Java Development](https://github.com/mikeroyal/Windows-11-Guide#java-development)
 
-30. [Databases](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#databases)
+28. [Python Development](https://github.com/mikeroyal/Windows-11-Guide#python-development)
+
+29. [Ruby Development](https://github.com/mikeroyal/Windows-11-Guide#ruby-development)
+
+30. [Flutter Development](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#flutter-development)
+
+31. [Node.js Development](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#nodejs-development)
+
+32. [Networking](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#networking)
+
+33. [Databases](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#databases)
 
 # Getting Started
 
@@ -309,7 +324,7 @@
 
 [Wallpaper Engine](https://store.steampowered.com/app/431960/Wallpaper_Engine/) is a tool enables you to use live wallpapers on your Windows desktop. Various types of animated wallpapers are supported, including 3D and 2D animations, websites, videos and even certain applications. 
 
-[Lively Wallpaper](https://lively-wallpaper.com/) is a Windows application designed to turn GIFs, games, and videos into animated wallpapers. 
+[Lively Wallpaper](https://rocksdanister.github.io/lively/) is a Windows application designed to turn GIFs, games, and videos into animated wallpapers. 
 
 ## Installing drivers for Windows, AMD, and NVIDIA
 [Back to the Top](https://github.com/mikeroyal/Windows-11-Guide#table-of-contents)
@@ -569,6 +584,388 @@
 [UNIGINE Superposition](https://benchmark.unigine.com/superposition) is an extreme performance and stability test for PC hardware: video card, power supply, cooling system.
 
 <img src="https://user-images.githubusercontent.com/45159366/107092007-8f8d2480-67b7-11eb-9c3f-a0cb02e6dfcd.png">
+
+## Windows Subsystem for Android (WSA)
+
+[Back to the Top](https://github.com/mikeroyal/Windows-11-Guide#table-of-contents)
+
+[Windows Subsystem for Android (WSA)](https://docs.microsoft.com/en-us/windows/android/wsa/) is a tool that allows your device to run Android apps natively in Windows 11. This article explains how to set up WSA in Windows 11 to Run Android Apps. WSA runs as a virtual machine using [Hyper-V](https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/) and is based on [AOSP](https://source.android.com/) version 11. 
+
+As of now, WSA has some specific requirements. With time, some pre-requisites like Region would be eased. See the following requirements below:
+
+   - Your Device must be running Build 22000 or later meeting the requirements for Windows 11, including supported processors.
+
+   - The Computer must support virtualization and be enabled in BIOS/UEFI and Optional Features.
+
+   - The device must have at least 8GB of RAM and SSD as a Storage device. For WSA, a Hard drive is not supported.
+
+   - The Store version must be 22110.1402.6.0 or higher. Go to Store Library to update.
+
+   - The PC's Region and Amazon account you plan to use must be US-based.
+
+   - Your PC must be in Windows Insider Program Beta Channel.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/167318108-d9cbaae2-d247-4fe5-ba8f-86b288afe151.png">
+</p>
+
+   
+### Getting started with Windows Subsystem for Android
+
+[Back to the Top](https://github.com/mikeroyal/Windows-11-Guide#table-of-contents)
+
+   - Open the Amazon App store from this [link](http://aka.ms/AmazonAppstore).
+
+   - Click Install. It would download Amazon AppStore and Windows subsystem for Android.
+
+   - When done, you would see the Windows subsystem for Android on your app list, together with Amazon AppStore.
+
+  -  Open the Amazon AppStore, and sign in with your US-based Amazon Account on the screen that shows.
+
+   - Locate your App in the catalogue and click Install.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/167318107-f68ac6d8-7aa2-468c-8dca-70683e2f6e78.png">
+</p>
+
+### Windows Subsystem for Android Settings
+
+[Back to the Top](https://github.com/mikeroyal/Windows-11-Guide#table-of-contents)
+
+There are also a bunch of Android Settings you can customize as well, which are as under.
+
+ - Files show the files which Apps download to the Device.
+
+ - Subsystem Screen reader helps accessibility wise, like screen reading on in Android apps you plan to run.
+
+ - Developer mode helps you to sideload an APK file manually using ADB.Checkout this [YouTube video](https://www.youtube.com/watch?v=2_LxsWa7JIg).
+ 
+ - If the Subsystem is selected As needed, no resources are used in the Background, so as a result, apps open slowly. If a continuous option is selected, resources continue to be used in the Background, and Apps open quickly.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/167318112-3b53ebce-5fa4-421c-9df6-d2fe35ec38fe.png">
+</p>
+
+
+# Windows Subsystem for Linux (WSL)
+
+[Back to the Top](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#table-of-contents)
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/146082215-7d80b8b7-4da6-4280-900d-4ce4cd30df7e.png">
+</p>
+
+<img src="https://user-images.githubusercontent.com/45159366/107585931-e6c63700-6bb3-11eb-8f25-f07f8ff05688.png">
+
+
+## WSL Learning Resources
+[Back to the Top](https://github.com/mikeroyal/Windows-11-Guide#table-of-contents)
+
+[WSL 2 Linux Kernel on GitHub](https://github.com/microsoft/WSL2-Linux-Kernel) is the source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2).
+
+[WSLConf](https://www.youtube.com/playlist?list=PLwFSk464RMxnZkvZ1HKrlNyj-s6Zq4fWe) is a community-initiated event on all things Windows Subsystem for Linux and WSL-related.
+
+[What is the Windows Subsystem for Linux?](https://docs.microsoft.com/en-us/windows/wsl/about)
+
+[Pro Windows Subsystem for Linux (WSL): Powerful Tools and Practices for Cross-Platform Development and Collaboration Book](https://www.amazon.com/Windows-Subsystem-Linux-Cross-Platform-Collaboration/dp/1484268725/ref=sr_1_1?dchild=1&keywords=Pro+Windows+Subsystem+for+Linux+%28WSL%29&qid=1614379171&s=digital-text&sr=1-1-catcorr)
+
+[Windows Subsystem for Linux 2 (WSL 2) Tips, Tricks, and Techniques Book](https://www.amazon.com/Windows-Subsystem-Linux-Tricks-Techniques-ebook/dp/B08K98C7DB/ref=sr_1_1?dchild=1&keywords=WSL+book&qid=1614379053&s=digital-text&sr=1-1)
+
+[Comparing WSL 2 and WSL 1 ](https://docs.microsoft.com/en-us/windows/wsl/compare-versions)
+
+[GPU accelerated machine learning training in the Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/tutorials/gpu-compute)
+
+[CUDA on Windows Subsystem for Linux(WSL) 2](https://developer.nvidia.com/blog/announcing-cuda-on-windows-subsystem-for-linux-2/)
+
+[Developing in Windows Subsystem for Linux (WSL)](https://code.visualstudio.com/docs/remote/wsl)
+
+[Using WSL 2 with Visual Studio Code](https://code.visualstudio.com/blogs/2019/09/03/wsl2)
+
+[WSLG: X11 and Wayland Applications in WSL](https://linuxplumbersconf.org/event/9/contributions/611/attachments/702/1298/XDC2020_-_X11_and_Wayland_applications_in_WSL.pdf)
+
+[How to run Podman on Windows with WSL 2](https://www.redhat.com/sysadmin/podman-windows-wsl2)
+
+[Create a development container in Visual Studio Code](https://code.visualstudio.com/docs/remote/create-dev-container)
+
+[Getting started with MySQL, MongoDB, PostgreSQL, SQLite, Microsoft SQL Server, or Redis to set up a database on WSL](https://docs.microsoft.com/en-us/windows/wsl/tutorials/wsl-database)
+
+[Setting up SAP HANA, express edition into WSL 2 (Windows Subsystem for Linux)](https://blogs.sap.com/2020/09/30/installing-sap-hana-express-edition-into-wsl2-windows-subsystem-for-linux/)
+
+[Set up your Node.js development environment with WSL 2](https://docs.microsoft.com/en-us/windows/nodejs/setup-on-wsl2)
+
+[Getting started mounting a Linux disk in WSL 2](https://docs.microsoft.com/en-us/windows/nodejs/setup-on-wsl2)
+
+[Using Fedora with Microsoft's WSL 2](https://fedoramagazine.org/wsl-fedora-33/)
+
+## WSL Tools & Projects
+[Back to the Top](https://github.com/mikeroyal/Windows-11-Guide#table-of-contents)
+
+[wslu](https://github.com/wslutilities/wslu) is a collection of utilities for Windows 10 Linux Subsystem, such as retrieving Windows 10 environment variables or creating your favorite Linux GUI application shortcuts on Windows 10 Desktop.
+
+[Ubuntu on WSL](https://wiki.ubuntu.com/WSL) is a wiki guide on getting started with the latest version of Ubuntu installed and setup on WSL for Windows 10.
+
+[Ubuntu on Windows Community Preview](https://www.microsoft.com/en-us/p/ubuntu-on-windows-community-preview/9p9q5zh1hrr0) is a special build of Ubuntu for WSL as a sandbox for testing new features and getting community feedback. This build is intended for early adopters in the WSL community.
+
+[Ubuntu Pro for Azure](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/canonical.0001-com-ubuntu-pro-focal?tab=Overview) is a premium image designed by Canonical optimized for production environments running on Azure. It includes security and compliance services, enabled by default, in a form suitable for small to large-scale Linux enterprise operations — with no contract needed.
+
+[Azure CLI](https://docs.microsoft.com/en-us/cli/azure/?view=azure-cli-latest) is a set of commands used to create and manage Azure resources. The Azure CLI is available across Azure services and is designed to get you working quickly with Azure, with an emphasis on automation.
+
+[Visual Studio Code Remote - WSL extension](https://code.visualstudio.com/docs/remote/wsl) lets you use the Windows Subsystem for Linux (WSL) as your full-time development environment right from VS Code. You can develop in a Linux-based environment, use Linux-specific toolchains and utilities, and run and debug your Linux-based applications all from the comfort of Windows. The extension runs commands and other extensions directly in WSL so you can edit files located in WSL or the mounted Windows filesystem (for example /mnt/c) without worrying about pathing issues, binary compatibility, or other cross-OS challenges.
+
+[Visual Studio Code Remote Development and GitHub Codespaces](https://github.com/Microsoft/vscode-dev-containers) is a  repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces. A development container is a running [Docker](https://www.docker.com/) container with a well-defined tool/runtime stack and its prerequisites. The [VS Code Remote Containers](https://aka.ms/vscode-remote/download/containers) extension allows you to clone a repository or open any folder mounted into (or already inside) a dev container and take advantage of VS Code's full development feature set. [GitHub Codespaces](https://github.com/features/codespaces) both use this same concept to quickly create customized, cloud-based development environments accessible from VS Code or the web.
+
+[Windows Terminal](https://github.com/microsoft/terminal) is a new, modern, feature-rich, productive terminal application for command-line users. It includes many of the features most frequently requested by the Windows command-line community including support for tabs, rich text, globalization, configurability, theming & styling, and more.
+
+[PowerShell Core](https://github.com/PowerShell/PowerShell) is a cross-platform (Windows, Linux, and macOS) automation and configuration tool/framework that works well with your existing tools and is optimized for dealing with structured data (e.g. JSON, CSV, XML, etc.), REST APIs, and object models. It includes a command-line shell, an associated scripting language and a framework for processing cmdlets.
+
+[Docker Desktop WSL 2 backend](https://docs.docker.com/docker-for-windows/wsl/) creates an  architectural change that gvies a full Linux kernel built by Microsoft, allowing Linux containers to run natively without emulation. With Docker Desktop running on WSL 2, users can leverage Linux workspaces and avoid having to maintain both Linux and Windows build scripts. In addition, WSL 2 provides improvements to file system sharing, boot time, and allows access to some cool new features for Docker Desktop users.
+
+[Dxgkrnl](https://devblogs.microsoft.com/directx/directx-heart-linux/) is a brand-new kernel driver for Linux that exposes the /dev/dxg device to user mode Linux. /dev/dxg exposes a set of IOCTL that closely mimic the native WDDM D3DKMT kernel service layer on Windows. Dxgkrnl inside of the Linux kernel connects over the VM Bus to its big brother on the Windows host and uses this VM bus connection to communicate with the physical GPU.
+
+[Ansible-WSL](https://github.com/Wintus/Ansible-WSL) is an open source program that makes it easier to provision your Windows from inside of WSL by Ansible.
+
+[WSL-DistroLauncher](https://github.com/Microsoft/WSL-DistroLauncher) is a sample/reference launcher app for WSL distro Microsoft Store packages.
+
+[Pengwin](https://github.com/WhitewaterFoundry/Pengwin) is a Linux distro optimized for WSL based on Debian.
+
+[Pengwin Enterprise](https://github.com/WhitewaterFoundry/Pengwin-Enterprise) is an enterprise Linux solution for Windows Subsystem for Linux (WSL) that is compatible with mainstream enterprise Linux distributions.
+
+
+## Setting up WSL Linux Distributions
+[Back to the Top](https://github.com/mikeroyal/Windows-11-Guide#table-of-contents)
+
+**Requirements**
+
+Before you install any of the Linux Distributions make sure to install/enable the Windows Subsystem for Linux on your Windows 10 machine. Following the instructions below:
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/110054829-ad936980-7d10-11eb-80bd-bc5e96d31d27.png">
+<br />
+Installing Windows Subsystem Linux
+</p>
+
+**OR**
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/109565559-7fefbb80-7a97-11eb-8502-4d8f2eeb4842.png">
+ </p>
+
+**For more technical users you run this command in Powershell:**
+
+```sh
+Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux
+```
+
+[Ubuntu 20.04 LTS](https://www.microsoft.com/en-us/p/ubuntu-2004-lts/9n6svws3rx71?activetab=pivot:overviewtab)
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/109563752-0eaf0900-7a95-11eb-9fd7-9be123b57cc1.png">
+</p>
+
+
+[Debian](https://www.microsoft.com/en-us/p/debian/9msvkqc78pk6?activetab=pivot:overviewtab)
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/109563781-14a4ea00-7a95-11eb-8008-61867e38cf1e.png">
+</p>
+
+[Fedora for WSL](https://fedoramagazine.org/wsl-fedora-33/)
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/109563789-15d61700-7a95-11eb-9c99-c1e68ead8388.png">
+</p>
+
+[SUSE Linux Enterprise Server 15 SP1](https://www.microsoft.com/en-us/p/suse-linux-enterprise-server-15-sp1/9pn498vpmf3z?activetab=pivot:overviewtab)
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/109563809-1bcbf800-7a95-11eb-8be7-e94b2feb74a7.png">
+</p>
+
+
+[openSUSE Leap 15.2](https://www.microsoft.com/en-us/p/opensuse-leap-152/9mzd0n9z4m4h?activetab=pivot:overviewtab)
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/109563802-1a9acb00-7a95-11eb-9c6a-14bbcde765dd.png">
+</p>
+
+[Kali Linux](https://www.microsoft.com/en-us/p/kali-linux/9pkr34tncv07?activetab=pivot:overviewtab)
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/109563822-1ec6e880-7a95-11eb-8d4b-a051178da3e2.png">
+</p>
+
+[Pengwin](https://www.microsoft.com/en-us/p/pengwin/9nv1gv1pxz6p?activetab=pivot:overviewtab)
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/109563833-225a6f80-7a95-11eb-93e8-f40799469bcc.png">
+</p>
+
+
+[Fedora Remix for WSL](https://www.microsoft.com/en-us/p/fedora-remix-for-wsl/9n6gdm4k2hnc?activetab=pivot:overviewtab)
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/109563839-238b9c80-7a95-11eb-8a41-fc9775c810bb.png">
+</p>
+
+
+[GWSL](https://www.microsoft.com/en-us/p/gwsl/9nl6kd1h33v3?activetab=pivot:overviewtab) is an XServer that lets you easily run graphical Linux apps on Windows 10.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/109563870-2e463180-7a95-11eb-93b1-77c1ff0ef39d.png">
+</p>
+
+# Windows Terminal
+
+[Back to the Top](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#table-of-contents)
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/143783124-dd11fd52-acd5-4e43-9f0e-e456e2efc303.png">
+  <br />
+</p>
+
+[Windows Terminal](https://github.com/microsoft/terminal) is a new, modern, feature-rich, productive terminal application for command-line users. It includes many of the features most frequently requested by the Windows command-line community including support for tabs, rich text, globalization, configurability, theming & styling, and more. Take a look at the [Windows Terminal GitHub](https://github.com/Microsoft/Terminal).
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/143783143-265c9c5c-bc33-4742-99a5-655ed2a07150.png">
+  <br />
+  Windows Terminal
+</p>
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/143783144-72ce368a-5c46-48a7-b57b-60e0f7d26a0b.png">
+  <br />
+  Terminal Architecture
+</p>
+
+[Git for Windows](https://gitforwindows.org) is a distributed version control system tool that focuses on offering a lightweight, native set of tools that bring the full feature set of the Git SCM to Windows while providing appropriate user interfaces for experienced Git users and novices alike.
+
+[Windows UI Library (WinUI)](https://docs.microsoft.com/en-us/windows/apps/winui/) is a native user experience (UX) framework for both Windows desktop and UWP applications. Take a look at the [Windows UI Library Roadmap](https://github.com/microsoft/microsoft-ui-xaml/blob/main/docs/roadmap.md).
+
+[Windows UI Library (WinUI) 2](https://docs.microsoft.com/en-us/windows/apps/winui/winui2/) is tightly integrated with [Windows 10 and later SDKs](https://developer.microsoft.com/windows/downloads/windows-10-sdk/) and provides official native Windows UI controls and other user interface elements for UWP applications (and desktop applications using [XAML Islands](https://docs.microsoft.com/en-us/windows/apps/desktop/modernize/xaml-islands)).
+
+[XAML Islands](https://docs.microsoft.com/en-us/windows/apps/desktop/modernize/xaml-islands)) is a feature that enables you to enhance the look, feel, and functionality of your existing WPF, Windows Forms, and C++ desktop (Win32) applications with the latest Windows 10 UI features that are only available via WinRT XAML controls. This means that you can use UWP features such as [Windows Ink](https://docs.microsoft.com/en-us/windows/uwp/design/input/pen-and-stylus-interactions) and controls that support the [Fluent Design System](https://docs.microsoft.com/en-us/windows/uwp/design/fluent-design-system/index) in your existing WPF, Windows Forms, and C++ desktop applications.
+
+[Windows Community Toolkit](https://docs.microsoft.com/en-us/windows/communitytoolkit/) is a collection of helper functions, custom controls, and app services. It simplifies and demonstrates common developer tasks building UWP apps for Windows 10. The toolkit can be used to build apps for any Windows 10 device, including PC, Mobile, Xbox, IoT and HoloLens. You can also use the toolkit with an existing desktop app converted to UWP using the Desktop Bridge.
+
+[Windows Pseudo Console (ConPTY)](https://devblogs.microsoft.com/commandline/windows-command-line-introducing-the-windows-pseudo-console-conpty/) is an API that provides a mechanism that is similar to the POSIX PTY model, but in a Windows-relevant manner VT Interactivity. Where it receives incoming UTF-8 encoded text, converts each displayable text character into the corresponding INPUT_RECORD, and stores them in the Input Buffer.
+
+[Comparison of WinUI 3 and WinUI 2](https://docs.microsoft.com/en-us/windows/apps/winui/#comparison-of-winui-3-and-winui-2)
+
+[Introducing Windows Terminal](https://devblogs.microsoft.com/commandline/introducing-windows-terminal/)
+
+[An overview on Windows Terminal | Microsoft Docs](https://docs.microsoft.com/en-us/windows/terminal/)
+
+[Windows Terminal Actions | Microsoft Docs](https://docs.microsoft.com/en-us/windows/terminal/customize-settings/actions)
+
+[Windows Terminal command line arguments | Microsoft Docs](https://docs.microsoft.com/en-us/windows/terminal/command-line-arguments)
+
+[Windows Terminal SSH | Microsoft Docs](https://docs.microsoft.com/en-us/windows/terminal/tutorials/ssh)
+
+[Windows Terminal Themes](https://windowsterminalthemes.dev)
+
+[Top Windows Command Line Courses Online | Udemy](https://www.udemy.com/topic/windows-command-line/)
+
+[Learning Windows Terminal Online Class | LinkedIn Learning](https://www.linkedin.com/learning/learning-windows-terminal)
+
+[Learning the Command Line with Online Courses | edX](https://www.edx.org/learn/command-line)
+
+# VSCode Development
+[Back to the Top](https://github.com/mikeroyal/Windows-Terminal-Guide#table-of-contents)
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/140833078-77973dcf-d3a6-421f-b6a7-b6e63fb1e97c.png">
+  <br />
+</p>
+
+[Visual Studio Code](https://code.visualstudio.com) is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, macOS and Linux. It comes with built-in support for JavaScript, TypeScript and Node.js and has a rich ecosystem of extensions for other languages (such as C++, C#, Java, Python, PHP, Go) and runtimes (such as .NET and Unity).
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/140832435-49e53589-e9e1-47fe-a1bd-d9800cfc1274.png">
+<br />
+VS Code
+</p>
+
+[Visual Studio Marketplace](https://marketplace.visualstudio.com/VSCode) is a marketplace for all extensions for Visual Studio, Azure DevOps Services, Azure DevOps Server and Visual Studio Code.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/140832440-0247a088-4eeb-4c57-ae7d-90894d56d629.png">
+<br />
+VS Code Marketplace
+</p>
+
+
+[VS Code Documentation](https://code.visualstudio.com/docs)
+
+[Working with GitHub in VS Code](https://code.visualstudio.com/docs/editor/github)
+
+[Code Server](https://coder.com/) is a tool that allows you to run [VS Code](https://code.visualstudio.com/) on any machine anywhere and access it in the browser.
+
+[GitHub Codespaces](https://docs.github.com/en/free-pro-team@latest/github/developing-online-with-codespaces) is an integrated development environment(IDE) on GitHub. That allows developers to develop entirely in the cloud using Visual Studio and Visual Studio Code. Also, from any repo or pull request on GitHub you can simply press the period (.) key on your keyboard to bring up the browser-based VS Code environment with the source code file ready for editing. That dot (.) press to bring up the web-based VS Code editor takes you to https://github.dev/.
+
+[Language Server Protocol (LSP)](https://microsoft.github.io/language-server-protocol/) is a tool that defines the protocol used between an editor or IDE and a language server that provides language features like auto complete, go to definition, find all references.
+
+### VS Code Extensions for Developer Productivity
+
+[Visual Studio Live Share](https://visualstudio.microsoft.com/services/live-share/) is a service/ extension that enables you to collaboratively edit and debug with others in real time, regardless of the programming languages you're using or app types you're building. You can instantly and securely share your current project, start a joint debugging session, share terminal instances, forward localhost web apps, have voice calls, and more.
+
+[GistPad](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.gistfs) is a Visual Studio Code extension that allows you to edit GitHub Gists and repositories from the comfort of your favorite editor. You can open, create, delete, fork and star gists and repositories, and then seamlessly begin editing files as if they were local, without ever cloning, pushing or pulling anything.
+
+[Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) is an extension for Visual Studio Code that launches a development local Server with live reload feature for static & dynamic pages.
+
+[GitHub Pull Requests and Issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github) is an extension for Visual Studio Code that allows you to review and manage GitHub pull requests and issues in Visual Studio Code.
+
+[Terminal](https://marketplace.visualstudio.com/items?itemName=formulahendry.terminal) is an extension for Visual Studio Code that lets you run terminal command directly in the Editor.
+
+[Profile Switcher](https://marketplace.visualstudio.com/items?itemName=aaronpowell.vscode-profile-switcher) is an extension for Visual Studio Code that allows you to switch between different profiles you have created.
+
+[Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) is an extension for Visual Studio Code that gets the Material Design icons into your VS Code.
+
+[One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme) is an extension for Visual Studio Code that adds Atom's iconic One Dark theme, which is one of the most installed themes for VS Code.
+
+[VSCode Icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons) is an extension for Visual Studio Code that brings icons to your Visual Studio Code setup.
+
+[GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) is an extension for Visual Studio Code that helps you visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more.
+
+[Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) is an extension for Visual Studio Code that will display inline in the editor the size of the imported/required package. The extension utilizes webpack with babili-webpack-plugin in order to detect the imported size.
+
+[Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) is an extension for Visual Studio Code that gives you everything you need to write Markdown (keyboard shortcuts, table of contents, auto preview and more).
+
+[Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) is an extension for Visual Studio Code that allows matching brackets to be identified with colours. The user can define which characters to match, and which colours to use.
+
+[Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) is an extension for Visual Studio Code that automatically add HTML/XML close tag, same as Visual Studio IDE or Sublime Text.
+
+[Auto-Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag) is an extension for Visual Studio Code that automatically add HTML/XML close tag, same as Visual Studio IDE or Sublime Text does.
+
+[Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) is an extension for Visual Studio Code that synchronizes Settings, Snippets, Themes, File Icons, Launch, Keybindings, Workspaces and Extensions Across Multiple Machines Using GitHub Gist.
+
+[Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) is an extension for Visual Studio Code that lets you mark lines of code and jump to them.
+
+[Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) is an extension for Visual Studio Code that improves your code commenting by annotating with alert, informational, TODOs, and more.
+
+[Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) is an extension for Visual Studio Code that works as a spelling checker for source code.
+
+[CSS Peak](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek) is an extension for Visual Studio Code that allows peeking to css ID and class strings as definitions from html files to respective CSS. It also allows peek and goto definition.
+
+[Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) is an extension for Visual Studio Code that enhances the Tailwind development experience by providing Visual Studio Code users with advanced features such as autocomplete, syntax highlighting, and linting.
+
+[Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) is an extension for Visual Studio Code that is an opinionated code formatter. It enforces a consistent style by parsing your code and re-printing it with its own rules that take the maximum line length into account, wrapping code when necessary.
+
+[NPM Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense) is an extension for Visual Studio Code that autocompletes npm modules in import statements.
+
+[Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) is an extension for Visual Studio Code that autocompletes filenames.
+
+[Relative Path](https://marketplace.visualstudio.com/items?itemName=jakob101.RelativePath) is an extension for Visual Studio Code that gets the relative url paths from files in the current workspace.
+
+[Path Autocomplete](https://marketplace.visualstudio.com/items?itemName=ionutvmi.path-autocomplete) is an extension for Visual Studio Code that provides path completion for visual studio code.
+
+[Discord Presence](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode) is an extension for Visual Studio Code that updates your discord status with a rich presence.
+
+[Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) is an extension for Visual Studio Code that runs code snippets or code files for multiple languages: C/C++, Java, JavaScript, PHP, Python, Perl, Ruby, Go, Lua, Groovy, PowerShell, BASH/SH, C#, F#, .NET Core, TypeScript, CoffeeScript, Scala, Swift, Julia, OCaml, R, Elixir, Clojure, Haxe, Objective-C, Rust, Racket, Scheme, Kotlin, Dart, Haskell, Nim, D, CUDA, and custom command.
+
+[Kite](https://marketplace.visualstudio.com/items?itemName=kiteco.kite) is an extension for Visual Studio Code that provides an AI-powered programming assistant that helps you write code faster inside Visual Studio Code. Kite works for all major programming languages: Python, Java, Go, PHP, C/C#/C++, Javascript, HTML/CSS, Typescript, React, Ruby, Scala, Kotlin, Bash, Vue and React.
+
+[Tabnine](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode) is an extension for Visual Studio Code that provides an AI code completion tool trusted by millions of developers to code faster with fewer errors. Whether you are a new dev or a seasoned pro, working solo or part of a team, Tabnine will help push your productivity to new heights while cutting your QA time in your favorite IDE.
+
 
 # Game Development
 
@@ -1794,171 +2191,6 @@ It is extended by a set of privacy-specific requirements, control objectives and
 [Top DevOps Courses Online from Udemy](https://www.udemy.com/topic/devops/)
 
 [Devops Courses from Coursera](https://www.coursera.org/courses?languages=en&query=devops)
-
-
-# Windows Subsystem for Linux (WSL)
-
-[Back to the Top](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#table-of-contents)
-
-<p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/82762656-18de0180-9db7-11ea-9676-ee6fcae615a1.png">
-</p>
-
-<img src="https://user-images.githubusercontent.com/45159366/107585931-e6c63700-6bb3-11eb-8f25-f07f8ff05688.png">
-
-
-## WSL Learning Resources
-
-[WSL 2 Linux Kernel on GitHub](https://github.com/microsoft/WSL2-Linux-Kernel) is the source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2).
-
-[WSLConf](https://www.youtube.com/playlist?list=PLwFSk464RMxnZkvZ1HKrlNyj-s6Zq4fWe) is a community-initiated event on all things Windows Subsystem for Linux and WSL-related.
-
-[What is the Windows Subsystem for Linux?](https://docs.microsoft.com/en-us/windows/wsl/about)
-
-[Pro Windows Subsystem for Linux (WSL): Powerful Tools and Practices for Cross-Platform Development and Collaboration Book](https://www.amazon.com/Windows-Subsystem-Linux-Cross-Platform-Collaboration/dp/1484268725/ref=sr_1_1?dchild=1&keywords=Pro+Windows+Subsystem+for+Linux+%28WSL%29&qid=1614379171&s=digital-text&sr=1-1-catcorr)
-
-[Windows Subsystem for Linux 2 (WSL 2) Tips, Tricks, and Techniques Book](https://www.amazon.com/Windows-Subsystem-Linux-Tricks-Techniques-ebook/dp/B08K98C7DB/ref=sr_1_1?dchild=1&keywords=WSL+book&qid=1614379053&s=digital-text&sr=1-1)
-
-[Comparing WSL 2 and WSL 1 ](https://docs.microsoft.com/en-us/windows/wsl/compare-versions)
-
-[GPU accelerated machine learning training in the Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/tutorials/gpu-compute)
-
-[CUDA on Windows Subsystem for Linux(WSL) 2](https://developer.nvidia.com/blog/announcing-cuda-on-windows-subsystem-for-linux-2/)
-
-[Developing in Windows Subsystem for Linux (WSL)](https://code.visualstudio.com/docs/remote/wsl)
-
-[Using WSL 2 with Visual Studio Code](https://code.visualstudio.com/blogs/2019/09/03/wsl2)
-
-[WSLG: X11 and Wayland Applications in WSL](https://linuxplumbersconf.org/event/9/contributions/611/attachments/702/1298/XDC2020_-_X11_and_Wayland_applications_in_WSL.pdf)
-
-[How to run Podman on Windows with WSL 2](https://www.redhat.com/sysadmin/podman-windows-wsl2)
-
-[Create a development container in Visual Studio Code](https://code.visualstudio.com/docs/remote/create-dev-container)
-
-[Getting started with MySQL, MongoDB, PostgreSQL, SQLite, Microsoft SQL Server, or Redis to set up a database on WSL](https://docs.microsoft.com/en-us/windows/wsl/tutorials/wsl-database)
-
-[Setting up SAP HANA, express edition into WSL 2 (Windows Subsystem for Linux)](https://blogs.sap.com/2020/09/30/installing-sap-hana-express-edition-into-wsl2-windows-subsystem-for-linux/)
-
-[Set up your Node.js development environment with WSL 2](https://docs.microsoft.com/en-us/windows/nodejs/setup-on-wsl2)
-
-[Getting started mounting a Linux disk in WSL 2](https://docs.microsoft.com/en-us/windows/nodejs/setup-on-wsl2)
-
-[Using Fedora with Microsoft's WSL 2](https://fedoramagazine.org/wsl-fedora-33/)
-
-## WSL Tools & Projects
-
-[wslu](https://github.com/wslutilities/wslu) is a collection of utilities for Windows 10 Linux Subsystem, such as retrieving Windows 10 environment variables or creating your favorite Linux GUI application shortcuts on Windows 10 Desktop.
-
-[Ubuntu on WSL](https://wiki.ubuntu.com/WSL) is a wiki guide on getting started with the latest version of Ubuntu installed and setup on WSL for Windows 10.
-
-[Ubuntu on Windows Community Preview](https://www.microsoft.com/en-us/p/ubuntu-on-windows-community-preview/9p9q5zh1hrr0) is a special build of Ubuntu for WSL as a sandbox for testing new features and getting community feedback. This build is intended for early adopters in the WSL community.
-
-[Ubuntu Pro for Azure](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/canonical.0001-com-ubuntu-pro-focal?tab=Overview) is a premium image designed by Canonical optimized for production environments running on Azure. It includes security and compliance services, enabled by default, in a form suitable for small to large-scale Linux enterprise operations — with no contract needed.
-
-[Azure CLI](https://docs.microsoft.com/en-us/cli/azure/?view=azure-cli-latest) is a set of commands used to create and manage Azure resources. The Azure CLI is available across Azure services and is designed to get you working quickly with Azure, with an emphasis on automation.
-
-[Visual Studio Code Remote - WSL extension](https://code.visualstudio.com/docs/remote/wsl) lets you use the Windows Subsystem for Linux (WSL) as your full-time development environment right from VS Code. You can develop in a Linux-based environment, use Linux-specific toolchains and utilities, and run and debug your Linux-based applications all from the comfort of Windows. The extension runs commands and other extensions directly in WSL so you can edit files located in WSL or the mounted Windows filesystem (for example /mnt/c) without worrying about pathing issues, binary compatibility, or other cross-OS challenges.
-
-[Visual Studio Code Remote Development and GitHub Codespaces](https://github.com/Microsoft/vscode-dev-containers) is a  repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces. A development container is a running [Docker](https://www.docker.com/) container with a well-defined tool/runtime stack and its prerequisites. The [VS Code Remote Containers](https://aka.ms/vscode-remote/download/containers) extension allows you to clone a repository or open any folder mounted into (or already inside) a dev container and take advantage of VS Code's full development feature set. [GitHub Codespaces](https://github.com/features/codespaces) both use this same concept to quickly create customized, cloud-based development environments accessible from VS Code or the web.
-
-[Windows Terminal](https://github.com/microsoft/terminal) is a new, modern, feature-rich, productive terminal application for command-line users. It includes many of the features most frequently requested by the Windows command-line community including support for tabs, rich text, globalization, configurability, theming & styling, and more.
-
-[PowerShell Core](https://github.com/PowerShell/PowerShell) is a cross-platform (Windows, Linux, and macOS) automation and configuration tool/framework that works well with your existing tools and is optimized for dealing with structured data (e.g. JSON, CSV, XML, etc.), REST APIs, and object models. It includes a command-line shell, an associated scripting language and a framework for processing cmdlets.
-
-[Docker Desktop WSL 2 backend](https://docs.docker.com/docker-for-windows/wsl/) creates an  architectural change that gvies a full Linux kernel built by Microsoft, allowing Linux containers to run natively without emulation. With Docker Desktop running on WSL 2, users can leverage Linux workspaces and avoid having to maintain both Linux and Windows build scripts. In addition, WSL 2 provides improvements to file system sharing, boot time, and allows access to some cool new features for Docker Desktop users.
-
-[Dxgkrnl](https://devblogs.microsoft.com/directx/directx-heart-linux/) is a brand-new kernel driver for Linux that exposes the /dev/dxg device to user mode Linux. /dev/dxg exposes a set of IOCTL that closely mimic the native WDDM D3DKMT kernel service layer on Windows. Dxgkrnl inside of the Linux kernel connects over the VM Bus to its big brother on the Windows host and uses this VM bus connection to communicate with the physical GPU.
-
-[Ansible-WSL](https://github.com/Wintus/Ansible-WSL) is an open source program that makes it easier to provision your Windows from inside of WSL by Ansible.
-
-[WSL-DistroLauncher](https://github.com/Microsoft/WSL-DistroLauncher) is a sample/reference launcher app for WSL distro Microsoft Store packages.
-
-[Pengwin](https://github.com/WhitewaterFoundry/Pengwin) is a Linux distro optimized for WSL based on Debian.
-
-[Pengwin Enterprise](https://github.com/WhitewaterFoundry/Pengwin-Enterprise) is an enterprise Linux solution for Windows Subsystem for Linux (WSL) that is compatible with mainstream enterprise Linux distributions.
-
-
-## Setting up WSL Linux Distributions
-
-**Requirements**
-
-Before you install any of the Linux Distributions make sure to install/enable the Windows Subsystem for Linux on your Windows 10 machine. Following the instructions below:
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/45159366/110054829-ad936980-7d10-11eb-80bd-bc5e96d31d27.png">
-<br />
-Installing Windows Subsystem Linux
-</p>
-
-**OR**
-
-<p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/109565559-7fefbb80-7a97-11eb-8502-4d8f2eeb4842.png">
- </p>
-
-**For more technical users you run this command in Powershell:**
-
-```sh
-Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux
-```
-
-[Ubuntu 20.04 LTS](https://www.microsoft.com/en-us/p/ubuntu-2004-lts/9n6svws3rx71?activetab=pivot:overviewtab)
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/45159366/109563752-0eaf0900-7a95-11eb-9fd7-9be123b57cc1.png">
-</p>
-
-
-[Debian](https://www.microsoft.com/en-us/p/debian/9msvkqc78pk6?activetab=pivot:overviewtab)
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/45159366/109563781-14a4ea00-7a95-11eb-8008-61867e38cf1e.png">
-</p>
-
-[Fedora for WSL](https://fedoramagazine.org/wsl-fedora-33/)
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/45159366/109563789-15d61700-7a95-11eb-9c99-c1e68ead8388.png">
-</p>
-
-[SUSE Linux Enterprise Server 15 SP1](https://www.microsoft.com/en-us/p/suse-linux-enterprise-server-15-sp1/9pn498vpmf3z?activetab=pivot:overviewtab)
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/45159366/109563809-1bcbf800-7a95-11eb-8be7-e94b2feb74a7.png">
-</p>
-
-
-[openSUSE Leap 15.2](https://www.microsoft.com/en-us/p/opensuse-leap-152/9mzd0n9z4m4h?activetab=pivot:overviewtab)
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/45159366/109563802-1a9acb00-7a95-11eb-9c6a-14bbcde765dd.png">
-</p>
-
-[Kali Linux](https://www.microsoft.com/en-us/p/kali-linux/9pkr34tncv07?activetab=pivot:overviewtab)
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/45159366/109563822-1ec6e880-7a95-11eb-8d4b-a051178da3e2.png">
-</p>
-
-[Pengwin](https://www.microsoft.com/en-us/p/pengwin/9nv1gv1pxz6p?activetab=pivot:overviewtab)
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/45159366/109563833-225a6f80-7a95-11eb-93e8-f40799469bcc.png">
-</p>
-
-
-[Fedora Remix for WSL](https://www.microsoft.com/en-us/p/fedora-remix-for-wsl/9n6gdm4k2hnc?activetab=pivot:overviewtab)
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/45159366/109563839-238b9c80-7a95-11eb-8a41-fc9775c810bb.png">
-</p>
-
-
-[GWSL](https://www.microsoft.com/en-us/p/gwsl/9nl6kd1h33v3?activetab=pivot:overviewtab) is an XServer that lets you easily run graphical Linux apps on Windows 10.
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/45159366/109563870-2e463180-7a95-11eb-93b1-77c1ff0ef39d.png">
-</p>
 
 # .NET Development
 
