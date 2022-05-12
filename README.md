@@ -50,13 +50,13 @@
 
 7. [VSCode](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#vscode)
 
-    - [VS Code Extensions for Developer Productivity](https://github.com/mikeroyal/Windows-Terminal-Guide#VS-Code-Extensions-for-Developer-Productivity)
+    - [VS Code Extensions for Developer Productivity](https://github.com/mikeroyal/Windows-11-Guide#VS-Code-Extensions-for-Developer-Productivity)
 
 8. [Game Development](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#game-development)
 
 9. [Setting up a macOS Workspace](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#setting-up-a-macos-workspace)
 
-10. [Using Android and Android Apps on Windows 11](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#using-android-and-android-apps-on-windows-11)
+10. [Android Development](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#android-development)
 
 11. [Professional Audio/Video Editing](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#professional-audio--video-editing)
 
@@ -896,8 +896,8 @@ Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-L
 
 [Learning the Command Line with Online Courses | edX](https://www.edx.org/learn/command-line)
 
-# VSCode Development
-[Back to the Top](https://github.com/mikeroyal/Windows-Terminal-Guide#table-of-contents)
+# VSCode 
+[Back to the Top](https://github.com/mikeroyal/Windows-11-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/140833078-77973dcf-d3a6-421f-b6a7-b6e63fb1e97c.png">
@@ -932,6 +932,8 @@ VS Code Marketplace
 [Language Server Protocol (LSP)](https://microsoft.github.io/language-server-protocol/) is a tool that defines the protocol used between an editor or IDE and a language server that provides language features like auto complete, go to definition, find all references.
 
 ### VS Code Extensions for Developer Productivity
+
+[Back to the Top](https://github.com/mikeroyal/Windows-11-Guide#table-of-contents)
 
 [Visual Studio Live Share](https://visualstudio.microsoft.com/services/live-share/) is a service/ extension that enables you to collaboratively edit and debug with others in real time, regardless of the programming languages you're using or app types you're building. You can instantly and securely share your current project, start a joint debugging session, share terminal instances, forward localhost web apps, have voice calls, and more.
 
@@ -1011,7 +1013,7 @@ VS Code Marketplace
 <img src="https://user-images.githubusercontent.com/45159366/104788113-3432be00-5746-11eb-99b1-49360669f327.png">
 
 
-[Unreal Engine 4](https://www.unrealengine.com) is a game engine developed by Epic Games with the world's most open and advanced real-time 3D creation tool. Continuously evolving to serve not only its original purpose as a state-of-the-art game engine, today it gives creators across industries the freedom and control to deliver cutting-edge content, interactive experiences, and immersive virtual worlds.
+[Unreal Engine 5](https://www.unrealengine.com) is a game engine developed by Epic Games with the world's most open and advanced real-time 3D creation tool. Continuously evolving to serve not only its original purpose as a state-of-the-art game engine, today it gives creators across industries the freedom and control to deliver cutting-edge content, interactive experiences, and immersive virtual worlds.
 
 <img src="https://user-images.githubusercontent.com/45159366/104788122-37c64500-5746-11eb-8f61-48a69b94582d.png">
 
@@ -1156,7 +1158,7 @@ SteamVR Home
  <img src="https://user-images.githubusercontent.com/45159366/107092246-15a96b00-67b8-11eb-91fb-27494c7f1d4f.jpg">
 
 
-# Using Android and Android Apps on Windows 11
+# Android Development
 
 [Back to the Top](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#table-of-contents)
 
