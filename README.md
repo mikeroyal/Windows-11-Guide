@@ -20,10 +20,12 @@
       - [Windows 11 Desktop](https://github.com/mikeroyal/Windows-11-Guide#windows-11-desktop)
       - [Bypass Windows 11's TPM, CPU and RAM Requirements](https://github.com/mikeroyal/Windows-11-Guide#bypass-Windows-11-requirements)
       - [Creating a Local Account on Windows 11 Home and Pro](https://github.com/mikeroyal/Windows-11-Guide#Creating-a-Local-Account-on-Windows-11-Home-and-Pro)
+      - [Removing the Windows 11 Watermark for Unsupported Hardware](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#removing-the-windows-11-watermark)
       - [Ways to Customize Windows 11 Look and Feel](https://github.com/mikeroyal/Windows-11-Guide#Ways-to-Customize-Windows-11-Look-and-Feel)
       - [Installing drivers for Windows, AMD, and NVIDIA the easy way](https://github.com/mikeroyal/Windows-11-Guide#installing-drivers-for-windows-amd-and-nvidia)
       - [Microsoft Office Alternatives](https://github.com/mikeroyal/Windows-11-Guide#microsoft-office-alternatives)
       - [Secure & Privacy-focused Web Browsers](https://github.com/mikeroyal/Windows-11-Guide#secure--privacy-focused-web-browsers)
+      - [Manage/Control Fans (CPU, GPU, and motherboard)](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#managecontrol-fans)
 
 2. [Getting Software](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#getting-software)
 
@@ -266,6 +268,29 @@
   <br />
 </p>
 
+## Removing the Windows 11 Watermark
+[Back to the Top](https://github.com/mikeroyal/Windows-11-Guide#table-of-contents)
+
+There’s already a way to remove the Windows 11 watermark. It’s important to know that removing the watermark does include editing some system registry files. So, do this at your own risk, and be careful.
+
+ - 1.  Access the Registry Editor by typing **‘Regedit’** in the Windows 11 search box and hitting OK to open it.
+  
+ - 2.  On the left side, open up **HKEY_CURRENT_USER** and scroll down to the **Control Panel**.
+  
+ - 3.  Find the entry called **UnsupportedHardwareNotificationCache**.
+  
+ - 4. **Right-click** that entry and select **‘Modify’** from the menu.
+  
+ - 5. Change the **SV2 DWORD** value from 1 to **0**.
+  
+ - 6. Save, exit, and then restart your PC.
+ 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/168446887-eba7be6f-7f23-4f50-bbfa-4ed5ea0dbd3d.png">
+<br />
+</p>
+
+
 ## Ways to Customize Windows 11 Look and Feel
 [Back to the Top](https://github.com/mikeroyal/Windows-11-Guide#table-of-contents)
 
@@ -417,6 +442,28 @@
  <img src="https://user-images.githubusercontent.com/45159366/158266396-25f48ceb-9868-4d8f-80a3-30bbd0bbf092.png">
   <br />
   Vivaldi
+</p>
+
+## Manage/Control Fans
+
+[Back to the Top](https://github.com/mikeroyal/Windows-11-Guide#table-of-contents)
+
+[Fan Control](https://github.com/Rem0o/FanControl.Releases) is a highly customizable fan controlling software for Windows
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/168446885-58a41783-cfbb-4058-a9c9-21bd01a49c3f.png">
+<br />
+Fan Control main UI
+</p>
+
+[MSI Afterburner](https://www.msi.com/page/afterburner) is a tool that provides a detailed overview of your hardware, and also allows graphics card overclocking. It includes RTSS which also provides an on-screen-display during games.
+
+[MSI Afterburner Remote Server](https://www.msi.com/page/afterburner) is a that serves up an HTTP endpoint with data from MSI Afterburner in an XML format.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/168446889-6ac9837d-b534-4749-966d-28aef7c03bef.png">
+<br />
+MSI Afterburner UI
 </p>
 
 # Getting Software
