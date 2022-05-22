@@ -321,9 +321,11 @@ There’s already a way to remove the Windows 11 watermark. It’s important to 
 
 [Files](https://github.com/files-community/Files) is a file manager for Windows with a powerful yet intuitive design. It has features like multiple tabs, panes, columns, shell extensions in the context menu and tags.
 
-[StartAllBack](https://startallback.com/) is a tool that restores the taskbar, start menu, context menus, explorer, style and order back to the Windows 7 & 10 style.
+[ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) is a tool that restores the taskbar, start menu, context menus, explorer, style and order back to the Windows 7 & 10 style.
 
-[Start11](https://www.stardock.com/products/start11/) is a tool designed to bring menus back from Windows 7/10 to Windows 11.
+[StartAllBack](https://startallback.com/) ($4.99) is another tool that restores the taskbar, start menu, context menus, explorer, style and order back to the Windows 7 & 10 style.
+
+[Start11](https://www.stardock.com/products/start11/) (£5.99) is a tool designed to bring menus back from Windows 7/10 to Windows 11.
 
 [Live Tiles Anywhere](https://www.reddit.com/r/windows/comments/q18fq7/live_tiles_anywhere_create_custom_live_tiles_for/) is a tool that brings a new way of thinking and using Windows Live Tiles, this is Live Tiles Anywhere. LTA is the first app that allows you to create not only working custom Live Tiles, but also add Live Tiles as widgets on your Desktop.
 
@@ -347,7 +349,7 @@ There’s already a way to remove the Windows 11 watermark. It’s important to 
 
 [Ear Trumpet](https://eartrumpet.app/) is a powerful volume control app for Windows 10/11 providing a system tray utility that gives you volume levels for every app and the ability to set custom inputs and outputs for those apps.
 
-[Wallpaper Engine](https://store.steampowered.com/app/431960/Wallpaper_Engine/) is a tool enables you to use live wallpapers on your Windows desktop. Various types of animated wallpapers are supported, including 3D and 2D animations, websites, videos and even certain applications. 
+[Wallpaper Engine](https://store.steampowered.com/app/431960/Wallpaper_Engine/) (£2.99) is a tool enables you to use live wallpapers on your Windows desktop. Various types of animated wallpapers are supported, including 3D and 2D animations, websites, videos and even certain applications. 
 
 [Lively Wallpaper](https://rocksdanister.github.io/lively/) is a Windows application designed to turn GIFs, games, and videos into animated wallpapers. 
 
