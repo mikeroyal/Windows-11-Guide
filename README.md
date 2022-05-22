@@ -301,14 +301,21 @@ There’s already a way to remove the Windows 11 watermark. It’s important to 
   <br />
 </p>
 
-[Ultimate Windows Toolbox by Chris Titus Tech](https://github.com/ChrisTitusTech/win10script) is the Ultimate Windows 10 & 11 Script from a creation from multiple debloat scripts and gists from github. This script is designed to be a swiss army knife of Windows tools to help setup and optimize machines. [![The Ultimate Windows Utility Upgrade | Chris Titus Tech YouTube.](https://img.youtube.com/watch?v=dKM8ZScbic8-Y/0.jpg)](https://www.youtube.com/watch?v=dKM8ZScbic8-Y "The Ultimate Windows Utility Upgrade")
+[Chris Titus Tech Windows Utility](https://github.com/ChrisTitusTech/winutil) is the Ultimate Windows 10 & 11 script designed to be a swiss army knife of Windows tools to help setup and optimize machines. [The Ultimate Windows Utility | Chris Titus Tech YouTube.](https://www.youtube.com/watch?v=tPRv-ATUBe4)
 
 **Paste this command into Powershell (admin):**
 
-```iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/JJ8R4'))```
+```iwr -useb https://christitus.com/win | iex```
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/158462889-630efef2-c213-4d62-8398-a77d0fb40642.png">
+ <img src="https://user-images.githubusercontent.com/45159366/169711131-7b8e000c-e544-470e-9164-d76938759ccf.png">
+  <br />
+</p>
+
+[WingetUI](https://github.com/martinet101/WingetUI) is a GUI Store for the most common cli package managers, such as Winget and Scoop. It's developed by [Martí Climent AKA martinet101](https://github.com/martinet101).
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/169711126-0d56a8fe-229e-4d4b-a8c5-d44c1a074b59.png">
   <br />
 </p>
 
@@ -326,6 +333,8 @@ There’s already a way to remove the Windows 11 watermark. It’s important to 
 [StartAllBack](https://startallback.com/) ($4.99) is another tool that restores the taskbar, start menu, context menus, explorer, style and order back to the Windows 7 & 10 style.
 
 [Start11](https://www.stardock.com/products/start11/) (£5.99) is a tool designed to bring menus back from Windows 7/10 to Windows 11.
+
+[ElevenClock](https://github.com/martinet101/ElevenClock) is a tool that provides a customizable clock on your Windows 11 multi-monitor displays. It's developed by [Martí Climent AKA martinet101](https://github.com/martinet101).
 
 [Live Tiles Anywhere](https://www.reddit.com/r/windows/comments/q18fq7/live_tiles_anywhere_create_custom_live_tiles_for/) is a tool that brings a new way of thinking and using Windows Live Tiles, this is Live Tiles Anywhere. LTA is the first app that allows you to create not only working custom Live Tiles, but also add Live Tiles as widgets on your Desktop.
 
@@ -444,6 +453,14 @@ There’s already a way to remove the Windows 11 watermark. It’s important to 
  <img src="https://user-images.githubusercontent.com/45159366/158266396-25f48ceb-9868-4d8f-80a3-30bbd0bbf092.png">
   <br />
   Vivaldi
+</p>
+
+[Ghostery Dawn](https://www.ghostery.com/dawn) is a fast, private and secure web browser for PC, Mac and mobile. It comes with the complete Ghostery Privacy Suite including [Ghostery Glow](https://www.ghostery.com/glow) a private search engine that does not log your search history, which means you get served objective results, not results that are filtered by the likelihood you’ll click on them.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/169711128-745e445d-0c1e-46d8-a7cf-12b0d6fcbda5.png">
+  <br />
+  Ghostery Dawn
 </p>
 
 ## Manage/Control Fans
