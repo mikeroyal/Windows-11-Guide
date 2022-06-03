@@ -50,8 +50,8 @@
 
 6. [Windows Terminal](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#windows-terminal)
 
-7. [VSCode](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#vscode)
-
+7. [Visual Studio and VSCode](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#visual-studio-and-vscode)
+    - [Visual Studio Extensions for Developer Productivity](https://github.com/mikeroyal/Windows-11-Guide#Visual-Studio-Extensions-for-Developer-Productivity)
     - [VS Code Extensions for Developer Productivity](https://github.com/mikeroyal/Windows-11-Guide#VS-Code-Extensions-for-Developer-Productivity)
 
 8. [Game Development](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#game-development)
@@ -962,8 +962,33 @@ Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-L
 
 [Learning the Command Line with Online Courses | edX](https://www.edx.org/learn/command-line)
 
-# VSCode 
+# Visual Studio and VSCode 
 [Back to the Top](https://github.com/mikeroyal/Windows-11-Guide#table-of-contents)
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/171919431-729ff449-fe7c-499d-8a21-d722a42eb7e5.png">
+<br />
+</p>
+
+[Visual Studio](https://visualstudio.microsoft.com/) is an integrated development environment (IDE) from Microsoft; which is a feature-rich application that can be used for many aspects of software development. Visual Studio makes it easy to edit, debug, build, and publish your app. By using Microsoft software development platforms such as Windows API, Windows Forms, Windows Presentation Foundation, and Windows Store.
+
+[VSExtensibility](https://github.com/microsoft/VSExtensibility) is a repo for upcoming changes to extensibility in Visual Studio, the new extensibility model, and [Language Server Protocol(LSP)](https://github.com/microsoft/VSExtensibility/blob/main/docs/lsp/lsp-extensions-specifications.md). 
+
+[Visual Studio Documentation](https://docs.microsoft.com/en-us/visualstudio/windows/)
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/171919459-9e437c54-0d1e-4e85-bae1-efd8fc21859c.png">
+<br />
+Visual Studio
+</p>
+
+[Visual Studio Marketplace](https://marketplace.visualstudio.com) is a marketplace for all extensions for Visual Studio, Azure DevOps Services, Azure DevOps Server and Visual Studio Code.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/171919464-2e0c6a3c-70a5-493e-9aec-2e66c7b73498.png">
+<br />
+Visual Studio Marketplace
+</p>
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/140833078-77973dcf-d3a6-421f-b6a7-b6e63fb1e97c.png">
@@ -978,14 +1003,13 @@ Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-L
 VS Code
 </p>
 
-[Visual Studio Marketplace](https://marketplace.visualstudio.com/VSCode) is a marketplace for all extensions for Visual Studio, Azure DevOps Services, Azure DevOps Server and Visual Studio Code.
+[Visual Studio Code Marketplace](https://marketplace.visualstudio.com/VSCode) is a marketplace for all extensions for Visual Studio, Azure DevOps Services, Azure DevOps Server and Visual Studio Code.
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/45159366/140832440-0247a088-4eeb-4c57-ae7d-90894d56d629.png">
 <br />
 VS Code Marketplace
 </p>
-
 
 [VS Code Documentation](https://code.visualstudio.com/docs)
 
@@ -996,6 +1020,56 @@ VS Code Marketplace
 [GitHub Codespaces](https://docs.github.com/en/free-pro-team@latest/github/developing-online-with-codespaces) is an integrated development environment(IDE) on GitHub. That allows developers to develop entirely in the cloud using Visual Studio and Visual Studio Code. Also, from any repo or pull request on GitHub you can simply press the period (.) key on your keyboard to bring up the browser-based VS Code environment with the source code file ready for editing. That dot (.) press to bring up the web-based VS Code editor takes you to https://github.dev/.
 
 [Language Server Protocol (LSP)](https://microsoft.github.io/language-server-protocol/) is a tool that defines the protocol used between an editor or IDE and a language server that provides language features like auto complete, go to definition, find all references.
+
+### Visual Studio Extensions for Productivity
+[Back to the Top](https://github.com/mikeroyal/Windows-11-Guide#table-of-contents)
+
+**Note:**  [Visual Studio IntelliCode](https://visualstudio.microsoft.com/services/intellicode/) is installed by default with any workload that supports C#, C++, TypeScript/JavaScript, or XAML in Visual Studio 2022.
+  
+ [Visual Assist](https://marketplace.visualstudio.com/items?itemName=WholeTomatoSoftware.VisualAssist) is a productivity tool for C/C++ and C# that improves IDE features related to navigation, refactoring, code generation, and coding assistance along with specific tooling for UE4/UE5.
+  
+ [Resharper](https://marketplace.visualstudio.com/items?itemName=JetBrains.ReSharper) is a popular developer productivity extension for Microsoft Visual Studio. It automates most of what can be automated in your coding routines. It finds compiler errors, runtime errors, redundancies, and code smells right as you type, suggesting intelligent corrections for them.
+    
+ [Visual Studio Live Share](https://visualstudio.microsoft.com/services/live-share/) is an extension that provides a collection of extensions that enable real-time collaborative development with VS Live Share.
+    
+ [Visual Studio Spell Checker](https://marketplace.visualstudio.com/items?itemName=EWoodruff.VisualStudioSpellCheckerVS2022andLater) is an editor extension that checks the spelling of comments, strings, and plain text as you type or interactively with a tool window. It can also spell check an entire solution, project, or selected items. 
+    
+ [GitHub Extensions for Visual Studio](https://marketplace.visualstudio.com/items?itemName=GitHub.GitHubExtensionforVisualStudio) is a Visual Studio Extension that brings the GitHub Flow into Visual Studio.
+    
+ [REST API Client Code Generator](https://marketplace.visualstudio.com/items?itemName=ChristianResmaHelle.ApiClientCodeGenerator) is a collection of Visual Studio C# custom tool code generators for Swagger / OpenAPI specification files.
+    
+ [Code Maid](https://marketplace.visualstudio.com/items?itemName=SteveCadwallader.CodeMaid) is an open source Visual Studio extension to cleanup and simplify our C#, C++, F#, VB, PHP, PowerShell, R, JSON, XAML, XML, ASP, HTML, CSS, LESS, SCSS, JavaScript and TypeScript coding.
+    
+ [VS Color Output](https://marketplace.visualstudio.com/items?itemName=MikeWard-AnnArbor.VSColorOutput)  is an extension for Visual Studio. This extension is a color output for build and debug windows.
+    
+ [Visual Studio Theme Pack](https://marketplace.visualstudio.com/items?itemName=idex.vsthemepack) is a collection of popular themes, now available for Visual Studio.
+    
+ [Markdown Editor](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.MarkdownEditor2) is afull featured Markdown editor with live preview and syntax highlighting. Supports GitHub flavored Markdown.
+    
+ [SQLite and SQL Server Compact Toolbox](https://marketplace.visualstudio.com/items?itemName=ErikEJ.SQLServerCompactSQLiteToolbox) is an extension for Visual Studio. This extension adds several features to help your embedded database development efforts: Scripting of tables and data, import from SQL Server and CSV files and much, much more.
+ 
+ [NuGet Package Manager](https://marketplace.visualstudio.com/items?itemName=NuGetTeam.NuGetPackageManager) collection of tools to automate the process of downloading, installing, upgrading, configuring, and removing packages from a VS Project.
+    
+ [SlowCheetah](https://marketplace.visualstudio.com/items?itemName=vscps.SlowCheetah-XMLTransforms) is a package allows you to automatically transform your app.config (or any file) when you press F5 in Visual Studio. You can have different transformations based on the build configuration. This will enable you to easily have different app settings, connection strings, etc for Debug versus Release. 
+    
+ [Roslynator](https://marketplace.visualstudio.com/items?itemName=josefpihrt.Roslynator2022) is a collection of 500+ analyzers, refactorings and fixes for C#, powered by Roslyn.
+    
+ [Trailing Whitespace Visualizer](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.TrailingWhitespaceVisualizer) is an  extension will highlight and remove any trailing whitespace on any line in any editor in Visual Studio. This makes it really easy to get rid of those annoying invisible characters.
+    
+ [Magical C# Debugging—OzCode](https://marketplace.visualstudio.com/items?itemName=CodeValueLtd.OzCode) is a must have Visual Studio Extension which cuts down on debugging time and increases productivity by detecting and isolating bugs, making them easy to fix.
+    
+ [File Icons](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.FileIcons) is an extension that adds file icons to Solution Explorer for files that Visual Studio doesn't provide icons for.
+ 
+ [Image Optimizer](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ImageOptimizer) is an extension that uses industry standard tools to optimize any JPEG, PNG and Gifs - including animated Gifs. It can do both lossy and lossless optimization.
+ 
+ [File Nesting](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.FileNesting) is an extension that automatically nest files based on file name and enables developers to nest and unnest any file manually.
+      
+ [NCrunch for Visual Studio](https://marketplace.visualstudio.com/items?itemName=NCrunch.NCrunchforVisualStudio) is an automated parallel continuous testing tool for Visual Studio .NET. It intelligently takes responsibility for running automated tests so that you don't have to, and it gives you a huge amount of useful information about your tests (such as code coverage and performance metrics) inline in your IDE while you work.
+    
+ [SideWaffle Template Pack](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.SideWaffleTemplatePack) is an extension that contains both item and project templates suitable for building websites, Windows apps, Windows Phone apps, WPF, Visual Studio extensibilty project and a lot more.  
+ 
+ [PostSharp](https://marketplace.visualstudio.com/items?itemName=PostSharpTechnologies.PostSharp) is the #1 pattern-aware extension to C# and VB. It allows developers to eradicate boilerplate. Implements some of the most common patterns and gives you the tools to build your own.
+    
 
 ### VS Code Extensions for Developer Productivity
 
