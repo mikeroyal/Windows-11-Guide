@@ -327,6 +327,20 @@ There’s already a way to remove the Windows 11 watermark. It’s important to 
   <br />
 </p>
 
+[O&O ShutUp10++](https://www.oo-software.com/en/shutup10) is a free tool that let's you have full control over which comfort functions under **Windows 10 and Windows 11** you wish to use, and you decide when the passing on of your data goes too far.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/173133150-30e02794-43f7-459e-8fbf-a30c017359bc.png">
+  <br />
+</p>
+
+[WinPaletter](https://github.com/Abdelrhman-AK/WinPaletter) is a tool to colorize Windows 10/11 Accents without restrictions. It was created/developed by [Abdelrhman-AK](https://github.com/Abdelrhman-AK/).
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/173133138-1c90cba4-923d-42ac-a072-ae58e7acbd87.png">
+  <br />
+</p>
+
 [Files](https://github.com/files-community/Files) is a file manager for Windows with a powerful yet intuitive design. It has features like multiple tabs, panes, columns, shell extensions in the context menu and tags.
 
 [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) is a tool that restores the taskbar, start menu, context menus, explorer, style and order back to the Windows 7 & 10 style.
