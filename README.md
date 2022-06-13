@@ -330,7 +330,7 @@ There’s already a way to remove the Windows 11 watermark. It’s important to 
 [O&O ShutUp10++](https://www.oo-software.com/en/shutup10) is a free tool that let's you have full control over which comfort functions under **Windows 10 and Windows 11** you wish to use, and you decide when the passing on of your data goes too far.
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/173133150-30e02794-43f7-459e-8fbf-a30c017359bc.png">
+ <img src="https://user-images.githubusercontent.com/45159366/173458921-b24022a1-b76f-41b0-83df-547a50b8a2eb.png">
   <br />
 </p>
 
@@ -338,6 +338,13 @@ There’s already a way to remove the Windows 11 watermark. It’s important to 
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/173133138-1c90cba4-923d-42ac-a072-ae58e7acbd87.png">
+  <br />
+</p>
+
+[SecureUxTheme](https://github.com/namazso/SecureUxTheme) is a secure boot compatible in-memory UxTheme patcher.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/173458933-6ffb8910-8d49-477c-9892-e3906a17645a.png">
   <br />
 </p>
 
@@ -359,8 +366,8 @@ There’s already a way to remove the Windows 11 watermark. It’s important to 
 
 [MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect) is a tool that redirects News, Search, Widgets, Weather and more to Your Default Browser of choice in Windows 11.
 
-[AltDrag](https://stefansundin.github.io/altdrag/) is a tool gives you the ability to move and resize windows in a new way. After starting AltDrag, you can simply hold down the Alt key and then click and drag any window. This behavior already exists in Linux and other operating systems, and AltDrag was made with the mission to copy that behavior to the Windows platform, and then to further expand it with new intuitive functionality.
-
+[AltSnap](https://github.com/RamonUnch/AltSnap) is a maintained continuation of [Stefan Sundin's AltDrag](https://stefansundin.github.io/altdrag/). It allows you to move and resize windows by using the Alt key and clicking wherever on the window instead of relying on very precise clicking. This behavior is very common on Linux distributions and is not actually hard to implement on Windows.
+   
 [Twinkle Tray](https://twinkletray.com/) is a tool that lets you easily manage the brightness levels of multiple monitors. This app adds a new icon into your system tray, where you can click to have instant access to the brightness levels of all compatible monitors. 
 
 [Microsoft PowerToys](https://docs.microsoft.com/en-us/windows/powertoys/) is a set of utilities for power users to tune and streamline their Windows 10 experience for greater productivity. To get more information on [PowerToys](https://docs.microsoft.com/windows/powertoys/), or any other tools and resources for [Windows development environments](https://docs.microsoft.com/windows/dev-environment/overview), go to [docs.microsoft.com](https://docs.microsoft.com/windows/powertoys/).
