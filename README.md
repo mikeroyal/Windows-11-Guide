@@ -469,6 +469,14 @@ There’s already a way to remove the Windows 11 watermark. It’s important to 
   Brave
 </p>
 
+[Ungoogled-Chromium](https://github.com/ungoogled-software/ungoogled-chromium) is a lightweight approach to removing Google web service dependency.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/173683899-a91b5b02-533f-4ad2-ba84-c3a70108e0dd.png">
+  <br />
+ Ungoogled-Chromium
+</p>
+
 [Vivaldi](https://vivaldi.com/) is a fast, private and secure web browser for PC, Mac and mobile. It comes with built-in features like Notes, Screen Capture, Image Properties and (a lot) more.
 
 <p align="center">
