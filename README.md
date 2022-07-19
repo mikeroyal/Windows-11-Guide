@@ -25,6 +25,7 @@
       - [Installing drivers for Windows, AMD, and NVIDIA the easy way](https://github.com/mikeroyal/Windows-11-Guide#installing-drivers-for-windows-amd-and-nvidia)
       - [Microsoft Office Alternatives](https://github.com/mikeroyal/Windows-11-Guide#microsoft-office-alternatives)
       - [Secure & Privacy-focused Web Browsers](https://github.com/mikeroyal/Windows-11-Guide#secure--privacy-focused-web-browsers)
+      - [Windows Security Hardening](#Windows-Security-Hardening)
       - [Manage/Control Fans (CPU, GPU, and motherboard)](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#managecontrol-fans)
 
 2. [Getting Software](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#getting-software)
@@ -501,6 +502,27 @@ There’s already a way to remove the Windows 11 watermark. It’s important to 
  <img src="https://user-images.githubusercontent.com/45159366/169711128-745e445d-0c1e-46d8-a7cf-12b0d6fcbda5.png">
   <br />
   Ghostery Dawn
+</p>
+
+## Windows Security Hardening
+[Back to the Top](#table-of-contents)
+
+[Microsoft Security Compliance Toolkit (SCT) 1.0](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-security-configuration-framework/security-compliance-toolkit-10) is a set of tools that allows enterprise security administrators to download, analyze, test, edit, and store Microsoft-recommended security configuration baselines for Windows and other Microsoft products. Also checkout [Microsoft Security Baselines](https://techcommunity.microsoft.com/t5/microsoft-security-baselines/new-amp-updated-security-tools/ba-p/1631613).
+
+ - [Microsoft recommended block rules](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/microsoft-recommended-block-rules)
+ 
+ - [Windows Server Security documentation](https://docs.microsoft.com/en-us/windows-server/security/security-and-assurance)
+
+[PingCastle](https://www.pingcastle.com/) is a tool to check the security of [Active Directory](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview).
+
+[ConfigureDefender](https://github.com/AndyFul/ConfigureDefender) is a small GUI application to view and configure important Defender settings on Windows 10/11 and Windows Server 2019 or later. It uses [PowerShell cmdlets](https://docs.microsoft.com/en-us/powershell/scripting/developer/cmdlet/cmdlet-overview) (with a few exceptions) to change the Windows Defender settings.
+
+[Hardentools](https://github.com/securitywithoutborders/hardentools) is designed to disable a number of "features" exposed by operating systems (Microsoft Windows, for now) and some widely used applications (Microsoft Office and Adobe PDF Reader, for now). These features, commonly thought for enterprise customers, are generally useless to regular users and rather pose as dangers as they are very commonly abused by attackers to execute malicious code on a victim's computer. 
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/179671248-1546acd4-9c92-4daa-962f-f262b2d08f2b.png">
+  <br />
+  Hardentools UI
 </p>
 
 ## Manage/Control Fans
