@@ -27,6 +27,8 @@
       - [Secure & Privacy-focused Web Browsers](https://github.com/mikeroyal/Windows-11-Guide#secure--privacy-focused-web-browsers)
       - [Windows Security Hardening](#Windows-Security-Hardening)
       - [Manage/Control Fans (CPU, GPU, and motherboard)](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#managecontrol-fans)
+      - [Storage Disk Health/Data Recovery](https://github.com/mikeroyal/Windows-11-Guide#Storage-Disk-HealthData-Recovery)
+      - [Battery Health](https://github.com/mikeroyal/Windows-11-Guide#Battery-Health)
 
 2. [Getting Software](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#getting-software)
 
@@ -215,6 +217,22 @@
  <img src="https://user-images.githubusercontent.com/45159366/158471950-74640216-66ed-407b-a615-e643284ba0b8.png">
   <br />
   Rufus
+</p>
+
+**In Rufus 3.19:**
+
+Add a new selection dialog for Windows 11 setup customization:
+
+  * Secure Boot and TPM bypass have now been moved to this dialog.
+  * Allows to bypass the mandatory requirement for a Microsoft account on Windows 11 22H2.
+    **(Note: Network must be temporarily disabled for the local account creation to be proposed).**
+  * Added an option to skip all collection questions (Sets all answers to “Don’t allow”).
+  * Added an option for setting internal drives offline for Windows To Go.
+  
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/183272077-015b8bb2-af94-443a-a455-f2018fcbd52a.png">
+  <br />
+  Rufus 3.19 Windows 11 setup customization.
 </p>
 
 ## Creating a Local Account on Windows 11 Home and Pro
@@ -546,6 +564,56 @@ Fan Control main UI
 <br />
 MSI Afterburner UI
 </p>
+
+## Storage Disk Health/Data Recovery 
+
+[Back to the Top](#table-of-contents)
+
+[DiskMon](https://docs.microsoft.com/en-us/sysinternals/downloads/diskmon) is an application that logs and displays all hard disk activity on a Windows system.
+
+[Disk Drill](https://www.cleverfiles.com/data-recovery-software.html) is a Data Recovery Software that recover any type of deleted files in Windows including Office documents, messages, and media files quickly and easily. Disk Drill for Windows is free data recovery software that restores deleted files from an HDD, USB drive or any kind of disk-based storage media. 
+
+[Scrutiny](https://github.com/AnalogJ/scrutiny) is a WebUI tool for smartd [S.M.A.R.T monitoring](https://www.crucial.com/articles/about-ssd/smart-and-ssds), Historical Trends & Real World Failure Thresholds.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/183272245-468ac924-ebd6-475d-94af-6dfa7b97e7cb.png">
+<br />
+Scrutiny UI
+</p>
+
+
+## Battery Health
+
+[Back to the Top](#table-of-contents)
+
+### Powercfg Battery Report
+
+[Powercfg](https://docs.microsoft.com/en-us/windows-hardware/design/device-experiences/powercfg-command-line-options) is a tool built-in to Windows that generates detailed report on battery health of your Windows device. 
+
+To generate a battery report, **press Windows Key + X and select Command Prompt**. Then type in **powercfg /batteryreport**. This command saves a battery report in HTML format to
+
+```C:\Users\Your_Username\battery-report.html```
+
+Open the file in your browser and check the following parameters:
+
+  * The difference between Design Capacity and Full Charge Capacity. As batteries wear over time, the full charge capacity will be less than the design capacity.
+  
+  * Battery capacity drained over the last few days in different power states. Also, check out the battery usage graph.
+  
+  * Compare the battery life from the time you purchased the laptop and see the trends of Full Charge Capacity in relation to Design Capacity.
+  
+  * Check the battery’s usage and duration. And the time your computer ran on battery or plugged into the power outlet.
+  
+### Microsys Smarter Battery
+
+[Smarter Battery](https://www.microsys.ro/smarterbattery.htm) is a battery monitoring utility for portable computers, intended to provide all the data of your battery, to help prolong its life and save its energy. It shows you the evolution of the battery's capacity during the charge / discharge cycles and computes a few important battery parameters, such as the wear level and discharge cycles count.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/183272241-70318426-0302-41c8-9cb2-c262b9d13b30.png">
+<br />
+ Microsys Smarter Battery UI
+</p>
+
 
 # Getting Software
 
