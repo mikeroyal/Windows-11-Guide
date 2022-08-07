@@ -525,6 +525,24 @@ There’s already a way to remove the Windows 11 watermark. It’s important to 
   Hardentools UI
 </p>
 
+[Chris Titus Tech Windows Utility](https://github.com/ChrisTitusTech/winutil) is the Ultimate Windows 10 & 11 script designed to be a swiss army knife of Windows tools to help setup and optimize machines. [The Ultimate Windows Utility | Chris Titus Tech YouTube.](https://www.youtube.com/watch?v=tPRv-ATUBe4)
+
+**Paste this command into Powershell (admin):**
+
+```iwr -useb https://christitus.com/win | iex```
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/169711131-7b8e000c-e544-470e-9164-d76938759ccf.png">
+  <br />
+</p>
+
+[O&O ShutUp10++](https://www.oo-software.com/en/shutup10) is a free tool that let's you have full control over which comfort functions under **Windows 10 and Windows 11** you wish to use, and you decide when the passing on of your data goes too far.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/173458921-b24022a1-b76f-41b0-83df-547a50b8a2eb.png">
+  <br />
+</p>
+
 ## Manage/Control Fans
 
 [Back to the Top](https://github.com/mikeroyal/Windows-11-Guide#table-of-contents)
