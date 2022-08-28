@@ -525,6 +525,14 @@ There’s already a way to remove the Windows 11 watermark. It’s important to 
 ## Windows Security Hardening
 [Back to the Top](#table-of-contents)
 
+ * [Personal Security Checklist](https://github.com/Lissy93/personal-security-checklist) is a curated checklist of 300+ tips for protecting digital security and privacy in 2022.
+
+ * [Awesome Privacy](https://github.com/Lissy93/awesome-privacy) is acurated list of privacy & security-focused software and services. 
+ 
+ * [Cover Your Tracks AKA Panopticlick](https://coveryourtracks.eff.org/) is a web tool developed by the Electronic Frontier Foundation (EFF) that tests your browser to see how well you are protected from tracking and fingerprinting.
+
+[Sysinternals Suite](https://docs.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite) is the entire set of Sysinternals Utilities rolled up into a single download. Also, checkout the [Sysinternals Utilities Index](https://docs.microsoft.com/en-us/sysinternals/downloads/).
+
 [Microsoft Security Compliance Toolkit (SCT) 1.0](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-security-configuration-framework/security-compliance-toolkit-10) is a set of tools that allows enterprise security administrators to download, analyze, test, edit, and store Microsoft-recommended security configuration baselines for Windows and other Microsoft products. Also checkout [Microsoft Security Baselines](https://techcommunity.microsoft.com/t5/microsoft-security-baselines/new-amp-updated-security-tools/ba-p/1631613).
 
  - [Microsoft recommended block rules](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/microsoft-recommended-block-rules)
