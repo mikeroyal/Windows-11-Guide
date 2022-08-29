@@ -25,7 +25,7 @@
       - [Installing drivers for Windows, AMD, and NVIDIA the easy way](https://github.com/mikeroyal/Windows-11-Guide#installing-drivers-for-windows-amd-and-nvidia)
       - [Microsoft Office Alternatives](https://github.com/mikeroyal/Windows-11-Guide#microsoft-office-alternatives)
       - [Secure & Privacy-focused Web Browsers](https://github.com/mikeroyal/Windows-11-Guide#secure--privacy-focused-web-browsers)
-         * [Privacy & Security Focused Browser extensions](https://github.com/mikeroyal/Windows-11-Guide#privacy--security-focused-browser-extnesions)
+         * [Privacy & Security Focused Browser extensions](https://github.com/mikeroyal/Windows-11-Guide#privacy--security-focused-browser-extensions)
          * [Privacy-focused Search Engines](https://github.com/mikeroyal/Windows-11-Guide#privacy-focused-search-engines)
       - [Windows Security Hardening](#Windows-Security-Hardening)
       - [Manage/Control Fans (CPU, GPU, and motherboard)](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#managecontrol-fans)
@@ -526,7 +526,7 @@ There’s already a way to remove the Windows 11 watermark. It’s important to 
 
 ### Privacy & Security Focused Browser extensions
 
-[Back to the Top](table-of-contents)
+[Back to the Top](#table-of-contents)
 
 [UBlock Origin](https://ublockorigin.com/) is a free and open-source, cross-platform browser extension for content filtering primarily aimed at neutralizing privacy invasion in an efficient, user-friendly method.
 
@@ -589,7 +589,7 @@ There’s already a way to remove the Windows 11 watermark. It’s important to 
 
 ### Privacy-focused Search Engines
 
-[Back to the Top](table-of-contents)
+[Back to the Top](#table-of-contents)
 
  * [Brave Search](https://brave.com/search/)
 
