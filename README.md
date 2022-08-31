@@ -27,10 +27,12 @@
       - [Secure & Privacy-focused Web Browsers](https://github.com/mikeroyal/Windows-11-Guide#secure--privacy-focused-web-browsers)
          * [Privacy & Security Focused Browser extensions](https://github.com/mikeroyal/Windows-11-Guide#privacy--security-focused-browser-extensions)
          * [Privacy-focused Search Engines](https://github.com/mikeroyal/Windows-11-Guide#privacy-focused-search-engines)
-      - [Windows Security Hardening](#Windows-Security-Hardening)
+      - [Windows Security Hardening](https://github.com/mikeroyal/Windows-11-Guide#Windows-Security-Hardening)
+         * [Encryption Tools](https://github.com/mikeroyal/Windows-11-Guide#Encryption-Tools)
       - [Manage/Control Fans (CPU, GPU, and motherboard)](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#managecontrol-fans)
       - [Storage Disk Health/Data Recovery](https://github.com/mikeroyal/Windows-11-Guide#Storage-Disk-HealthData-Recovery)
       - [Battery Health](https://github.com/mikeroyal/Windows-11-Guide#Battery-Health)
+     
 
 2. [Getting Software](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#getting-software)
 
@@ -699,6 +701,26 @@ There’s already a way to remove the Windows 11 watermark. It’s important to 
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/173458921-b24022a1-b76f-41b0-83df-547a50b8a2eb.png">
+  <br />
+</p>
+
+### Encryption Tools
+
+[Back to the Top](#table-of-contents)
+
+[BitLocker Drive Encryption](https://docs.microsoft.com/en-us/windows/security/information-protection/bitlocker/bitlocker-overview) is a data protection feature that integrates with the Windows operating system and addresses the threats of data theft or exposure from lost, stolen, or inappropriately decommissioned computers. BitLocker provides the most protection when used with a Trusted Platform Module (TPM) version 1.2 or later.
+
+[Folder Lock](https://www.newsoftwares.net/folderlock/) is an encryption tool that can Lock and Hide files and folders within seconds. It enables you to Password Protect and restricts the unwanted eyes from viewing files, folders and drives. 
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/187567416-46dc4eb7-0217-4010-9509-c4e826784128.png">
+  <br />
+</p>
+
+[VeraCrypt](https://www.veracrypt.fr/code/VeraCrypt/) is free open-source disk encryption software for Windows, Mac OS X and Linux. The file encryption, data encryption performed by VeraCrypt is real-time (on-the-fly), automatic, transparent, needs very little memory, and does not involve temporary unencrypted files.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/187567414-7b1348e5-da9c-4cf8-8505-27d203493c0f.png">
   <br />
 </p>
 
