@@ -3419,6 +3419,8 @@ It is extended by a set of privacy-specific requirements, control objectives and
 
 [Getting Started with Java in Visual Studio Code](https://code.visualstudio.com/docs/java/java-tutorial)
 
+[Learn Java Programming in Detail](https://www.scaler.com/topics/java/)
+
 [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
 
 [AOSP Java Code Style for Contributors](https://source.android.com/setup/contribute/code-style)
