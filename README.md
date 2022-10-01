@@ -494,6 +494,14 @@ There’s already a way to remove the Windows 11 watermark. It’s important to 
   Firefox
 </p>
 
+[LibreWolf](https://librewolf.net/) is an open-source web browser designed to increase protection against tracking and fingerprinting techniques, while also including a few security improvements. It removes all the telemetry, data collection and annoyances, as well as disabling anti-freedom features like DRM.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/193399901-56f1b47d-f092-4a3f-b7f3-9141ff5644f0.png">
+  <br />
+  LibreWolf
+</p>
+
 [Brave](https://brave.com/) is a fast, private and secure web browser for PC, Mac and mobile. It comes with [Brave Search](https://brave.com/search/), which is a private search engine that puts you first, not big tech for those that don't want to use Google Search.
 
 <p align="center">
