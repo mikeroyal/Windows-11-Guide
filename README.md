@@ -428,12 +428,18 @@ There’s already a way to remove the Windows 11 watermark. It’s important to 
   Snappy Driver Installer(SDI) Origin
 </p>
 
-[Radeon Software Slimmer](https://github.com/GSDragoon/RadeonSoftwareSlimmer) is a utility to trim down the bloat with Radeon Software for AMD GPUs on Microsoft Windows.
+[Download Display Driver Uninstaller(DDU)](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html) is a driver removal utility that can help you completely uninstall AMD/NVIDIA graphics card drivers and packages from your system, without leaving leftovers behind (including registry keys, folders and files, driver store). 
 
-<p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/158469181-d31fabff-c75c-4e4e-92c8-e0a5ea37cbac.png">
+**Recommended usage:**
+
+  * The tool can be used in Normal mode but for absolute stability when using DDU, Safemode is always the best.
+  * Make a backup or a system restore (but it should normally be pretty safe).
+  * It is best to exclude the DDU folder completely from any security software to avoid issues.
+  
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/193400130-34f1f713-e471-4e3c-a10f-2eec2465e7f1.png">
   <br />
-  Radeon Software Slimmer UI
+  Download Display Driver Uninstaller(DDU)
 </p>
 
 [NVCleanstall](https://www.techpowerup.com/nvcleanstall/) is a tool that lets you customize the NVIDIA GeForce Driver package by removing components that you don't need (or want). This not only keeps things tidy, but also lowers disk usage and memory footprint.
@@ -442,6 +448,14 @@ There’s already a way to remove the Windows 11 watermark. It’s important to 
  <img src="https://user-images.githubusercontent.com/45159366/158471956-9a6d5225-f27e-4096-a36f-8c0c72437e7e.png">
   <br />
   NVCleanstall UI
+</p>
+
+[Radeon Software Slimmer](https://github.com/GSDragoon/RadeonSoftwareSlimmer) is a utility to trim down the bloat with Radeon Software for AMD GPUs on Microsoft Windows.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/158469181-d31fabff-c75c-4e4e-92c8-e0a5ea37cbac.png">
+  <br />
+  Radeon Software Slimmer UI
 </p>
 
 [OpenRGB](https://openrgb.org/) is an open source RGB lighting control tool that doesn't depend on manufacturer software.  This includes ASUS Aura, ASRock, Corsair, G.Skill, Gigabyte, HyperX, MSI, Razer Synapse, ThermalTake, RGB Fusion, iCue, Mystic Light, Alienware AlienFX, Logitech G Hub, and any other RGB app. OpenRGB has support for Windows, Linux, MacOS(Apple Silicon ARM64 and Intel). 
