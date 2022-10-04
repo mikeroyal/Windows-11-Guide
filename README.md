@@ -869,7 +869,7 @@ Open the file in your browser and check the following parameters:
   <br />
 </p>
 
-[Chocolatey](https://chocolatey.org/) is a software management solution unlike anything else you've ever experienced on Windows. It focuses on simplicity, security, and infinite scalability.
+[Chocolatey](https://chocolatey.org/) is a software management solution unlike anything else you've ever experienced on Windows. It focuses on simplicity, security, and infinite scalability. The GUI is perhaps the best way to start for beginners. It can be installed by using `choco install chocolateygui` after having installed choco as described [here](https://chocolatey.org/install).
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/45159366/110880124-f7d99500-8292-11eb-9e7d-e9c335cbc173.png">
