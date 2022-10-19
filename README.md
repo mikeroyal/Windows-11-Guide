@@ -37,7 +37,7 @@
 2. [Getting Software](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#getting-software)
 
 3. [Gaming](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#gaming)
-
+   - [Game Controllers](#game-controllers)
    - [Steam](https://github.com/mikeroyal/Windows-11-Guide#steam)
    - [Epic Games Store](https://github.com/mikeroyal/Windows-11-Guide#epic-games-store)
    - [Game Streaming](https://github.com/mikeroyal/Windows-11-Guide#game-streaming)
@@ -887,6 +887,42 @@ Open the file in your browser and check the following parameters:
 # Gaming
 
 [Back to the Top](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#table-of-contents)
+
+## Game Controllers
+[Back to the Top](#table-of-contents)
+
+[Xbox Game Bar](https://aka.ms/controllerbar) is a tool for Windows 10 and 11 that can be opened with Win+G, or by pressing the Xbox button on an Xbox controller. It has quick shortcuts for taking screenshots or screen recordings, checking CPU and GPU usage, changing audio levels/outputs, and more.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/196626403-bd00391f-f576-48c6-82db-437f738583dd.png">
+<br />
+</p>
+
+Game Controller Bar. Image Credit: [Microsoft](https://blogs.windows.com/windows-insider/2022/05/05/windows-insiders-can-now-try-out-an-early-preview-of-controller-bar/)
+
+[Xbox Wireless Controller + USB-C® Cable](https://www.xbox.com/en-us/accessories/controllers/xbox-wireless-controller-usb-c)
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/187094245-3c406751-4e4b-42fd-bd2c-a72181722fad.png">
+<br />
+Xbox Controller
+</p>
+
+[PlayStation 5 DualSense™ Wireless Controller](https://www.playstation.com/en-us/accessories/dualsense-wireless-controller/)
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/187094347-109c80cd-5cc3-4a97-8a8f-0181687ab0d4.png">
+<br />
+PS 5  DualSense™ Controller
+</p>
+
+[Nintendo Switch Pro Controller](https://www.amazon.com/Nintendo-Switch-Pro-Controller/dp/B01NAWKYZ0)
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/194023448-09e74efa-67f8-4503-87f5-5b7e59289608.png">
+<br />
+Nintendo Switch Pro Controller
+</p>
 
 ## Steam
 [Back to the Top](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#table-of-contents)
