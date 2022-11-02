@@ -359,6 +359,25 @@ There’s already a way to remove the Windows 11 watermark. It’s important to 
   <br />
 </p>
 
+[NTLite ($40)](https://www.ntlite.com/) is a local Windows configuration tool for updating and editing Windows images and deployments made for IT professionals and enthusiasts.
+
+**Features:**
+
+ * Download Latest Windows Updates.
+ * Integrate/Install Updates and Languages.
+ * Integrate Drivers, Applications and REG files.
+ * Unattended Windows Setup, including Disk Partitioning.
+ * Hardware Driver Targeting.
+ * Windows Settings Configuration.
+ * Component Removal.
+ * Image, live (e.g. C:\Windows) and offline (e.g. D:\Windows, mounted VHD etc) editing *no capturing.
+ * Pending Changes Overview.
+ 
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/199430788-8c733b76-510a-48fc-9dac-55e3f327d2fd.png">
+  <br />
+</p>
+
 [WinPaletter](https://github.com/Abdelrhman-AK/WinPaletter) is a tool to colorize Windows 10/11 Accents without restrictions. It was created/developed by [Abdelrhman-AK](https://github.com/Abdelrhman-AK/).
 
 <p align="center">
