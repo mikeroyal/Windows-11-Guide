@@ -22,7 +22,12 @@
       - [Creating a Local Account on Windows 11 Home and Pro](https://github.com/mikeroyal/Windows-11-Guide#Creating-a-Local-Account-on-Windows-11-Home-and-Pro)
       - [Removing the Windows 11 Watermark for Unsupported Hardware](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#removing-the-windows-11-watermark)
       - [Ways to Customize Windows 11 Look and Feel](https://github.com/mikeroyal/Windows-11-Guide#Ways-to-Customize-Windows-11-Look-and-Feel)
-      - [Installing drivers for Windows, AMD, and NVIDIA the easy way](https://github.com/mikeroyal/Windows-11-Guide#installing-drivers-for-windows-amd-and-nvidia)
+      - [Installing drivers for Windows, AMD, NVIDIA, Intel ARC the easy way](https://github.com/mikeroyal/Windows-11-Guide#installing-drivers-for-windows-amd-and-nvidia)
+        * [General Drivers](General-Drivers)
+        * [NVIDIA](#NVIDIA)
+        * [AMD](#AMD)
+        * [Intel ARC](#Intel-ARC)
+        * [Gaming Peripherals](#Gaming-Peripherals)
       - [Microsoft Office Alternatives](https://github.com/mikeroyal/Windows-11-Guide#microsoft-office-alternatives)
       - [Secure & Privacy-focused Web Browsers](https://github.com/mikeroyal/Windows-11-Guide#secure--privacy-focused-web-browsers)
          * [Privacy & Security Focused Browser extensions](https://github.com/mikeroyal/Windows-11-Guide#privacy--security-focused-browser-extensions)
@@ -439,7 +444,10 @@ There’s already a way to remove the Windows 11 watermark. It’s important to 
 [Lively Wallpaper](https://rocksdanister.github.io/lively/) is a Windows application designed to turn GIFs, games, and videos into animated wallpapers. 
 
 ## Installing drivers for Windows, AMD, and NVIDIA
-[Back to the Top](https://github.com/mikeroyal/Windows-11-Guide#table-of-contents)
+[Back to the Top](#table-of-contents)
+
+### General Drivers
+[Back to the Top](#table-of-contents)
 
 [Snappy Driver Installer(SDI) Origin](https://www.snappy-driver-installer.org) is a portable Windows tool to install and update device drivers. It can be used offline to install drivers where Internet isn't available. No more searching for drivers after a clean install of Windows 10/11.
 
@@ -463,12 +471,54 @@ There’s already a way to remove the Windows 11 watermark. It’s important to 
   Download Display Driver Uninstaller(DDU)
 </p>
 
+### NVIDIA
+[Back to the Top](#table-of-contents)
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/189858113-0d681062-8bd5-4db9-b92b-71bec318f2f5.png">
+  <br />
+</p>
+
 [NVCleanstall](https://www.techpowerup.com/nvcleanstall/) is a tool that lets you customize the NVIDIA GeForce Driver package by removing components that you don't need (or want). This not only keeps things tidy, but also lowers disk usage and memory footprint.
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/158471956-9a6d5225-f27e-4096-a36f-8c0c72437e7e.png">
   <br />
   NVCleanstall UI
+</p>
+
+### AMD 
+ [Back to the Top](#table-of-contents)
+ 
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/190588167-4fd0bd50-cd43-47f1-b28f-16f70a243549.png">
+  <br />
+</p>
+ 
+* **[AMD FidelityFX Super Resolution (FSR)](https://www.amd.com/en/technologies/radeon-software-fidelityfx)** is an open source, high-quality solution for producing high resolution frames from lower resolution inputs. FSR enables “practical performance” for costly render operations, such as hardware ray tracing for the AMD RDNA™ and AMD RDNA™ 2 architectures.
+
+* **[AMD FidelityFX Super Resolution (FSR) 2.0](https://github.com/GPUOpen-Effects/FidelityFX-FSR2)** is an open source, high-quality solution for producing high resolution frames from lower resolution inputs. It uses temporal data and optimized anti-aliasing to boost framerates in supported games while delivering similar or better image quality than native resolution.
+
+* **[FidelityFX Super Resolution 3 (FSR 3)](https://www.amd.com/en/technologies/fidelityfx-super-resolution)**, is the latest version of the company’s upscaling tech. AMD claims it’ll provide 2x times increase in frame rate over FSR 2, boosted by the new AMD Fluid Motion Frames technology.
+
+* **[AMD Open Source Driver for Vulkan®](https://github.com/GPUOpen-Drivers/AMDVLK)** is an open-source Vulkan driver for Radeon™ graphics adapters on Linux®. It is built on top of AMD's Platform Abstraction Library (PAL), a shared component that is designed to encapsulate certain hardware and OS-specific programming details for many of AMD's 3D and compute drivers. 
+
+* **[Vulkan® Memory Allocator (VMA)](https://gpuopen.com/vulkan-memory-allocator/)** is a library provides a simple and easy to integrate API to help you allocate memory for Vulkan® buffer and image storage. 
+
+* **[Radeon™ Raytracing Analyzer (RRA)](https://gpuopen.com/radeon-raytracing-analyzer/)** is a tool that investigates the performance of your raytracing applications and highlight potential bottlenecks.
+
+* **[Radeon™ GPU Profiler](https://gpuopen.com/rgp/)** is a low-level optimization tool that provides detailed information on Radeon™ GPUs.
+
+* **[Radeon™ GPU Analyzer](https://gpuopen.com/rga/)** is an offline compiler and performance analysis tool for DirectX®, Vulkan®, SPIR-V™, OpenGL®, and OpenCL™. It can be used together with [RGP](https://gpuopen.com/rgp/), [RMV](https://gpuopen.com/rmv/), and [RDP](https://gpuopen.com/rdp/).
+
+ * **[Radeon™ Developer Panel (RDP)](https://gpuopen.com/rdp/)** is an essential part of the Radeon™ Developer Tool Suite. It provides the communication channel that delivers requests to, and receives data from, the AMD Radeon™ driver.
+
+* **[Radeon™ Memory Visualizer (RMV)](https://gpuopen.com/learn/radeon-memory-visualizer-on-linux/)** is a powerful tool that allows users to analyze video memory usage on AMD Radeon GPUs.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/190555167-e1293b98-eaf1-4df0-815c-88569b8dfe23.png">
+  <br />
+  Radeon™ Memory Visualizer (RMV)
 </p>
 
 [Radeon Software Slimmer](https://github.com/GSDragoon/RadeonSoftwareSlimmer) is a utility to trim down the bloat with Radeon Software for AMD GPUs on Microsoft Windows.
@@ -478,6 +528,87 @@ There’s already a way to remove the Windows 11 watermark. It’s important to 
   <br />
   Radeon Software Slimmer UI
 </p>
+
+### Intel ARC
+[Back to the Top](#table-of-contents)
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/190093904-20680f0b-a387-4a48-9c43-de8d5f0b5d2e.png">
+  <br />
+</p>
+
+[Intel® Arc™ Control](https://www.intel.com/content/www/us/en/products/docs/arc-discrete-graphics/software/arc-control.html) is a utility that puts you in full command of your graphics experience. Tune your graphics performance to perfection, manage driver updates.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/200110729-defad8c3-2b55-4c5d-8f74-d9a8093564fc.png">
+  <br />
+  Intel ARC Control Driver settings
+</p>
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/200110732-2900b64e-3852-4236-8885-b93a2274fbf8.png">
+  <br />
+  Intel ARC Control Studio settings
+</p>
+
+[Intel® Graphics Driver 31.0.101.3430 for Intel® Arc™ A-Series Graphics.](https://www.intel.com/content/www/us/en/download/726609/intel-arc-graphics-windows-dch-driver.html)
+   
+   * [Intel® Arc™ A770M Graphics](https://www.intel.com/content/www/us/en/products/sku/228341/intel-arc-a770m-graphics/downloads.html)
+   * [Intel® Arc™ A550M Graphics](https://www.intel.com/content/www/us/en/products/sku/228343/intel-arc-a550m-graphics/downloads.html)
+   * [Intel® Arc™ A380 Graphics](https://www.intel.com/content/www/us/en/products/sku/227959/intel-arc-a380-graphics/downloads.html)
+   * [Intel® Arc™ A730M Graphics](https://www.intel.com/content/www/us/en/products/sku/228340/intel-arc-a730m-graphics/downloads.html)
+   * [Intel® Arc™ A370M Graphics](https://www.intel.com/content/www/us/en/products/sku/228342/intel-arc-a370m-graphics/downloads.html)
+   * [Intel® Arc™ A350M Graphics](https://www.intel.com/content/www/us/en/products/sku/228338/intel-arc-a350m-graphics/downloads.html)
+   * [Intel® Core™ i7-11700 Processor (16M Cache, up to 4.90 GHz)](https://www.intel.com/content/www/us/en/products/sku/212279/intel-core-i7-11700-processor-16m-cache-up-to-4-90-ghz/downloads.html)
+   * [Intel® Core™ i9-11900 Processor (16M Cache, up to 5.20 GHz)](https://www.intel.com/content/www/us/en/products/sku/212252/intel-core-i9-11900-processor-16m-cache-up-to-5-20-ghz/downloads.html)
+   * [Intel® Core™ i9-11900T Processor (16M Cache, up to 4.90 GHz)](https://www.intel.com/content/www/us/en/products/sku/212256/intel-core-i9-11900t-processor-16m-cache-up-to-4-90-ghz/downloads.html)
+   * [Intel® Core™ i9-11900K Processor (16M Cache, up to 5.30 GHz)](https://www.intel.com/content/www/us/en/products/sku/212325/intel-core-i9-11900k-processor-16m-cache-up-to-5-30-ghz/downloads.html)
+   * [Intel® Core™ i9-12950HX Processor (30M Cache, up to 5.00 GHz)](https://www.intel.com/content/www/us/en/products/sku/228439/intel-core-i9-12950hx-processor-30m-cache-up-to-5-00-ghz/downloads.html)
+   * [Intel® Core™ i9-12900HX Processor (30M Cache, up to 5.00 GHz)](https://www.intel.com/content/www/us/en/products/sku/228441/intel-core-i9-12900hx-processor-30m-cache-up-to-5-00-ghz/downloads.html)
+   * [Intel® Core™ i7-12650HX Processor (24M Cache, up to 4.70 GHz)](https://www.intel.com/content/www/us/en/products/sku/228795/intel-core-i7-12650hx-processor-24m-cache-up-to-4-70-ghz/downloads.html)
+   * [Intel® Core™ i7-12800HX Processor (25M Cache, up to 4.80 GHz)](https://www.intel.com/content/www/us/en/products/sku/226058/intel-core-i7-12800hx-processor-25m-cache-up-to-4-80-ghz/downloads.html)
+   * [Intel® Core™ i7-12850HX Processor (25M Cache, up to 4.80 GHz)](https://www.intel.com/content/www/us/en/products/sku/228442/intel-core-i7-12850hx-processor-25m-cache-up-to-4-80-ghz/downloads.html)
+   * [Intel® Core™ i5-12450HX Processor (12M Cache, up to 4.40 GHz)](https://www.intel.com/content/www/us/en/products/sku/228794/intel-core-i5-12450hx-processor-12m-cache-up-to-4-40-ghz/downloads.html)
+   * [Intel® Core™ i5-12600HX Processor (18M Cache, up to 4.60 GHz)](https://www.intel.com/content/www/us/en/products/sku/228438/intel-core-i5-12600hx-processor-18m-cache-up-to-4-60-ghz/downloads.html)
+   * [Intel® Core™ i5-12450H Processor (12M Cache, up to 4.40 GHz)](https://www.intel.com/content/www/us/en/products/sku/132222/intel-core-i5-12450h-processor-12m-cache-up-to-4-40-ghz/downloads.html)
+   * [Intel® Core™ i5-12500H Processor (18M Cache, up to 4.50 GHz)](https://www.intel.com/content/www/us/en/products/sku/96141/intel-core-i5-12500h-processor-18m-cache-up-to-4-50-ghz/downloads.html)
+   * [Intel® Core™ i5-12600H Processor (18M Cache, up to 4.50 GHz)](https://www.intel.com/content/www/us/en/products/sku/96156/intel-core-i5-12600h-processor-18m-cache-up-to-4-50-ghz/downloads.html)
+   * [Intel® Core™ i7-12700H Processor (24M Cache, up to 4.70 GHz)](https://www.intel.com/content/www/us/en/products/sku/132228/intel-core-i7-12700h-processor-24m-cache-up-to-4-70-ghz/downloads.html)
+   * [Intel® Core™ i7-12800H Processor (24M Cache, up to 4.80 GHz)](https://www.intel.com/content/www/us/en/products/sku/226059/intel-core-i7-12800h-processor-24m-cache-up-to-4-80-ghz/downloads.html)
+   * [Intel® Core™ i7-12650H Processor (24M Cache, up to 4.70 GHz)](https://www.intel.com/content/www/us/en/products/sku/226066/intel-core-i7-12650h-processor-24m-cache-up-to-4-70-ghz/downloads.html)
+   * [Intel® Core™ i9-12900H Processor (24M Cache, up to 5.00 GHz)](https://www.intel.com/content/www/us/en/products/sku/132214/intel-core-i9-12900h-processor-24m-cache-up-to-5-00-ghz/downloads.html)
+   * [Intel® Core™ i9-12900HK Processor (24M Cache, up to 5.00 GHz)](https://www.intel.com/content/www/us/en/products/sku/132215/intel-core-i9-12900hk-processor-24m-cache-up-to-5-00-ghz/downloads.html)
+   * [Intel® Core™ i5-1240P Processor (12M Cache, up to 4.40 GHz)](https://www.intel.com/content/www/us/en/products/sku/132221/intel-core-i5-1240p-processor-12m-cache-up-to-4-40-ghz/downloads.html)
+   * [Intel® Core™ i5-1250P Processor (12M Cache, up to 4.40 GHz)](https://www.intel.com/content/www/us/en/products/sku/226256/intel-core-i5-1250p-processor-12m-cache-up-to-4-40-ghz/downloads.html)
+   * [Intel® Core™ i7-1280P Processor (24M Cache, up to 4.80 GHz)](https://www.intel.com/content/www/us/en/products/sku/226253/intel-core-i7-1280p-processor-24m-cache-up-to-4-80-ghz/downloads.html)
+   * [Intel® Core™ i7-1260P Processor (18M Cache, up to 4.70 GHz)](https://www.intel.com/content/www/us/en/products/sku/226254/intel-core-i7-1260p-processor-18m-cache-up-to-4-70-ghz/downloads.html)
+   * [Intel® Core™ i7-1270P Processor (18M Cache, up to 4.80 GHz)](https://www.intel.com/content/www/us/en/products/sku/226255/intel-core-i7-1270p-processor-18m-cache-up-to-4-80-ghz/downloads.html)
+   
+   
+[Intel® Arc™ Pro Graphics Windows* DCH Driver](https://www.intel.com/content/www/us/en/download/741626/intel-arc-pro-graphics-windows-dch-driver.html?wapkw=intel%20arc)
+   
+    * [Intel® Arc™ Pro A50 Graphics](https://www.intel.com/content/www/us/en/products/sku/230316/intel-arc-pro-a50-graphics/downloads.html)
+    * [Intel® Arc™ Pro A40 Graphics](https://www.intel.com/content/www/us/en/products/sku/230317/intel-arc-pro-a40-graphics/downloads.html)
+    * [Intel® Arc™ Pro A30M Graphics](https://www.intel.com/content/www/us/en/products/sku/216962/intel-arc-pro-a30m-graphics/downloads.html)
+    
+[Intel Xe Super Sampling (XeSS)](https://www.intel.com/content/www/us/en/products/docs/arc-discrete-graphics/xess.html) is a temporal image upscaling AI rendering technology that increases graphics performance similar to [NVIDIA's DLSS (Deep Learning Super Sampling)](https://developer.nvidia.com/dlss). Intel's Arc GPU architecture (Fall 2022) will have GPUs that feature dedicated Xe-cores to run XeSS. The GPUs will have Xe Matrix eXtenstions matrix (XMX) engines for hardware-accelerated AI processing. XeSS will be able to run on devices without XMX, including integrated graphics, though, the performance of XeSS will be lower on non-Intel graphics cards because it will be powered by [DP4a instruction](https://www.intel.com/content/dam/www/public/us/en/documents/reference-guides/11th-gen-quick-reference-guide.pdf).
+
+
+* [ Intel XeSS ML Upscaling | The Digital Foundry Tech Review | XeSS vs DLSS vs Native](https://www.youtube.com/watch?v=rfLwZy650s0)
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/190093928-ca15e58b-f830-47f5-b66b-19219d160178.png">
+  <br />
+</p>
+
+Intel ARC GPUs Overview. Credit: [Intel](https://www.intel.com/content/www/us/en/products/details/discrete-gpus/arc.html)
+
+
+### Gaming Peripherals
+[Back to the Top](#table-of-contents)
+
+
+
 
 [OpenRGB](https://openrgb.org/) is an open source RGB lighting control tool that doesn't depend on manufacturer software.  This includes ASUS Aura, ASRock, Corsair, G.Skill, Gigabyte, HyperX, MSI, Razer Synapse, ThermalTake, RGB Fusion, iCue, Mystic Light, Alienware AlienFX, Logitech G Hub, and any other RGB app. OpenRGB has support for Windows, Linux, MacOS(Apple Silicon ARM64 and Intel). 
 
