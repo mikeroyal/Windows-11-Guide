@@ -47,6 +47,8 @@
    - [Game Controllers](#game-controllers)
    - [Steam](https://github.com/mikeroyal/Windows-11-Guide#steam)
    - [Epic Games Store](https://github.com/mikeroyal/Windows-11-Guide#epic-games-store)
+   - [GOG Galaxy Store](#GOG-Galaxy)
+   - [Itch.io Store](#Itch.io-Store)
    - [Game Streaming](https://github.com/mikeroyal/Windows-11-Guide#game-streaming)
    - [Game Emulators](https://github.com/mikeroyal/Windows-11-Guide#game-emulators)
    - [Performance Benchmarks](https://github.com/mikeroyal/Windows-11-Guide#performance-benchmarks)
@@ -595,7 +597,6 @@ There’s already a way to remove the Windows 11 watermark. It’s important to 
     
 [Intel Xe Super Sampling (XeSS)](https://www.intel.com/content/www/us/en/products/docs/arc-discrete-graphics/xess.html) is a temporal image upscaling AI rendering technology that increases graphics performance similar to [NVIDIA's DLSS (Deep Learning Super Sampling)](https://developer.nvidia.com/dlss). Intel's Arc GPU architecture (Fall 2022) will have GPUs that feature dedicated Xe-cores to run XeSS. The GPUs will have Xe Matrix eXtenstions matrix (XMX) engines for hardware-accelerated AI processing. XeSS will be able to run on devices without XMX, including integrated graphics, though, the performance of XeSS will be lower on non-Intel graphics cards because it will be powered by [DP4a instruction](https://www.intel.com/content/dam/www/public/us/en/documents/reference-guides/11th-gen-quick-reference-guide.pdf).
 
-
 * [ Intel XeSS ML Upscaling | The Digital Foundry Tech Review | XeSS vs DLSS vs Native](https://www.youtube.com/watch?v=rfLwZy650s0)
 
 <p align="center">
@@ -608,9 +609,6 @@ Intel ARC GPUs Overview. Credit: [Intel](https://www.intel.com/content/www/us/en
 
 ### Gaming Peripherals
 [Back to the Top](#table-of-contents)
-
-
-
 
 [OpenRGB](https://openrgb.org/) is an open source RGB lighting control tool that doesn't depend on manufacturer software.  This includes ASUS Aura, ASRock, Corsair, G.Skill, Gigabyte, HyperX, MSI, Razer Synapse, ThermalTake, RGB Fusion, iCue, Mystic Light, Alienware AlienFX, Logitech G Hub, and any other RGB app. OpenRGB has support for Windows, Linux, MacOS(Apple Silicon ARM64 and Intel). 
 
@@ -1156,7 +1154,7 @@ Nintendo Switch Pro Controller
 </p>
 
  ## Epic Games Store
-[Back to the Top](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#table-of-contents)
+[Back to the Top](#table-of-contents)
 
 [Heroic Game Launcher](https://heroicgameslauncher.com/) is an Open Source Game Launcher for Linux, Windows and MacOS (for both Native and Windows Games using Crossover). It supports launching games from the Epic Games Store using Legendary, a CLI alternative to the Epic Games Launcher. 
 
@@ -1164,6 +1162,26 @@ Nintendo Switch Pro Controller
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/111918016-3fed7a00-8a40-11eb-964e-930c801c1c72.png">
+</p>
+
+## GOG Galaxy
+
+[Back to the Top](#table-of-contents)
+
+[GOG Galaxy](https://www.gog.com/galaxy) is an application that lets you combine multiple game libraries into one place and connect with your friends across all gaming platforms, consoles included.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/200258282-da3cd773-c1c9-46d9-af12-aa54428be4ec.png">
+</p>
+
+## Itch.io Store
+
+[Back to the Top](#table-of-contents)
+
+[Itch.io Store](https://itch.io/app) is an app that lets you effortlessly download and run games and software from itch.io. All of your downloads are kept in a single place and are automatically updated.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/45159366/199429576-278a8604-7f76-4a41-abeb-84d03865daeb.png">
 </p>
 
 ## Game Streaming
