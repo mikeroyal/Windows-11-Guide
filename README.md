@@ -48,7 +48,7 @@
    - [Steam](https://github.com/mikeroyal/Windows-11-Guide#steam)
    - [Epic Games Store](https://github.com/mikeroyal/Windows-11-Guide#epic-games-store)
    - [GOG Galaxy Store](#GOG-Galaxy)
-   - [Itch.io Store](#Itch.io-Store)
+   - [Itch.io Store](#Itchio-Store)
    - [Game Streaming](https://github.com/mikeroyal/Windows-11-Guide#game-streaming)
    - [Game Emulators](https://github.com/mikeroyal/Windows-11-Guide#game-emulators)
    - [Performance Benchmarks](https://github.com/mikeroyal/Windows-11-Guide#performance-benchmarks)
