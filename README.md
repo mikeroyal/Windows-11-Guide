@@ -491,6 +491,13 @@ There’s already a way to remove the Windows 11 watermark. It’s important to 
   NVCleanstall UI
 </p>
 
+[EVGA PrecisionX1](https://www.evga.com/precisionx1/) is a software that allows you to fine tune your NVIDIA graphics card, including GPU Clock Offsets, Memory Clock Offsets, Fan Speed, voltage and much more. 
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/200516181-aa7d5033-7f45-47a9-a8ae-de9a1067955b.png">
+</p>
+    
+
 ### AMD 
  [Back to the Top](#table-of-contents)
  
