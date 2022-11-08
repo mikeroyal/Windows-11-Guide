@@ -498,6 +498,8 @@ There’s already a way to remove the Windows 11 watermark. It’s important to 
  <img src="https://user-images.githubusercontent.com/45159366/190588167-4fd0bd50-cd43-47f1-b28f-16f70a243549.png">
   <br />
 </p>
+
+[Precision Boost 2](https://www.amd.com/en/support/kb/faq/cpu-pb2) is a performance-maximizing technology available will work with the Ryzen 5000 or newer AMD processors improving your PC's performance by raising clockspeeds, which makes the processor and your applications run faster. This technology will not be applied retroactively to previous-gen models, like Ryzen 3000 chips. You'll need either a 500-series or 400-series motherboard and a new BIOS based on version 1.1.8.0 AGESA. 
  
 * **[AMD FidelityFX Super Resolution (FSR)](https://www.amd.com/en/technologies/radeon-software-fidelityfx)** is an open source, high-quality solution for producing high resolution frames from lower resolution inputs. FSR enables “practical performance” for costly render operations, such as hardware ray tracing for the AMD RDNA™ and AMD RDNA™ 2 architectures.
 
