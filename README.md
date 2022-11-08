@@ -525,6 +525,20 @@ There’s already a way to remove the Windows 11 watermark. It’s important to 
   Radeon™ Memory Visualizer (RMV)
 </p>
 
+[Hydra 1.2]() is a AMD Ryzen tuning and overclocking utility which adds support for Zen 4 CPUs & also allows GPU tuning as an additional component to the suite. It's developed and maintained by [Yuri Bubliy](https://twitter.com/1usmus) aka 1usmus. To get [early access Hydra 1.2 and Hydra Pro 1.2](https://www.patreon.com/1usmus). 
+  
+    * Complete redesign of all features.
+    * New Curve Optimizer diagnostics (and for Zen 4).
+    * More flexibility for AMD PBO2 and HYBRID OC.
+    * Automatic problem solving (assistant).
+    * Auto GPU tuning.
+    * Unlimited GPU profiling.
+    * Powerful new monitoring.
+    
+<p align="center">
+ <img src="">
+</p>
+
 [Radeon Software Slimmer](https://github.com/GSDragoon/RadeonSoftwareSlimmer) is a utility to trim down the bloat with Radeon Software for AMD GPUs on Microsoft Windows.
 
 <p align="center">
