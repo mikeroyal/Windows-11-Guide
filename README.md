@@ -3635,6 +3635,8 @@ It is extended by a set of privacy-specific requirements, control objectives and
 
 [C++ Institute](https://cppinstitute.org/free-c-and-c-courses)
 
+[C++ for Beginners](https://www.scaler.com/topics/course/cpp-beginners/)
+
 [C++ Online Training Courses on LinkedIn Learning](https://www.linkedin.com/learning/topics/c-plus-plus)
 
 [C++ Tutorials on W3Schools](https://www.w3schools.com/cpp/default.asp)
