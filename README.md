@@ -44,6 +44,8 @@
 3. [Gaming](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#gaming)
    - [Setting up OBS Studio](#Setting-up-OBS-Studio)
       * [Useful OBS Studio 3rd party Plugins & Themes](#useful-obs-studio-3rd-party-plugins-and-themes)
+   - [Discord](#Discord)
+   - [Twitch](#Twitch)
    - [Game Controllers](#game-controllers)
    - [Steam](https://github.com/mikeroyal/Windows-11-Guide#steam)
    - [Epic Games Store](https://github.com/mikeroyal/Windows-11-Guide#epic-games-store)
@@ -1123,7 +1125,28 @@ Open the file in your browser and check the following parameters:
   * **[Virtual Cam Filter](https://github.com/exeldro/obs-virtual-cam-filter)** plugin; make sources available to the virtual camera via a filter
   * **[VNC Source](https://github.com/norihiro/obs-vnc)** plugin; VNC viewer that works as a source.
   * **[Websockets](https://github.com/Palakis/obs-websocket)** plugin; remote-control OBS Studio through WebSockets, compatible with [StreamControl](https://play.google.com/store/apps/details?id=dev.t4ils.obs_remote&hl=en).
+  
+## Discord
 
+[Back to the Top](#table-of-contents)
+
+[Discord](https://discord.com/) is an application with modern voice & text chat app. It provides clear voice, multiple server and channel support, mobile apps, and more. It's available on Linux, macOS, Windows, iOS, Android, and your web browser.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/45159366/203752975-d489f776-2039-474d-82ce-1cdd3dcdeff7.png">
+</p>
+
+## Twitch
+
+[Back to the Top](#table-of-contents)
+
+[Twitch Studio Beta](https://www.twitch.tv/broadcast/studio) is a free streaming software designed for new streamers to create content and share it with a community.
+
+[Twitch](https://www.microsoft.com/en-us/p/twitch/9pfjp1q9r4fk#activetab=pivot:overviewtab) is an application where thousands of communities come together for our favorite streamers join millions enjoying live games, music, sports, esports, podcasts, cooking shows, IRL streams, etc..
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/45159366/203753175-0aaea65d-013e-4a4e-b67d-19a6ca52ff56.png">
+</p>
 
 ## Game Controllers
 [Back to the Top](#table-of-contents)
