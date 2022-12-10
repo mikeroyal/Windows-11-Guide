@@ -1078,9 +1078,9 @@ Open the file in your browser and check the following parameters:
  
  New features for DirectStorage 1.1:
  
-    * GPU decompression and GDeflate now available.
-    * Added EnqueueSetEvent to use Win32 event objects for completion notification.
-    * [Performance improvements and bug fixes.](https://devblogs.microsoft.com/directx/directstorage-api-downloads/)
+ * GPU decompression and GDeflate now available.
+ * Added EnqueueSetEvent to use Win32 event objects for completion notification.
+ * [Performance improvements and bug fixes.](https://devblogs.microsoft.com/directx/directstorage-api-downloads/)
     
 **GPU decompression** is supported on all DirectX 12 + Shader Model 6.0 GPUs. However, one of the benefits of DirectStorage 1.1 is that GPU hardware vendors can provide additional optimizations for their hardware, called metacommands. 
 
