@@ -42,6 +42,7 @@
 2. [Getting Software](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#getting-software)
 
 3. [Gaming](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#gaming)
+   - [DirectStorage](#DirectStorage)
    - [Setting up OBS Studio](#Setting-up-OBS-Studio)
       * [Useful OBS Studio 3rd party Plugins & Themes](#useful-obs-studio-3rd-party-plugins-and-themes)
    - [Discord](#Discord)
@@ -1064,6 +1065,46 @@ Open the file in your browser and check the following parameters:
 # Gaming
 
 [Back to the Top](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#table-of-contents)
+
+## DirectStorage
+
+[Back to the Top](#table-of-contents)
+
+[DirectStorage](https://learn.microsoft.com/en-us/gaming/gdk/_content/gc/system/overviews/directstorage/directstorage-overview) is a feature intended to allow games to make full use of high-speed storage (such as NVMe SSDs) that can can deliver multiple gigabytes a second of small (eg 64kb) data reads with minimal CPU overhead. Although it is possible to saturate a drive using traditional ReadFile-based IO the CPU overhead of increases non-linearly as the size of individual reads decreases. Additionally, most games choose to store their assets compressed on disk in order to reduce the install footprint, with these assets being decompressed on the fly as load time. The CPU overhead of this becomes increasingly expensive as bandwidth increases.
+
+ * [Microsoft DirectStorage GitHub](https://github.com/microsoft/DirectStorage)
+ * [DirectStorage on Windows Samples](https://github.com/microsoft/DirectStorage/blob/main/README.md)
+ * [DirectStorage API Downloads](https://devblogs.microsoft.com/directx/directstorage-api-downloads/)
+ 
+ New features for DirectStorage 1.1:
+ 
+    * GPU decompression and GDeflate now available.
+    * Added EnqueueSetEvent to use Win32 event objects for completion notification.
+    * [Performance improvements and bug fixes.](https://devblogs.microsoft.com/directx/directstorage-api-downloads/)
+    
+**GPU decompression** is supported on all DirectX 12 + Shader Model 6.0 GPUs. However, one of the benefits of DirectStorage 1.1 is that GPU hardware vendors can provide additional optimizations for their hardware, called metacommands. 
+
+ * **AMD:** https://gpuopen.com/amd-support-for-microsoft-directstorage-1-1
+
+ * **Intel:** https://www.intel.com/content/www/us/en/developer/articles/news/directstorage-on-intel-gpus.html
+
+ * **NVIDIA:** https://developer.nvidia.com/blog/accelerating-load-times-for-directx-games-and-apps-with-gdeflate-for-directstorage/
+ 
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/206659588-6d0cb0a1-7d7f-4198-b2fd-c5a612ec3189.png">
+  </br>
+
+</p>
+ 
+ Data flow for decompressing to a GPU resource. Image Credit: [Microsoft](https://devblogs.microsoft.com/directx/directstorage-1-1-now-available/)
+ 
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/206659590-fa102043-e3c6-46db-b3a4-9122234948c4.png">
+  </br>
+
+</p>
+ 
+ PIX timing capture showing DirectStorage reading and decompressing 1.4GiB of data. Image Credit: [Microsoft](https://devblogs.microsoft.com/directx/directstorage-1-1-now-available/)
 
 ## Setting up OBS Studio
 
