@@ -43,6 +43,7 @@
 
 3. [Gaming](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#gaming)
    - [DirectStorage](#DirectStorage)
+   - [NVIDIA RTX IO](#NVIDIA-RTX-IO)
    - [Setting up OBS Studio](#Setting-up-OBS-Studio)
       * [Useful OBS Studio 3rd party Plugins & Themes](#useful-obs-studio-3rd-party-plugins-and-themes)
    - [Discord](#Discord)
@@ -1105,6 +1106,20 @@ Open the file in your browser and check the following parameters:
 </p>
  
  PIX timing capture showing DirectStorage reading and decompressing 1.4GiB of data. Image Credit: [Microsoft](https://devblogs.microsoft.com/directx/directstorage-1-1-now-available/)
+ 
+## NVIDIA RTX IO
+
+[Back to the Top](#table-of-contents)
+ 
+[NVIDIA RTX IO](https://developer.nvidia.com/rtx-io) is a suite of technologies that enables rapid GPU-based loading and asset decompression. NVIDIA RTX™ IO lets compressed data be delivered to GPU memory with minimal staging in system memory. The GPU is utilized for decompression using GDeflate at high throughput. The CPU is freed to perform other auxiliary tasks. The GDeflate compression format will be open source, enabling developers to create ports and tools.
+
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/206842250-423927e2-d529-42d9-91b2-5b1140c2d036.png">
+  </br>
+
+</p>
+
+NVIDIA RTX IO. Image Credit: [NVIDIA](https://developer.nvidia.com/rtx-io)
 
 ## Setting up OBS Studio
 
