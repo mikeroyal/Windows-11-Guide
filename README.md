@@ -41,21 +41,25 @@
 
 2. [Getting Software](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#getting-software)
 
-3. [Gaming](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#gaming)
+3. [Gaming](#Gaming)
    - [DirectStorage](#DirectStorage)
    - [NVIDIA RTX IO](#NVIDIA-RTX-IO)
    - [Setting up OBS Studio](#Setting-up-OBS-Studio)
       * [Useful OBS Studio 3rd party Plugins & Themes](#useful-obs-studio-3rd-party-plugins-and-themes)
    - [Discord](#Discord)
    - [Twitch](#Twitch)
-   - [Game Controllers](#game-controllers)
-   - [Steam](https://github.com/mikeroyal/Windows-11-Guide#steam)
-   - [Epic Games Store](https://github.com/mikeroyal/Windows-11-Guide#epic-games-store)
+   - [Game Controllers](#Game-controllers)
+   - [Steam](#Steam)
+   - [Epic Games Store](#Epic-games-store)
+   - [Blizzard Battle.net integration](#Blizzard-Battlenet)
+   - [Origin](#Origin)
+   - [EA Play](#EA-Play)
+   - [Ubisoft Connect](#Ubisoft-Connect)
    - [GOG Galaxy Store](#GOG-Galaxy)
    - [Itch.io Store](#Itchio-Store)
-   - [Game Streaming](https://github.com/mikeroyal/Windows-11-Guide#game-streaming)
-   - [Game Emulators](https://github.com/mikeroyal/Windows-11-Guide#game-emulators)
-   - [Performance Benchmarks](https://github.com/mikeroyal/Windows-11-Guide#performance-benchmarks)
+   - [Game Streaming](#Game-streaming)
+   - [Game Emulators](#Game-emulators)
+   - [Performance Benchmarks](#Performance-benchmarks)
 
 4. [Windows Subsystem for Android (WSA)](https://github.com/mikeroyal/Windows-11-Guide#windows-subsystem-for-android-wsa)
 
@@ -1265,6 +1269,40 @@ Nintendo Switch Pro Controller
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/111918016-3fed7a00-8a40-11eb-964e-930c801c1c72.png">
 </p>
+
+## Blizzard Battle.net 
+
+[Back to the Top](#table-of-contents)
+
+[Blizzard Battle.net](https://www.blizzard.com/apps/battle.net/desktop) is an internet-based online gaming, digital distribution, and digital rights management platform developed by Activision and Blizzard Entertainment. Battle.net is the launcher for World of Warcraft, Diablo III, StarCraft II, Hearthstone, Heroes of the Storm, Overwatch and Call of Duty.
+
+<img src="https://user-images.githubusercontent.com/45159366/189614458-d51a15cb-d02d-4b1f-9e77-e712dcdb1d73.png">
+
+## Origin 
+
+[Back to the Top](#table-of-contents)
+ 
+[Origin](https://www.ea.com/games/library/pc-download) is an online gaming, digital distribution and digital rights management (DRM) platform developed by Electronic Arts that allows users to purchase games on the internet for PC and mobile platforms, and download them with the Origin client (formerly EA Download Manager, EA Downloader and EA Link).
+
+<img src="https://user-images.githubusercontent.com/45159366/189614468-49c4a05c-d6ca-4988-b3e6-10f0c71463d6.png">
+
+## EA Play 
+
+[Back to the Top](#table-of-contents)
+
+[EA Play](https://www.ea.com/ea-play) is a subscription-based video game service from Electronic Arts for the Xbox One, Xbox Series X/S, PlayStation 4, PlayStation 5 and Microsoft Windows platforms, offering access to selected games published by Electronic Arts along with additional incentives.
+
+* **Note:** you will need to install [Origin](https://www.ea.com/games/library/pc-download) to access all EA game titles for EA Play even if you use **EA Play on Steam**.
+
+<img src="https://user-images.githubusercontent.com/45159366/189614466-476e0c4e-bab9-44bd-86c4-8aeadd739b63.png">
+
+## Ubisoft Connect 
+
+[Back to the Top](#table-of-contents)
+
+[Ubisoft Connect](https://ubisoftconnect.com/) is a digital distribution, digital rights management, multiplayer and communications service created by Ubisoft to provide an experience similar to the achievements/trophies offered by various other game companies.
+
+<img src="https://user-images.githubusercontent.com/45159366/189614471-422cbad8-1ae7-4f06-ad81-7f3b68550569.png">
 
 ## GOG Galaxy
 
