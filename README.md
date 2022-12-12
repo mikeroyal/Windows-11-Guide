@@ -44,6 +44,7 @@
 3. [Gaming](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#gaming)
    - [DirectStorage](#DirectStorage)
    - [NVIDIA RTX IO](#NVIDIA-RTX-IO)
+   - [AMD StoreMI](#AMD-StoreMI)
    - [Setting up OBS Studio](#Setting-up-OBS-Studio)
       * [Useful OBS Studio 3rd party Plugins & Themes](#useful-obs-studio-3rd-party-plugins-and-themes)
    - [Discord](#Discord)
@@ -1120,6 +1121,31 @@ Open the file in your browser and check the following parameters:
 </p>
 
 NVIDIA RTX IO. Image Credit: [NVIDIA](https://developer.nvidia.com/rtx-io)
+
+## AMD StoreMI
+
+[Back to the Top](#table-of-contents)
+
+[AMD StoreMI](https://www.amd.com/en/technologies/store-mi) is a powerful tool for PC enthusiasts that want to improve load times, boot times, file management, or system responsiveness. A StoreMI configuration simply mirrors your most-used files to an SSD of your choosing, leaving the original copy intact. The software seamlessly redirects Windows® and your applications to use the faster mirrored copy. Removing or disabling the SSD cache leaves all of your files on the hard drive, right where they started. Available on **AMD X570, PRO 565, B550, A520, 400 Series, X399, TRX40 or WRX80 motherboard.**
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/206895460-3b4782fd-7716-46be-833c-af395b5010c0.png">
+  </br>
+
+</p>
+
+AMD StoreMI. Image Credit: [AMD](https://www.amd.com/en/technologies/store-mi)
+
+  **Features:**
+
+    * Supports up to four StoreMI Cache Drives simultaneously
+    * SSD partition can be used as cache 
+    * Supports HDD/SSD combos of any capacity
+    * Caching system mirrors your data to SSD for speedup
+    * All-new UI makes setup, monitoring, reversal a snap
+    * “Read only” algorithm enhances data integrity
+    * Automatically prioritizes most-used data to the SSD cache
+    * Ideal for accelerating apps and games on a large HDD
 
 ## Setting up OBS Studio
 
