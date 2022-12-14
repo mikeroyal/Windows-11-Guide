@@ -52,7 +52,7 @@
    - [Game Controllers](#Game-controllers)
    - [Steam](#Steam)
    - [Epic Games Store](#Epic-games-store)
-   - [Blizzard Battle.net integration](#Blizzard-Battlenet)
+   - [Blizzard Battle.net](#Blizzard-Battlenet)
    - [Origin](#Origin)
    - [EA Play](#EA-Play)
    - [Ubisoft Connect](#Ubisoft-Connect)
