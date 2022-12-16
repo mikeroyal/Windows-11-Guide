@@ -46,9 +46,11 @@
         * [NVIDIA](#NVIDIA)
         * [AMD](#AMD)
         * [Intel ARC](#Intel-ARC)
-   - [DirectStorage](#DirectStorage)
-   - [NVIDIA RTX IO](#NVIDIA-RTX-IO)
-   - [AMD StoreMI](#AMD-StoreMI)
+   - [Improving Game Performance & Load Times](#Improving-Game-Performance--Load-Times)
+        * [DirectStorage](#DirectStorage)
+        * [NVIDIA RTX IO](#NVIDIA-RTX-IO)
+        * [AMD StoreMI](#AMD-StoreMI)
+	* [Intel® Rapid Storage Technology (Intel® RST)](#Intel-RST)
    - [Setting up OBS Studio](#Setting-up-OBS-Studio)
       * [Useful OBS Studio 3rd party Plugins & Themes](#useful-obs-studio-3rd-party-plugins-and-themes)
    - [Discord](#Discord)
@@ -1233,7 +1235,10 @@ Open the file in your browser and check the following parameters:
 
 Intel ARC GPUs Overview. Credit: [Intel](https://www.intel.com/content/www/us/en/products/details/discrete-gpus/arc.html)
 
-## DirectStorage
+
+## Improving Game Performance & Load Times
+
+### DirectStorage
 
 [Back to the Top](#table-of-contents)
 
@@ -1273,7 +1278,7 @@ Intel ARC GPUs Overview. Credit: [Intel](https://www.intel.com/content/www/us/en
  
  PIX timing capture showing DirectStorage reading and decompressing 1.4GiB of data. Image Credit: [Microsoft](https://devblogs.microsoft.com/directx/directstorage-1-1-now-available/)
  
-## NVIDIA RTX IO
+### NVIDIA RTX IO
 
 [Back to the Top](#table-of-contents)
  
@@ -1287,7 +1292,7 @@ Intel ARC GPUs Overview. Credit: [Intel](https://www.intel.com/content/www/us/en
 
 NVIDIA RTX IO. Image Credit: [NVIDIA](https://developer.nvidia.com/rtx-io)
 
-## AMD StoreMI
+### AMD StoreMI
 
 [Back to the Top](#table-of-contents)
 
@@ -1311,6 +1316,23 @@ AMD StoreMI. Image Credit: [AMD](https://www.amd.com/en/technologies/store-mi)
     * “Read only” algorithm enhances data integrity
     * Automatically prioritizes most-used data to the SSD cache
     * Ideal for accelerating apps and games on a large HDD
+    
+### Intel® RST
+
+[Back to the Top](#table-of-contents)
+
+[Intel® Rapid Storage Technology (Intel® RST)](https://www.intel.com/content/www/us/en/download/15667/intel-rapid-storage-technology-intel-rst-user-interface-and-driver.html) is a Windows-based application that provides improved performance, reliability, and lower power consumption for supported systems equipped with Serial ATA (SATA) devices, Serial Attached SCSI (SAS) devices, and/or solid state drives (SSDs) to enable an optimal storage solution for desktop, mobile, and server platforms.
+
+**Intel RST Features:**
+
+   * System acceleration with Intel® Optane™ memory
+   * Configuration and maintenance of RAID 0/1/5/10   
+   
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/207818674-4512e8cf-8c3a-45cd-ae96-f882e30c289a.png">
+  </br>
+ 
+</p>
 
 ## Setting up OBS Studio
 
