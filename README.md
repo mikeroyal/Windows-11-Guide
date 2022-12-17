@@ -68,7 +68,7 @@
      * [Ubisoft Connect](#Ubisoft-Connect)
      * [GOG Galaxy Store](#GOG-Galaxy)
      * [Itch.io Store](#Itchio-Store)
-     * [PolyMC for MineCraft](PolyMC)
+     * [PolyMC for MineCraft](#PolyMC)
    - [Game Streaming](#Game-streaming)
      * [Cloud Game Streaming](#Cloud-Game-Streaming)
      * [Local Game Streaming](#Local-Game-Streaming)
