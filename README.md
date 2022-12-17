@@ -58,6 +58,9 @@
    - [Game Controllers](#Game-controllers)
    - [Game Stores & Launchers](#Game-Stores--Launchers)
      * [Steam](#Steam)
+     * [Playnite](#Playnite)
+     * [Launchbox](#Launchbox)
+     * [Razor Cortex](#Razor-Cortex)
      * [Epic Games Store](#Epic-games-store)
      * [Blizzard Battle.net](#Blizzard-Battlenet)
      * [Origin](#Origin)
@@ -1472,6 +1475,36 @@ Nintendo Switch Pro Controller
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/112692999-14ea9800-8e3d-11eb-964a-6bee4e665900.png">
+</p>
+
+### Playnite
+
+[Back to the Top](#table-of-contents)
+
+[Playnite](https://playnite.link/) is an open source video game library manager and launcher with support for 3rd party libraries like Steam, GOG, Origin, Battle.net and Ubisoft Connect. Includes game emulation support, providing one unified interface for your games.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/45159366/208235743-4521f909-f26c-4eb1-b259-0b06e9e1d380.png">
+</p>
+
+### Launchbox
+
+[Back to the Top](#table-of-contents)
+
+[Launchbox](https://www.launchbox-app.com/) is a video game library manager and launcher that lets you Emulate, Organize, and Beautify Your Game Collection.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/45159366/208235744-614ff162-2de6-404e-9981-bca2c26976a0.jpg">
+</p>
+
+### Razor Cortex
+
+[Back to the Top](#table-of-contents)
+
+[Razer Cortex](https://www.razer.com/cortex/launcher) is a video game library manager and launcher that lets you all your games across different platforms, including Steam, Origin, GOG Galaxy, and Ubisoft Connect.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/45159366/208235752-47600055-722b-437f-b465-b23ae09fbf71.png">
 </p>
 
 ### Epic Games Store
