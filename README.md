@@ -27,7 +27,6 @@
         * [NVIDIA](#NVIDIA)
         * [AMD](#AMD)
         * [Intel ARC](#Intel-ARC)
-        * [Gaming Peripherals](#Gaming-Peripherals)
       - [Microsoft Office Alternatives](https://github.com/mikeroyal/Windows-11-Guide#microsoft-office-alternatives)
       - [Secure & Privacy-focused Web Browsers](https://github.com/mikeroyal/Windows-11-Guide#secure--privacy-focused-web-browsers)
          * [Privacy & Security Focused Browser extensions](https://github.com/mikeroyal/Windows-11-Guide#privacy--security-focused-browser-extensions)
@@ -42,7 +41,7 @@
 2. [Getting Software](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#getting-software)
 
 3. [Gaming](#Gaming)
-   - [Graphics Drivers](#Graphics-Drivers)
+   - [Graphics](#Graphics)
         * [NVIDIA](#NVIDIA)
         * [AMD](#AMD)
         * [Intel ARC](#Intel-ARC)
@@ -55,7 +54,9 @@
       * [Useful OBS Studio 3rd party Plugins & Themes](#useful-obs-studio-3rd-party-plugins-and-themes)
    - [Discord](#Discord)
    - [Twitch](#Twitch)
-   - [Game Controllers](#Game-controllers)
+   - [Gaming Peripherals](#Gaming-Peripherals)
+     * [Gaming mice, keyboards, and headsets](#RGB-Devices)
+     * [Game Controllers](#Game-controllers)
    - [Game Stores & Launchers](#Game-Stores--Launchers)
      * [Steam](#Steam)
      * [Playnite](#Playnite)
@@ -650,21 +651,6 @@ There’s already a way to remove the Windows 11 watermark. It’s important to 
 </p>
 
 Intel ARC GPUs Overview. Credit: [Intel](https://www.intel.com/content/www/us/en/products/details/discrete-gpus/arc.html)
-
-
-### Gaming Peripherals
-[Back to the Top](#table-of-contents)
-
-[OpenRGB](https://openrgb.org/) is an open source RGB lighting control tool that doesn't depend on manufacturer software.  This includes ASUS Aura, ASRock, Corsair, G.Skill, Gigabyte, HyperX, MSI, Razer Synapse, ThermalTake, RGB Fusion, iCue, Mystic Light, Alienware AlienFX, Logitech G Hub, and any other RGB app. OpenRGB has support for Windows, Linux, MacOS(Apple Silicon ARM64 and Intel). 
-
-<p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/158273200-4a3f733c-73b3-4353-b4f0-90e787ea178a.PNG">
-  <br />
-  OpenRGB Device View
-</p>
-
-[OpenRGB SDK](https://gitlab.com/CalcProgrammer1/OpenRGB/-/wikis/OpenRGB-SDK-Documentation) is a network-based Software Development Kit, which allows third-party software to control all of your RGB. This allows for game integrations, music visualization, ambient lighting, and anything else you can imagine. SDK bindings are available for multiple programming languages including C++, Python, C#, Java, and more.
-
 
 ## Microsoft Office Alternatives
 [Back to the Top](https://github.com/mikeroyal/Windows-11-Guide#table-of-contents)
@@ -1424,7 +1410,59 @@ AMD StoreMI. Image Credit: [AMD](https://www.amd.com/en/technologies/store-mi)
   <img src="https://user-images.githubusercontent.com/45159366/203753175-0aaea65d-013e-4a4e-b67d-19a6ca52ff56.png">
 </p>
 
-## Game Controllers
+## Gaming Peripherals
+
+### RGB Devices
+
+[Back to the Top](#table-of-contents)
+
+[Razer Synapse](https://www.razer.com/synapse-3) is a unified cloud-based hardware configuration tool that takes your Razer devices to the next level.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/45159366/208275996-70a83775-a6aa-4496-a37d-d3945c751beb.png">
+</p>
+
+[Logitech G Hub](https://www.logitechg.com/en-us/innovation/g-hub.html) is software tool that lets you customize Logitech G gaming mice, keyboards, headsets, speakers, and other devices.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/45159366/208275997-2b60eac7-0fa3-43d0-a5c6-d49ae2447d61.png">
+</p>
+
+[Corsair iCUE](https://www.corsair.com/us/en/icue) is a tool that enables gaming peripherals and personal computer components including computer case fans, RGB lighting, gaming headsets, gaming keyboards, gaming mouse, remap buttons and switches, RAM DIMMS and AIO CPU cooler together.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/45159366/208275999-4904fece-56c6-4a04-a2de-04bb587d7c1b.png">
+</p>
+
+[Project Aurora](https://www.project-aurora.com/) is a Unified Keyboard RGB Lighting for Logitech, Razer, and Corsair.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/45159366/208276000-f84c1929-a9b0-45bf-a700-c17c4ece8a6e.png">
+</p>
+
+[SignalRGB](https://signalrgb.com/) is a tool that lets you control your RGB devices, your way. Please close all your other RGB apps (ICUE, Synapse, GHub, Armory Crate, etc.) before installing SignalRGB.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/45159366/208276003-408c7866-5d19-4061-84b0-afcbe2349e9b.png">
+</p>
+
+[Artemis RGB](https://artemis-rgb.com/) is an open source a unified hardware configuration tool.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/45159366/208276002-6983c582-0e60-487f-b7f6-8c56d7cebf7d.png">
+</p>
+
+[OpenRGB](https://openrgb.org/) is an open source RGB lighting control tool that doesn't depend on manufacturer software.  This includes ASUS Aura, ASRock, Corsair, G.Skill, Gigabyte, HyperX, MSI, Razer Synapse, ThermalTake, RGB Fusion, iCue, Mystic Light, Alienware AlienFX, Logitech G Hub, and any other RGB app. OpenRGB has support for Windows, Linux, MacOS(Apple Silicon ARM64 and Intel). 
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/158273200-4a3f733c-73b3-4353-b4f0-90e787ea178a.PNG">
+  <br />
+  OpenRGB Device View
+</p>
+
+[OpenRGB SDK](https://gitlab.com/CalcProgrammer1/OpenRGB/-/wikis/OpenRGB-SDK-Documentation) is a network-based Software Development Kit, which allows third-party software to control all of your RGB. This allows for game integrations, music visualization, ambient lighting, and anything else you can imagine. SDK bindings are available for multiple programming languages including C++, Python, C#, Java, and more.
+
+### Game Controllers
 [Back to the Top](#table-of-contents)
 
 [Xbox Game Bar](https://aka.ms/controllerbar) is a tool for Windows 10 and 11 that can be opened with Win+G, or by pressing the Xbox button on an Xbox controller. It has quick shortcuts for taking screenshots or screen recordings, checking CPU and GPU usage, changing audio levels/outputs, and more.
