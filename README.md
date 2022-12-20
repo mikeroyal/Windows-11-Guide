@@ -75,7 +75,7 @@
      * [Local Game Streaming](#Local-Game-Streaming)
    - [Game Emulators](#Game-emulators)
      * [Emulator Frontends](#Frontends)
-     * [Nintendo GameCube & Wii](#Nintendo GameCube--Wii)
+     * [Nintendo GameCube & Wii](#Nintendo-GameCube--Wii)
      * [Nintendo Switch](#Nintendo-Switch)
      * [Nintendo 64](#Nintendo-64)
      * [Nintendo 3DS](#Nintendo-3DS)
