@@ -33,14 +33,16 @@
          * [Privacy-focused Search Engines](https://github.com/mikeroyal/Windows-11-Guide#privacy-focused-search-engines)
       - [Windows Security Hardening](https://github.com/mikeroyal/Windows-11-Guide#Windows-Security-Hardening)
          * [Encryption Tools](https://github.com/mikeroyal/Windows-11-Guide#Encryption-Tools)
-      - [Manage/Control Fans (CPU, GPU, and motherboard)](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#managecontrol-fans)
       - [Storage Disk Health/Data Recovery](https://github.com/mikeroyal/Windows-11-Guide#Storage-Disk-HealthData-Recovery)
       - [Battery Health](https://github.com/mikeroyal/Windows-11-Guide#Battery-Health)
      
-
 2. [Getting Software](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#getting-software)
 
 3. [Gaming](#Gaming)
+   - [Manage/Control Fans (CPU, GPU, and motherboard)](#managecontrol-fans)
+   - [Gaming Peripherals](#Gaming-Peripherals)
+     * [Gaming mice, keyboards, and headsets](#RGB-Devices)
+     * [Game Controllers](#Game-controllers)
    - [Graphics](#Graphics)
         * [NVIDIA](#NVIDIA)
         * [AMD](#AMD)
@@ -54,9 +56,6 @@
       * [Useful OBS Studio 3rd party Plugins & Themes](#useful-obs-studio-3rd-party-plugins-and-themes)
    - [Discord](#Discord)
    - [Twitch](#Twitch)
-   - [Gaming Peripherals](#Gaming-Peripherals)
-     * [Gaming mice, keyboards, and headsets](#RGB-Devices)
-     * [Game Controllers](#Game-controllers)
    - [Game Stores & Launchers](#Game-Stores--Launchers)
      * [Steam](#Steam)
      * [Playnite](#Playnite)
@@ -954,28 +953,6 @@ Intel ARC GPUs Overview. Credit: [Intel](https://www.intel.com/content/www/us/en
   <br />
 </p>
 
-## Manage/Control Fans
-
-[Back to the Top](https://github.com/mikeroyal/Windows-11-Guide#table-of-contents)
-
-[Fan Control](https://github.com/Rem0o/FanControl.Releases) is a highly customizable fan controlling software for Windows
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/45159366/168446885-58a41783-cfbb-4058-a9c9-21bd01a49c3f.png">
-<br />
-Fan Control main UI
-</p>
-
-[MSI Afterburner](https://www.msi.com/page/afterburner) is a tool that provides a detailed overview of your hardware, and also allows graphics card overclocking. It includes RTSS which also provides an on-screen-display during games.
-
-[MSI Afterburner Remote Server](https://www.msi.com/page/afterburner) is a that serves up an HTTP endpoint with data from MSI Afterburner in an XML format.
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/45159366/168446889-6ac9837d-b534-4749-966d-28aef7c03bef.png">
-<br />
-MSI Afterburner UI
-</p>
-
 ## Storage Disk Health/Data Recovery 
 
 [Back to the Top](#table-of-contents)
@@ -1088,6 +1065,117 @@ Open the file in your browser and check the following parameters:
 
 [Back to the Top](#table-of-contents)
 
+## Manage/Control Fans
+
+[Back to the Top](#table-of-contents)
+
+[Fan Control](https://github.com/Rem0o/FanControl.Releases) is a highly customizable fan controlling software for Windows
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/168446885-58a41783-cfbb-4058-a9c9-21bd01a49c3f.png">
+<br />
+Fan Control main UI
+</p>
+
+[MSI Afterburner](https://www.msi.com/page/afterburner) is a tool that provides a detailed overview of your hardware, and also allows graphics card overclocking. It includes RTSS which also provides an on-screen-display during games.
+
+[MSI Afterburner Remote Server](https://www.msi.com/page/afterburner) is a that serves up an HTTP endpoint with data from MSI Afterburner in an XML format.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/168446889-6ac9837d-b534-4749-966d-28aef7c03bef.png">
+<br />
+MSI Afterburner UI
+</p>
+
+## Gaming Peripherals
+
+### RGB Devices
+
+[Back to the Top](#table-of-contents)
+
+[Razer Synapse](https://www.razer.com/synapse-3) is a unified cloud-based hardware configuration tool that takes your Razer devices to the next level.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/45159366/208275996-70a83775-a6aa-4496-a37d-d3945c751beb.png">
+</p>
+
+[Logitech G Hub](https://www.logitechg.com/en-us/innovation/g-hub.html) is software tool that lets you customize Logitech G gaming mice, keyboards, headsets, speakers, and other devices.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/45159366/208275997-2b60eac7-0fa3-43d0-a5c6-d49ae2447d61.png">
+</p>
+
+[Corsair iCUE](https://www.corsair.com/us/en/icue) is a tool that enables gaming peripherals and personal computer components including computer case fans, RGB lighting, gaming headsets, gaming keyboards, gaming mouse, remap buttons and switches, RAM DIMMS and AIO CPU cooler together.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/45159366/208275999-4904fece-56c6-4a04-a2de-04bb587d7c1b.png">
+</p>
+
+[Project Aurora](https://www.project-aurora.com/) is a Unified Keyboard RGB Lighting for Logitech, Razer, and Corsair.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/45159366/208276000-f84c1929-a9b0-45bf-a700-c17c4ece8a6e.png">
+</p>
+
+[SignalRGB](https://signalrgb.com/) is a tool that lets you control your RGB devices, your way. Please close all your other RGB apps (ICUE, Synapse, GHub, Armory Crate, etc.) before installing SignalRGB.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/45159366/208276003-408c7866-5d19-4061-84b0-afcbe2349e9b.png">
+</p>
+
+[Artemis RGB](https://artemis-rgb.com/) is an open source a unified hardware configuration tool.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/45159366/208276002-6983c582-0e60-487f-b7f6-8c56d7cebf7d.png">
+</p>
+
+[OpenRGB](https://openrgb.org/) is an open source RGB lighting control tool that doesn't depend on manufacturer software.  This includes ASUS Aura, ASRock, Corsair, G.Skill, Gigabyte, HyperX, MSI, Razer Synapse, ThermalTake, RGB Fusion, iCue, Mystic Light, Alienware AlienFX, Logitech G Hub, and any other RGB app. OpenRGB has support for Windows, Linux, MacOS(Apple Silicon ARM64 and Intel). 
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/158273200-4a3f733c-73b3-4353-b4f0-90e787ea178a.PNG">
+  <br />
+  OpenRGB Device View
+</p>
+
+[OpenRGB SDK](https://gitlab.com/CalcProgrammer1/OpenRGB/-/wikis/OpenRGB-SDK-Documentation) is a network-based Software Development Kit, which allows third-party software to control all of your RGB. This allows for game integrations, music visualization, ambient lighting, and anything else you can imagine. SDK bindings are available for multiple programming languages including C++, Python, C#, Java, and more.
+
+### Game Controllers
+[Back to the Top](#table-of-contents)
+
+[Xbox Wireless Controller + USB-C® Cable](https://www.xbox.com/en-us/accessories/controllers/xbox-wireless-controller-usb-c)
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/187094245-3c406751-4e4b-42fd-bd2c-a72181722fad.png">
+<br />
+Xbox Controller
+</p>
+
+* [Xbox Game Bar](https://aka.ms/controllerbar) is a tool for Windows 10 and 11 that can be opened with Win+G, or by pressing the Xbox button on an Xbox controller. It has quick shortcuts for taking screenshots or screen recordings, checking CPU and GPU usage, changing audio levels/outputs, and more.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/196626403-bd00391f-f576-48c6-82db-437f738583dd.png">
+<br />
+</p>
+
+Game Controller Bar. Image Credit: [Microsoft](https://blogs.windows.com/windows-insider/2022/05/05/windows-insiders-can-now-try-out-an-early-preview-of-controller-bar/)
+
+[PlayStation 5 DualSense™ Wireless Controller](https://www.playstation.com/en-us/accessories/dualsense-wireless-controller/)
+
+* [Update the wireless controller firmware](https://controller.dl.playstation.net/controller/lang/gb/fwupdater.html)
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/187094347-109c80cd-5cc3-4a97-8a8f-0181687ab0d4.png">
+<br />
+PS 5  DualSense™ Controller
+</p>
+
+[Nintendo Switch Pro Controller](https://www.amazon.com/Nintendo-Switch-Pro-Controller/dp/B01NAWKYZ0)
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/194023448-09e74efa-67f8-4503-87f5-5b7e59289608.png">
+<br />
+Nintendo Switch Pro Controller
+</p>
 
 ## Graphics Drivers
 
@@ -1425,96 +1513,6 @@ AMD StoreMI. Image Credit: [AMD](https://www.amd.com/en/technologies/store-mi)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/45159366/203753175-0aaea65d-013e-4a4e-b67d-19a6ca52ff56.png">
-</p>
-
-## Gaming Peripherals
-
-### RGB Devices
-
-[Back to the Top](#table-of-contents)
-
-[Razer Synapse](https://www.razer.com/synapse-3) is a unified cloud-based hardware configuration tool that takes your Razer devices to the next level.
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/45159366/208275996-70a83775-a6aa-4496-a37d-d3945c751beb.png">
-</p>
-
-[Logitech G Hub](https://www.logitechg.com/en-us/innovation/g-hub.html) is software tool that lets you customize Logitech G gaming mice, keyboards, headsets, speakers, and other devices.
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/45159366/208275997-2b60eac7-0fa3-43d0-a5c6-d49ae2447d61.png">
-</p>
-
-[Corsair iCUE](https://www.corsair.com/us/en/icue) is a tool that enables gaming peripherals and personal computer components including computer case fans, RGB lighting, gaming headsets, gaming keyboards, gaming mouse, remap buttons and switches, RAM DIMMS and AIO CPU cooler together.
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/45159366/208275999-4904fece-56c6-4a04-a2de-04bb587d7c1b.png">
-</p>
-
-[Project Aurora](https://www.project-aurora.com/) is a Unified Keyboard RGB Lighting for Logitech, Razer, and Corsair.
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/45159366/208276000-f84c1929-a9b0-45bf-a700-c17c4ece8a6e.png">
-</p>
-
-[SignalRGB](https://signalrgb.com/) is a tool that lets you control your RGB devices, your way. Please close all your other RGB apps (ICUE, Synapse, GHub, Armory Crate, etc.) before installing SignalRGB.
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/45159366/208276003-408c7866-5d19-4061-84b0-afcbe2349e9b.png">
-</p>
-
-[Artemis RGB](https://artemis-rgb.com/) is an open source a unified hardware configuration tool.
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/45159366/208276002-6983c582-0e60-487f-b7f6-8c56d7cebf7d.png">
-</p>
-
-[OpenRGB](https://openrgb.org/) is an open source RGB lighting control tool that doesn't depend on manufacturer software.  This includes ASUS Aura, ASRock, Corsair, G.Skill, Gigabyte, HyperX, MSI, Razer Synapse, ThermalTake, RGB Fusion, iCue, Mystic Light, Alienware AlienFX, Logitech G Hub, and any other RGB app. OpenRGB has support for Windows, Linux, MacOS(Apple Silicon ARM64 and Intel). 
-
-<p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/158273200-4a3f733c-73b3-4353-b4f0-90e787ea178a.PNG">
-  <br />
-  OpenRGB Device View
-</p>
-
-[OpenRGB SDK](https://gitlab.com/CalcProgrammer1/OpenRGB/-/wikis/OpenRGB-SDK-Documentation) is a network-based Software Development Kit, which allows third-party software to control all of your RGB. This allows for game integrations, music visualization, ambient lighting, and anything else you can imagine. SDK bindings are available for multiple programming languages including C++, Python, C#, Java, and more.
-
-### Game Controllers
-[Back to the Top](#table-of-contents)
-
-[Xbox Game Bar](https://aka.ms/controllerbar) is a tool for Windows 10 and 11 that can be opened with Win+G, or by pressing the Xbox button on an Xbox controller. It has quick shortcuts for taking screenshots or screen recordings, checking CPU and GPU usage, changing audio levels/outputs, and more.
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/45159366/196626403-bd00391f-f576-48c6-82db-437f738583dd.png">
-<br />
-</p>
-
-Game Controller Bar. Image Credit: [Microsoft](https://blogs.windows.com/windows-insider/2022/05/05/windows-insiders-can-now-try-out-an-early-preview-of-controller-bar/)
-
-[Xbox Wireless Controller + USB-C® Cable](https://www.xbox.com/en-us/accessories/controllers/xbox-wireless-controller-usb-c)
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/45159366/187094245-3c406751-4e4b-42fd-bd2c-a72181722fad.png">
-<br />
-Xbox Controller
-</p>
-
-[PlayStation 5 DualSense™ Wireless Controller](https://www.playstation.com/en-us/accessories/dualsense-wireless-controller/)
-
-* [Update the wireless controller firmware](https://controller.dl.playstation.net/controller/lang/gb/fwupdater.html)
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/45159366/187094347-109c80cd-5cc3-4a97-8a8f-0181687ab0d4.png">
-<br />
-PS 5  DualSense™ Controller
-</p>
-
-[Nintendo Switch Pro Controller](https://www.amazon.com/Nintendo-Switch-Pro-Controller/dp/B01NAWKYZ0)
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/45159366/194023448-09e74efa-67f8-4503-87f5-5b7e59289608.png">
-<br />
-Nintendo Switch Pro Controller
 </p>
 
 ## Game Stores & Launchers
