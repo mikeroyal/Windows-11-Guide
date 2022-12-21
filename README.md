@@ -1084,13 +1084,13 @@ Nintendo Switch Pro Controller
 
 [Hydra 1.2]() is a AMD Ryzen tuning and overclocking utility which adds support for Zen 4 CPUs & also allows GPU tuning as an additional component to the suite. It's developed and maintained by [Yuri Bubliy](https://twitter.com/1usmus) aka 1usmus. To get [early access Hydra 1.2 and Hydra Pro 1.2](https://www.patreon.com/1usmus). 
   
-    * Complete redesign of all features.
-    * New Curve Optimizer diagnostics (and for Zen 4).
-    * More flexibility for AMD PBO2 and HYBRID OC.
-    * Automatic problem solving (assistant).
-    * Auto GPU tuning.
-    * Unlimited GPU profiling.
-    * Powerful new monitoring.
+   * Complete redesign of all features.
+   * New Curve Optimizer diagnostics (and for Zen 4).
+   * More flexibility for AMD PBO2 and HYBRID OC.
+   * Automatic problem solving (assistant).
+   * Auto GPU tuning.
+   * Unlimited GPU profiling.
+   * Powerful new monitoring.
     
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/208854746-193adc55-c153-43ca-a3b8-7b5d2b3b993a.png">
@@ -1162,11 +1162,12 @@ Nintendo Switch Pro Controller
    
 [Intel® Arc™ Pro Graphics Windows* DCH Driver](https://www.intel.com/content/www/us/en/download/741626/intel-arc-pro-graphics-windows-dch-driver.html?wapkw=intel%20arc)
    
-    * [Intel® Arc™ Pro A50 Graphics](https://www.intel.com/content/www/us/en/products/sku/230316/intel-arc-pro-a50-graphics/downloads.html)
-    * [Intel® Arc™ Pro A40 Graphics](https://www.intel.com/content/www/us/en/products/sku/230317/intel-arc-pro-a40-graphics/downloads.html)
-    * [Intel® Arc™ Pro A30M Graphics](https://www.intel.com/content/www/us/en/products/sku/216962/intel-arc-pro-a30m-graphics/downloads.html)
+   * [Intel® Arc™ Pro A50 Graphics](https://www.intel.com/content/www/us/en/products/sku/230316/intel-arc-pro-a50-graphics/downloads.html)
+   * [Intel® Arc™ Pro A40 Graphics](https://www.intel.com/content/www/us/en/products/sku/230317/intel-arc-pro-a40-graphics/downloads.html)
+   * [Intel® Arc™ Pro A30M Graphics](https://www.intel.com/content/www/us/en/products/sku/216962/intel-arc-pro-a30m-graphics/downloads.html)
     
-[Intel Xe Super Sampling (XeSS)](https://www.intel.com/content/www/us/en/products/docs/arc-discrete-graphics/xess.html) is a temporal image upscaling AI rendering technology that increases graphics performance similar to [NVIDIA's DLSS (Deep Learning Super Sampling)](https://developer.nvidia.com/dlss). Intel's Arc GPU architecture (Fall 2022) will have GPUs that feature dedicated Xe-cores to run XeSS. The GPUs will have Xe Matrix eXtenstions matrix (XMX) engines for hardware-accelerated AI processing. XeSS will be able to run on devices without XMX, including integrated graphics, though, the performance of XeSS will be lower on non-Intel graphics cards because it will be powered by [DP4a instruction](https://www.intel.com/content/dam/www/public/us/en/documents/reference-guides/11th-gen-quick-reference-guide.pdf).
+[Intel Xe Super Sampling (XeSS)](https://www.intel.com/content/www/us/en/products/docs/arc-discrete-graphics/xess.html) is a temporal image upscaling AI rendering technology that increases graphics performance similar to [NVIDIA's DLSS (Deep Learning Super Sampling)](https://developer.nvidia.com/dlss). 
+The ARC GPUs have Xe Matrix eXtenstions matrix (XMX) engines for hardware-accelerated AI processing. XeSS will be able to run on devices without XMX, including integrated graphics, though, the performance of XeSS will be lower on non-Intel graphics cards because it will be powered by [DP4a instruction](https://www.intel.com/content/dam/www/public/us/en/documents/reference-guides/11th-gen-quick-reference-guide.pdf).
 
 * [ Intel XeSS ML Upscaling | The Digital Foundry Tech Review | XeSS vs DLSS vs Native](https://www.youtube.com/watch?v=rfLwZy650s0)
 
