@@ -1249,7 +1249,7 @@ Nintendo Switch Pro Controller
     * Powerful new monitoring.
     
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/208854746-193adc55-c153-43ca-a3b8-7b5d2b3b993a.png">
 </p>
 
 [Radeon Software Slimmer](https://github.com/GSDragoon/RadeonSoftwareSlimmer) is a utility to trim down the bloat with Radeon Software for AMD GPUs on Microsoft Windows.
@@ -1683,6 +1683,10 @@ AMD StoreMI. Image Credit: [AMD](https://www.amd.com/en/technologies/store-mi)
 
 
 [Chiaki](https://git.sr.ht/~thestr4ng3r/chiaki) is a Free and Open Source Software Client for **PlayStation 4 and PlayStation 5 Remote Play** for Linux, FreeBSD, OpenBSD, Android, macOS, Windows, Nintendo Switch and potentially even more platforms. 
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/208854787-3442b9df-60bc-4ed2-87e3-efaa159a6b7f.png">
+</p>
 
 [Parsec](https://parsec.app/cloud-gaming) is a video game streaming platform, which offers a wide variety of games and genres to choose from and provides a high-quality and smooth gameplay. SParsec is developed in order to provide a high-quality smooth gameplay, same time to be free of all ads and in-game purchases.
 
