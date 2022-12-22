@@ -63,6 +63,7 @@
      * [Origin](#Origin)
      * [EA Play](#EA-Play)
      * [Ubisoft Connect](#Ubisoft-Connect)
+     * [Rockstar Games](#Rockstar-Games)
      * [GOG Galaxy Store](#GOG-Galaxy)
      * [Itch.io Store](#Itchio-Store)
      * [PolyMC for MineCraft](#PolyMC)
@@ -1449,6 +1450,16 @@ AMD StoreMI. Image Credit: [AMD](https://www.amd.com/en/technologies/store-mi)
 [Ubisoft Connect](https://ubisoftconnect.com/) is a digital distribution, digital rights management, multiplayer and communications service created by Ubisoft to provide an experience similar to the achievements/trophies offered by various other game companies.
 
 <img src="https://user-images.githubusercontent.com/45159366/189614471-422cbad8-1ae7-4f06-ad81-7f3b68550569.png">
+
+### Rockstar Games
+
+[Back to the Top](#table-of-contents)
+
+[Rockstar Games Launcher](https://socialclub.rockstargames.com/rockstar-games-launcher) is a game launcher for downloading and playing the latest Rockstar Games PC titles.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/209026675-1073e542-b0b2-4370-b446-61954599578d.png">
+</p>
 
 ### GOG Galaxy
 
