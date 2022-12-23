@@ -1699,7 +1699,7 @@ Nintendo 3DS
 
 [PCSX2](https://pcsx2.net/) is a Playstation 2 'emulator', a free program that tries to replicate the Playstation 2 console to enable you to play PS2 games on your PC.
 
-[Play!]() is a PlayStation2 emulator for Windows, macOS, UNIX, Android, iOS and web browser platforms.
+[Play!](https://github.com/jpd002/Play-) is a PlayStation2 emulator for Windows, macOS, UNIX, Android, iOS and web browser platforms.
 
 ### PlayStation 3
 
