@@ -44,6 +44,7 @@
         * [NVIDIA](#NVIDIA)
         * [AMD](#AMD)
         * [Intel ARC](#Intel-ARC)
+   - [Setting up DXVK on Windows](#Setting-up-DXVK-on-Windows)
    - [Improving Game Performance & Load Times](#Improving-Game-Performance--Load-Times)
         * [DirectStorage](#DirectStorage)
         * [NVIDIA RTX IO](#NVIDIA-RTX-IO)
@@ -1171,7 +1172,7 @@ Nintendo Switch Pro Controller
 [Intel Xe Super Sampling (XeSS)](https://www.intel.com/content/www/us/en/products/docs/arc-discrete-graphics/xess.html) is a temporal image upscaling AI rendering technology that increases graphics performance similar to [NVIDIA's DLSS (Deep Learning Super Sampling)](https://developer.nvidia.com/dlss). 
 The ARC GPUs have Xe Matrix eXtenstions matrix (XMX) engines for hardware-accelerated AI processing. XeSS will be able to run on devices without XMX, including integrated graphics, though, the performance of XeSS will be lower on non-Intel graphics cards because it will be powered by [DP4a instruction](https://www.intel.com/content/dam/www/public/us/en/documents/reference-guides/11th-gen-quick-reference-guide.pdf).
 
-* [ Intel XeSS ML Upscaling | The Digital Foundry Tech Review | XeSS vs DLSS vs Native](https://www.youtube.com/watch?v=rfLwZy650s0)
+* [Intel XeSS ML Upscaling | The Digital Foundry Tech Review | XeSS vs DLSS vs Native](https://www.youtube.com/watch?v=rfLwZy650s0)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/190093928-ca15e58b-f830-47f5-b66b-19219d160178.png">
@@ -1180,6 +1181,60 @@ The ARC GPUs have Xe Matrix eXtenstions matrix (XMX) engines for hardware-accele
 
 Intel ARC GPUs Overview. Credit: [Intel](https://www.intel.com/content/www/us/en/products/details/discrete-gpus/arc.html)
 
+### Setting up DXVK on Windows
+
+[Back to the Top](#table-of-contents)
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/45159366/209427193-05969dfa-0a84-4107-80d7-68c21435034d.png">
+</p>
+
+### Important Note
+
+Online multi-player games
+
+Manipulation of Direct3D libraries in multi-player games may be considered cheating and can get your account banned. This may also apply to single-player games with an embedded or dedicated multiplayer portion. **Use at your own risk.**
+
+#### What is DXVK?
+
+[DXVK](https://github.com/doitsujin/dxvk) is a set of software libraries that translates DirectX API calls to Vulkan API calls. It supports **DirectX versions 9, 10 and 11**. Vulkan and APIs similar to it **(DirectX12, Metal)** are a a lot better at making use of multi-core/multi-threaded CPUs to batch up work that needs to be done by the GPU thereby making better use of both CPU and GPU. This can lead to significant performance boosts in some games.
+
+**First, do these steps:**
+
+  * 1. Download the [latest release of DXVK](https://github.com/doitsujin/dxvk/releases) from GitHub.
+
+  * 2. Use 7-Zip to unzip the ```dxvk-x.x.x folder``` (where ```x.x.x``` is the version number).
+  
+ **Do these steps for each game:**
+
+**Important information you need to know about the game you want use DXVK with:**
+
+   * The version of DirectX it uses.
+
+   * Whether it's using 32-bit or 64-bit.
+
+In most cases, you can find out both of these from a game's API section section on [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Home). There may be some clues in the file/folder names your game's folder about it being 32-bit or 64-bit. If there's a ```steam_api64.dll``` there then it's probably **64-bit** or if there's a ```binkw32.dll``` it's likely to be **32-bit**.
+
+ * Open the folder where your game's executable is (.exe file).
+
+ * Open the folder where you extracted DXVK and go the appropriate folder for your game's bitness, x32 for 32-bit, x64 for 64-bit.
+
+ * Copy the following files to the folder where the game's executable is depending on the game's DirectX version:
+
+|DirectX version | Files to copy|
+|------------|-----------|
+|9	| d3d9.dll|
+|10	| d3d10.dll, d3d10_1.dll, d3d10core.dll, d3d11.dll and dxgi.dll|
+|11	| d3d11.dll and dxgi.dll|
+
+**If your game supports multiple DirectX versions copy all the applicable DLLs.**
+
+**That's it!** Now run the game.
+
+**Unfortunately, DXVK isn't going to work in all situations. So far I've been unsuccessful in getting it to work in the following scenarios:**
+
+   * Xbox Game Pass (and likely Microsoft Store) games.
+   * Steam In-Home Streaming with exclusive fullscreen games.
 
 ## Improving Game Performance & Load Times
 
