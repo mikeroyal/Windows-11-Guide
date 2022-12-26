@@ -36,6 +36,7 @@
 2. [Getting Software](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#getting-software)
 
 3. [Gaming](#Gaming)
+   - [Gaming Resources for Windows](#Gaming-Resources-for-Windows)
    - [Manage/Control Fans (CPU, GPU, and motherboard)](#managecontrol-fans)
    - [Gaming Peripherals](#Gaming-Peripherals)
      * [Gaming mice, keyboards, and headsets](#RGB-Devices)
@@ -911,6 +912,50 @@ Open the file in your browser and check the following parameters:
 # Gaming
 
 [Back to the Top](#table-of-contents)
+
+## Gaming Resources for Windows
+
+  * [PCGamingWiki](https://www.pcgamingwiki.com/)
+  
+  * [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main_Page)
+  
+  * [The Gaming Wiki](https://thegamingwiki.com/)
+  
+  * [Awesome Games Wiki!](https://awesomegames.miraheze.org/wiki/Awesome_Games_Wiki)
+  
+  * [Intel Gaming Resources](https://www.intel.com/content/www/us/en/gaming/resources/overview.html)
+  
+  * [AMD Gaming Resources](https://www.amd.com/en/solutions/gaming)
+  
+  * [NVIDIA Gaming Resources](https://developer.nvidia.com/industries/game-development)
+  
+ ### subreddits
+    
+  * [r/gaming](https://www.reddit.com/r/gaming/)
+  * [r/Games](https://www.reddit.com/r/Games/)
+  * [r/Steam](https://www.reddit.com/r/Steam/)
+  * [r/Origin](https://www.reddit.com/r/origin/)
+  * [r/GOG.com](https://www.reddit.com/r/gog/)
+  * [r/EAGames](https://www.reddit.com/r/eagames/)
+  * [r/Ubisoft](https://www.reddit.com/r/ubisoft/)
+  * [r/Xbox](https://www.reddit.com/r/xbox/)
+  * [r/XboxGamePass](https://www.reddit.com/r/XboxGamePass/)
+  * [r/PlayStation](https://www.reddit.com/r/playstation/)
+  * [r/pcgaming](https://www.reddit.com/r/pcgaming/)
+  * [r/GamingPC](https://www.reddit.com/r/gamingpc/)
+  * [r/Games](https://www.reddit.com/r/Games/)
+  * [r/buildapc](https://www.reddit.com/r/buildapc/)
+  * [r/buildmeapc](https://www.reddit.com/r/buildmeapc/)
+  * [r/GamingLaptops](https://www.reddit.com/r/GamingLaptops/)
+  * [r/intel](https://www.reddit.com/r/intel/)
+  * [r/AMD](https://www.reddit.com/r/Amd/)
+  * [r/radeon](https://www.reddit.com/r/radeon/)
+  * [r/NVIDIA](https://www.reddit.com/r/nvidia/)
+  * [r/hardware](https://www.reddit.com/r/hardware/)
+  * [r/ASUSROG](https://www.reddit.com/r/ASUSROG/)
+  * [r/graphicscards](https://www.reddit.com/r/graphicscard/)
+  * [r/gigabyte](https://www.reddit.com/r/gigabyte/)
+  * [r/Alienware](https://www.reddit.com/r/Alienware/)
 
 ## Manage/Control Fans
 
