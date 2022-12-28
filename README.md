@@ -1795,6 +1795,8 @@ Nintendo 3DS
 
 [DuckStation](https://www.duckstation.org/) is an simulator/emulator of the Sony PlayStation 1 console, focusing on playability, speed, and long-term maintainability.
 
+[Avocado](https://github.com/JaCzekanski/Avocado) is a Modern PlayStation 1 emulator.
+
 ### PlayStation 2
 
 [PCSX2](https://pcsx2.net/) is a Playstation 2 'emulator', a free program that tries to replicate the Playstation 2 console to enable you to play PS2 games on your PC.
