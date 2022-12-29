@@ -1818,6 +1818,13 @@ Nintendo 3DS
 ## Performance Benchmarks
 [Back to the Top](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#table-of-contents)
 
+[Process Lasso](https://bitsum.com/) is a tool for real-Time CPU Optimization and Automation.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/45159366/209896493-4fd594f8-1486-4051-a6e4-752ff9675990.png">
+      
+</p>
+
 [Geekbench 5](https://www.geekbench.com/download/) is a cross-platform benchmark that measures your system's performance with the press of a button.
 
 [Phoronix Test Suite](https://www.phoronix-test-suite.com/)
