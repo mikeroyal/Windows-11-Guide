@@ -72,6 +72,7 @@
    - [Game Streaming](#Game-streaming)
      * [Cloud Game Streaming](#Cloud-Game-Streaming)
      * [Local Game Streaming](#Local-Game-Streaming)
+   - [Playing Android Games](#Android-Games)
    - [Game Emulators](#Game-emulators)
      * [Emulator Frontends](#Frontends)
      * [Nintendo GameCube & Wii](#Nintendo-GameCube--Wii)
@@ -1655,6 +1656,88 @@ AMD StoreMI. Image Credit: [AMD](https://www.amd.com/en/technologies/store-mi)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/45159366/106686398-11463d80-657f-11eb-841a-d534829ccc3d.png">
+</p>
+
+## Android Games
+
+[Back to the Top](#table-of-contents)
+
+
+**Getting started with Windows Subsystem for Android**
+
+   - Open the Amazon App store from this [link](http://aka.ms/AmazonAppstore).
+
+   - Click Install. It would download Amazon AppStore and Windows subsystem for Android.
+
+   - When done, you would see the Windows subsystem for Android on your app list, together with Amazon AppStore.
+
+  -  Open the Amazon AppStore, and sign in with your US-based Amazon Account on the screen that shows.
+
+   - Locate your App in the catalogue and click Install.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/167318107-f68ac6d8-7aa2-468c-8dca-70683e2f6e78.png">
+</p>
+
+**Windows Subsystem for Android Settings**
+
+There are also a bunch of Android Settings you can customize as well, which are as under.
+
+ - Files show the files which Apps download to the Device.
+
+ - Subsystem Screen reader helps accessibility wise, like screen reading on in Android apps you plan to run.
+
+ - Developer mode helps you to sideload an APK file manually using ADB.Checkout this [YouTube video](https://www.youtube.com/watch?v=2_LxsWa7JIg).
+ 
+ - If the Subsystem is selected As needed, no resources are used in the Background, so as a result, apps open slowly. If a continuous option is selected, resources continue to be used in the Background, and Apps open quickly.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/167318112-3b53ebce-5fa4-421c-9df6-d2fe35ec38fe.png">
+</p>
+
+### Amazon App Store
+
+[Amazon App Store](https://apps.microsoft.com/store/detail/amazon-appstore/9NJHK44TTKSX) is an app store for Android-compatible platforms operated by Amazon.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/45159366/210185338-59728481-f392-40af-9942-28e6be718e52.png">
+</p>
+
+
+#### BlueStacks
+
+[BlueStacks](https://www.bluestacks.com/download.html) is a the Fastest & Lightest Android App Player for PC.
+
+ * [Getting started with BlueStacks 5](https://support.bluestacks.com/hc/en-us/sections/360012011331-Getting-started-with-BlueStacks-5)
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/45159366/210185339-bdbbfe09-c9d4-4d78-a370-e63b1197b83c.png">
+</p>
+
+#### Google Play Games for PC
+
+[Google Play Games for PC (Beta)](https://play.google.com/googleplaygames)  is a platform that brings your Android games to PCs using high performance emulation with Android and Chrome OS cross-device play from a single codebase.
+
+ * [Getting Started with Google Play Games for PC](https://developer.android.com/games/playgames/overview)
+ 
+ <p align="center">
+  <img src="https://user-images.githubusercontent.com/45159366/210185343-f961e2b9-d2cd-4042-97c8-6f16b9a3f556.png">
+</p>
+
+### Aruora Store
+
+[Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore) is an alternate to Google's Play Store, with an elegant design, using Aurora you can download apps, update existing apps, search for apps, get details about in-app trackers, spoof your location and much more. 
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/45159366/210185350-7089dfce-160b-4753-96e1-a4b811362332.png">
+</p>
+
+### F-Droid
+
+[F-Droid](https://f-droid.org/) is an installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform. 
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/45159366/210185347-6ca97625-2196-4bcb-96b5-0ad606a1ae4a.png">
 </p>
 
 ## Game Emulators
