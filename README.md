@@ -1395,6 +1395,21 @@ AMD StoreMI. Image Credit: [AMD](https://www.amd.com/en/technologies/store-mi)
   <br />
   OBS Studio
 </p>
+
+**OBS Studio 29** adds [AV1 Support](https://en.wikipedia.org/wiki/AV1) for **Intel Arc & AMD GPUs**.
+
+**New features**
+
+ * Added support for the AMD AV1 Encoder for RDNA3 GPUs. 
+ * Added support for the Intel AV1 Encoder for Arc GPUs. 
+ * Added support for the Intel HEVC Encoder.
+ * Added an upward compressor filter.
+ * Added a 3-band equalizer filter.
+ * Added update channels for opting into receiving beta/release-candidate builds to Windows.
+ 
+ <p align="center">
+  <img src="https://user-images.githubusercontent.com/45159366/210185570-d737357f-02b0-426a-991f-c66d902056fd.png">
+</p>
  
  ### Useful OBS Studio 3rd party plugins and themes.
  
