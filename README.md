@@ -73,6 +73,11 @@
      * [Cloud Game Streaming](#Cloud-Game-Streaming)
      * [Local Game Streaming](#Local-Game-Streaming)
    - [Playing Android Games](#Android-Games)
+      * [Amazon App Store](#Amazon-App-Store)
+      * [BlueStacks](#BlueStacks)
+      * [Google Play games for PC](#Google-Play-Games-for-PC)
+      * [Aurora Store](#Aurora-Store)
+      * [F-Droid](#F-Droid)
    - [Game Emulators](#Game-emulators)
      * [Emulator Frontends](#Frontends)
      * [Nintendo GameCube & Wii](#Nintendo-GameCube--Wii)
@@ -1704,7 +1709,7 @@ There are also a bunch of Android Settings you can customize as well, which are 
 </p>
 
 
-#### BlueStacks
+### BlueStacks
 
 [BlueStacks](https://www.bluestacks.com/download.html) is a the Fastest & Lightest Android App Player for PC.
 
@@ -1714,7 +1719,7 @@ There are also a bunch of Android Settings you can customize as well, which are 
   <img src="https://user-images.githubusercontent.com/45159366/210185339-bdbbfe09-c9d4-4d78-a370-e63b1197b83c.png">
 </p>
 
-#### Google Play Games for PC
+### Google Play Games for PC
 
 [Google Play Games for PC (Beta)](https://play.google.com/googleplaygames)  is a platform that brings your Android games to PCs using high performance emulation with Android and Chrome OS cross-device play from a single codebase.
 
@@ -1724,7 +1729,7 @@ There are also a bunch of Android Settings you can customize as well, which are 
   <img src="https://user-images.githubusercontent.com/45159366/210185343-f961e2b9-d2cd-4042-97c8-6f16b9a3f556.png">
 </p>
 
-### Aruora Store
+### Aurora Store
 
 [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore) is an alternate to Google's Play Store, with an elegant design, using Aurora you can download apps, update existing apps, search for apps, get details about in-app trackers, spoof your location and much more. 
 
