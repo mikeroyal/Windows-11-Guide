@@ -69,6 +69,7 @@
      * [GOG Galaxy Store](#GOG-Galaxy)
      * [Itch.io Store](#Itchio-Store)
      * [Prism for Minecraft](#Prism)
+     * [FF XIV Launcher](#FFXIV-Launcher)
    - [Game Streaming](#Game-streaming)
      * [Cloud Game Streaming](#Cloud-Game-Streaming)
      * [Local Game Streaming](#Local-Game-Streaming)
@@ -1597,6 +1598,27 @@ AMD StoreMI. Image Credit: [AMD](https://www.amd.com/en/technologies/store-mi)
 <p align="center">
   <img src="https://user-images.githubusercontent.com/45159366/209223630-4ae7df57-9561-411c-9be8-ea7cd76f266a.png">
 </p>
+
+### FFXIV Launcher
+
+[Back to the Top](#table-of-contents)
+ 
+[FFXIV Launcher](https://github.com/goatcorp/FFXIVQuickLauncher) is a faster launcher for our favorite critically acclaimed MMO, with various available addons and enhancements to the game.
+
+ **Features:**
+
+  * Auto-login.
+  * Fast patching.
+  * Discord Rich Presence.
+  * Fast in-game market board price checks.
+  * Chat filtering.
+  * Chat bridge to Discord.
+  * Discord notifications for duties, retainer sales, etc.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/45159366/210185177-05809451-ed2a-4a37-b9fe-67daeca5d958.png">
+</p>
+
 
 ## Game Streaming
 [Back to the Top](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#table-of-contents)
