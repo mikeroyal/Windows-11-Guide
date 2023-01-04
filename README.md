@@ -1751,6 +1751,7 @@ There are also a bunch of Android Settings you can customize as well, which are 
 [BlueStacks](https://www.bluestacks.com/download.html) is a the Fastest & Lightest Android App Player for PC.
 
  * [Getting started with BlueStacks 5](https://support.bluestacks.com/hc/en-us/sections/360012011331-Getting-started-with-BlueStacks-5)
+ * [How to login to Google Play Store on BlueStacks 5](https://support.bluestacks.com/hc/en-us/articles/360059697231-How-to-login-to-Google-Play-Store-on-BlueStacks-5)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/45159366/210185339-bdbbfe09-c9d4-4d78-a370-e63b1197b83c.png">
