@@ -79,6 +79,7 @@
       * [Google Play games for PC](#Google-Play-Games-for-PC)
       * [Aurora Store](#Aurora-Store)
       * [F-Droid](#F-Droid)
+      * [Magisk on WSA](#Magisk-on-WSA)
    - [Game Emulators](#Game-emulators)
      * [Emulator Frontends](#Frontends)
      * [Nintendo GameCube & Wii](#Nintendo-GameCube--Wii)
@@ -1782,6 +1783,23 @@ There are also a bunch of Android Settings you can customize as well, which are 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/45159366/210185347-6ca97625-2196-4bcb-96b5-0ad606a1ae4a.png">
 </p>
+
+### Magisk on WSA
+
+[Magisk on WSA](https://github.com/LSPosed/MagiskOnWSALocal) is a tool that integrates Magisk root and Google Apps into WSA (Windows Subsystem for Android).
+
+ * [Installing Magisk on WSA with Google Apps (Windows Subsystem for Android)](https://themagisk.com/magisk-on-wsa-with-google-apps-windows-subsystem-for-android/)
+
+**Features:**
+
+* Integrate Magisk and GApps in a few clicks within minutes.
+* Keep each build up to date.
+* Support both ARM64 and x64.
+* Supports all OpenGApps variants except for aroma (aroma does not support x86_64, please use super instead).
+* Remove Amazon Appstore.
+* Add device administration feature.
+* Unattended installation.
+* Automatically activates developers mode in Windows 11.
 
 ## Game Emulators
 [Back to the Top](#table-of-contents)
