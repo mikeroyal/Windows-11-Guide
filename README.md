@@ -1663,6 +1663,12 @@ AMD StoreMI. Image Credit: [AMD](https://www.amd.com/en/technologies/store-mi)
  <img src="https://user-images.githubusercontent.com/45159366/200110962-dd631248-7a13-48bb-9b5a-acbbf8550e16.png">
 </p>
 
+[BlueStacks X](https://www.bluestacks.com/bluestacks-x.html) is a Cloud-Based Android Gaming Platform that let's you select a game to play from the 2 million+ games available either locally or stream to your PC from the cloud.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/211141502-b43774b3-f4f1-44b4-8555-be962238f365.png"> 
+</p>
+
 ### Local Game Streaming
 
 [Back to the Top](#table-of-contents)
