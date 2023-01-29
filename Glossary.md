@@ -1,22 +1,24 @@
-A list of usefule terms for the Windows ecosystem software and hardware.
-
-<p align="center">
-<img src="">
-<br />
-
-</p>
+A list of useful terms for the Windows ecosystem software and hardware.
 
 A
 
  **Android runtime (ART)** is the managed runtime used by applications and some system services on Android. ART and its predecessor Dalvik were originally created specifically for the Android project. 
+ 
+ **Azure**
 
 B
+
+**Batch file**
 
 C
 
 D
 
+**Defender**
+
 E
+
+**Explorer**
 
 F
 
