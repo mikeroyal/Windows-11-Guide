@@ -4,6 +4,8 @@ A
 
  **Android runtime (ART)** is the managed runtime used by applications and some system services on Android. ART and its predecessor Dalvik were originally created specifically for the Android project. 
  
+ **Active Directory** is a directory service developed by Microsoft for Windows domain networks. It is included in most Windows Server operating systems as a set of processes and services. 
+ 
  [ARM64EC (“Emulation Compatible”)](https://docs.microsoft.com/en-us/windows/uwp/porting/arm64ec) is a new application binary interface (ABI) for Windows 11 on ARM that runs with native speed and is interoperable with x64 architecture. An app, process, or even a module can freely mix and match with ARM64EC and x64 as needed. 
  
  **Azure** is a Microsoft's cloud computing platform.
@@ -32,6 +34,8 @@ D
 E
 
 [Edge](https://www.microsoftedgeinsider.com/) is a proprietary, cross-platform web browser created by Microsoft. It's available on Windows, macOS, Linux, Android, and iOS.
+
+**Excel** is a spreadsheet developed by Microsoft for Windows, macOS, Android and iOS.
 
 F
 
@@ -65,9 +69,13 @@ O
 
 **Office** is Microsoft's office suite for word processing, powerpoints, spreadsheets, etc.
 
+**OneDrive** is Microsoft's cloud storage to store photos and documents(Word, Excel or PowerPoint) online and you can access them from any Windows, macOS, Android and iOS device. 
+
 **Outlook** is Microsoft's Email service.
 
 P
+
+**Powerpoint** is a presentation program developed by Microsoft for Windows, macOS, Android and iOS.
 
 Q
 
@@ -81,9 +89,13 @@ S
 
 [Secure boot](https://docs.microsoft.com/en-us/windows-hardware/design/device-experiences/oem-secure-boot) is a security standard developed by members of the PC industry to help make sure that a device boots(Unified Extensible Firmware Interface (UEFI) BIOS) using only software(such as bootloaders, OS, UEFI drivers, and utilities) that is trusted by the Original Equipment Manufacturer (OEM).
 
+**SharePoint** is a team collaboration tool that shares and manages content, knowledge, and applications to empower teamwork, quickly find information, and seamlessly collaborate across the organization.
+
 T
 
 **Task Manager** is a system monitor program used to provide information about the processes and applications running on a computer, as well as the general status of the computer.
+
+**Teams** is a business communication platform to chat, meet, call, and collaborate all in one place. Developed by Microsoft for Windows, macOS, Android and iOS.
 
 U
 
@@ -106,6 +118,8 @@ W
 **Windows Subsystem for Android (WSA)** is a feature of Windows that allows users and developers to utilize  a virtual machine (VM) which provides compatibility with the AOSP framework and devices like keyboards, mice, touch, pen, etc. 
 
 **Windows Subsystem for Linux (WSL)** is a feature of Windows that allows developers to run a Linux environment without the need for a separate virtual machine (VM) or dual-booting.
+
+**Word** is a word processing software developed by Microsoft for Windows, macOS, Android and iOS.
 
 X
 
