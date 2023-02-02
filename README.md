@@ -920,6 +920,12 @@ Open the file in your browser and check the following parameters:
   <br />
 </p>
 
+[Nix package manager](https://nixos.org/) is a cross-platform package manager that utilizes a purely functional deployment model where software is installed into unique directories generated through cryptographic hashes. Choose from Thousands of Packages The Nix Packages collection (Nixpkgs) is a set of over 80 000 packages for the Nix package manager.
+
+**Single-user installation on Windows(WSL2):**
+
+```$ sh <(curl -L https://nixos.org/nix/install) --no-daemon```
+
 # Gaming
 
 [Back to the Top](#table-of-contents)
