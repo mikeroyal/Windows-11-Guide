@@ -35,6 +35,7 @@
          * [Encryption Tools](https://github.com/mikeroyal/Windows-11-Guide#Encryption-Tools)
       - [File Sync/Transfer](#File-SyncTransfer)
       - [Storage Disk Health/Data Recovery](https://github.com/mikeroyal/Windows-11-Guide#Storage-Disk-HealthData-Recovery)
+      - [Backups](#Backups)
       - [Battery Health](https://github.com/mikeroyal/Windows-11-Guide#Battery-Health)
      
 2. [Getting Software](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#getting-software)
@@ -864,6 +865,25 @@ There’s already a way to remove the Windows 11 watermark. It’s important to 
 Scrutiny UI
 </p>
 
+## Backups
+
+[Back to the Top](#table-of-contents)
+
+[Borgmatic](https://github.com/modem7/docker-borgmatic) is a simple, configuration-driven backup software for servers and workstations. It protects your files with client-side encryption. Backup your databases too. Monitor it all with integrated third-party services. 
+
+[BorgWarehouse](https://borgwarehouse.com/) is a  fast and modern WebUI for a BorgBackup's central repository server.
+
+[Emborg](https://emborg.readthedocs.io/en/latest/) is a simple command line utility to orchestrate backups. It is built as a front-end to Borg, a powerful and fast de-duplicating backup program. 
+
+[BackupPC](https://github.com/backuppc/backuppc) is a high-performance, enterprise-grade system for backing up Linux, Windows and macOS PCs and laptops to a server's disk. BackupPC is highly configurable and easy to install and maintain.
+
+[UrBackup](https://www.urbackup.org/) is an easy to setup Open Source client/server backup system, that through a combination of image and file backups accomplishes both data safety and a fast restoration time. File and image backups are made while the system is running without interrupting current processes. Available for Windows, macOS, and Linux. 
+
+[Kopia](https://kopia.io/) is a user-friendly desktop app for Windows, macOS, and Linux which allows you to create snapshots, define policies, and restore files quickly with Fast and Encrypted Backups. 
+
+[Proxmox Backup Server](https://www.proxmox.com/en/proxmox-backup-server) is an enterprise backup solution for backing up and restoring VMs, containers, and physical hosts. The open-source solution supports incremental backups, deduplication, Zstandard compression, and authenticated encryption.
+
+[rsnapshot](https://rsnapshot.org/) is a filesystem snapshot utility based on rsync. This makes it easy to make periodic snapshots of local machines, and remote machines over ssh.
 
 ## Battery Health
 
