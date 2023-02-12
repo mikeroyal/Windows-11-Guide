@@ -4663,6 +4663,8 @@ It is extended by a set of privacy-specific requirements, control objectives and
 
 [Python Courses Online from Coursera](https://www.coursera.org/courses?query=python)
 
+[Lear Python Programming by Scaler Topics](https://www.scaler.com/topics/python/)
+
 # Python Frameworks, Libraries, and Tools
 
 [Python Package Index (PyPI)](https://pypi.org/) is a repository of software for the Python programming language. PyPI helps you find and install software developed and shared by the Python community.
