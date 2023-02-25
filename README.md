@@ -2167,7 +2167,11 @@ Nintendo 3DS
       
 </p>
 
-[Geekbench 5](https://www.geekbench.com/download/) is a cross-platform benchmark that measures your system's performance with the press of a button.
+[Geekbench 6](https://www.geekbench.com/download/) is a cross-platform benchmark that measures your system's performance with the press of a button.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/220054993-9f8aa511-9b0a-42d1-903a-9ffdebd7d74b.png">
+</p>
 
 [Phoronix Test Suite](https://www.phoronix-test-suite.com/)
 
