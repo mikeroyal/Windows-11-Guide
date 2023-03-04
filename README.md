@@ -2103,11 +2103,15 @@ Nintendo 3DS
 
 ### Nintendo Entertainment System  
 
-[Nestopia](https://github.com/0ldsk00l/nestopia) is a portable NES/Famicom emulator written in C++. *
+[Nestopia](https://github.com/0ldsk00l/nestopia) is a portable NES/Famicom emulator written in C++. 
+
+[Mesen](https://github.com/SourMesen/Mesen2) is a multi-system emulator (NES, SNES, Game Boy and PC Engine) for Windows, Linux and macOS.
 
 ### Game Boy Advance
 
 [mGBA](https://mgba.io/) is a new emulator for running Game Boy Advance games. It aims to be faster and more accurate than many existing Game Boy Advance emulators, as well as adding features that other emulators lack.
+
+[NanoBoyAdvance](https://github.com/nba-emu/NanoBoyAdvance) is a highly accurate Nintendo Game Boy Advance emulator. 
 
 ### DOS 
 
