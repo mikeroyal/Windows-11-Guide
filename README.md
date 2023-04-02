@@ -34,6 +34,7 @@
          * [Privacy-focused Search Engines](https://github.com/mikeroyal/Windows-11-Guide#privacy-focused-search-engines)
       - [Windows Security Hardening](https://github.com/mikeroyal/Windows-11-Guide#Windows-Security-Hardening)
          * [Encryption Tools](https://github.com/mikeroyal/Windows-11-Guide#Encryption-Tools)
+	 * [Virtual Private Network (VPN)](#vpn)
       - [File Sync/Transfer](#File-SyncTransfer)
       - [Storage Disk Health/Data Recovery](https://github.com/mikeroyal/Windows-11-Guide#Storage-Disk-HealthData-Recovery)
       - [Backups](#Backups)
@@ -899,6 +900,36 @@ Nexcloud Hub
  <img src="https://user-images.githubusercontent.com/45159366/187567414-7b1348e5-da9c-4cf8-8505-27d203493c0f.png">
   <br />
 </p>
+
+### VPN
+
+[Back to The Top](#table-of-contents)
+
+[Wireguard](https://www.wireguard.com/) - New minimal VPN Solution that is very fast.
+
+[Tailscale](https://tailscale.com/) is the easiest, most secure way to use WireGuard and 2FA. Tailscale helps you manage and access private or shared resources from anywhere in the world. 
+
+[Tailscale Chocolatey Package](https://github.com/tailscale/tailscale-chocolatey) is a [Chocolatey](https://chocolatey.org/) package of the [Tailscale](https://tailscale.com/) client, the private networking solution.
+
+[Terraform-provider-Tailscale](https://github.com/tailscale/terraform-provider-tailscale) is a project for for the [Tailscale Terraform provider](https://registry.terraform.io/providers/tailscale/tailscale). This Terraform provider that lets you interact with the [Tailscale](https://tailscale.com/) API.
+
+[Wg Server for Windows (WS4W)](https://github.com/micahmo/WgServerforWindows) is a desktop application that allows running and managing a WireGuard server endpoint on Windows. 
+
+[Firezone](https://firezone.dev/) is a self-hosted WireGuard®-based VPN server and Linux firewall.
+
+[NetBird](https://netbird.io/) is an open-source VPN management platform built on top of WireGuard® making it easy to create secure private networks for your organization or home.
+
+[SoftEther](https://www.softether.org/) - Multi-protocol software VPN with advanced features.
+
+[OpenVPN](https://community.openvpn.net) - Uses a custom security protocol that utilizes SSL/TLS for key exchange.
+
+[Pritunl](https://pritunl.com/) - OpenVPN based solution that's easy to set up.
+
+[sshuttle](https://github.com/apenwarr/sshuttle) - Poor man's VPN.
+
+[strongSwan](https://www.strongswan.org/) - Complete IPsec implementation for Linux.
+
+[tinc](https://www.tinc-vpn.org/) - Distributed p2p VPN.
 
 ## File Sync/Transfer
 
