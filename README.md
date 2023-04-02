@@ -457,7 +457,7 @@ There’s already a way to remove the Windows 11 watermark. It’s important to 
 
 [Files](https://github.com/files-community/Files) is a file manager for Windows with a powerful yet intuitive design. It has features like multiple tabs, panes, columns, shell extensions in the context menu and tags.
 
-[EverythingToolbar](https://github.com/srwi/EverythingToolbar) is a tool that provides instant file search integration for the Windows taskbar powered by [Everything](https://www.voidtools.com/). It'ss compatible with both Windows 10 and Windows 11 and works well with tools like E[xplorerPatcher](https://github.com/valinet/ExplorerPatcher) and [StartAllBack](https://www.startallback.com/) to give you the full deskband integration even on Windows 11.
+[EverythingToolbar](https://github.com/srwi/EverythingToolbar) is a tool that provides instant file search integration for the Windows taskbar powered by [Everything](https://www.voidtools.com/). It's compatible with both Windows 10 and Windows 11 and works well with tools like E[xplorerPatcher](https://github.com/valinet/ExplorerPatcher) and [StartAllBack](https://www.startallback.com/) to give you the full deskband integration even on Windows 11.
 
 [Sysinternals Suite](https://docs.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite) is the entire set of Sysinternals Utilities rolled up into a single download. Also, checkout the [Sysinternals Utilities Index](https://docs.microsoft.com/en-us/sysinternals/downloads/).
 
@@ -1020,6 +1020,13 @@ Open the file in your browser and check the following parameters:
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/115297923-9e764880-a111-11eb-9eb6-7bb9ab0b6192.png">
+  <br />
+</p>
+
+[WingetUI](https://github.com/martinet101/WingetUI) is a GUI Store for the most common cli package managers, such as Winget and Scoop. It's developed by [Martí Climent AKA martinet101](https://github.com/martinet101).
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/169711126-0d56a8fe-229e-4d4b-a8c5-d44c1a074b59.png">
   <br />
 </p>
 
