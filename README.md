@@ -465,6 +465,8 @@ There’s already a way to remove the Windows 11 watermark. It’s important to 
 
 [Directory Opus](https://www.gpsoft.com.au/) is a complete replacement for Explorer, with far more power and functionality than any other file manager available today. Image marking lets you sort your photos quickly and easily.
 
+[ClickPaste](https://github.com/Collective-Software/ClickPaste) is a Windows 10/11 notification area appthat can paste clipboard contents as keystrokes to whatever location you click.
+
 [StartAllBack](https://startallback.com/) ($4.99) is another tool that restores the taskbar, start menu, context menus, explorer, style and order back to the Windows 7 & 10 style.
 
 [Start11](https://www.stardock.com/products/start11/) (£5.99) is a tool designed to bring menus back from Windows 7/10 to Windows 11.
