@@ -2671,6 +2671,10 @@ VS Code Marketplace
 
 [Terminal](https://marketplace.visualstudio.com/items?itemName=formulahendry.terminal) is an extension for Visual Studio Code that lets you run terminal command directly in the Editor.
 
+[GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) is a tool that provides autocomplete-style suggestions from an AI pair programmer as you code.
+
+[GitHub Copilot Labs](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-labs) is a companion extension to GitHub Copilot that houses experimental and up-and-coming features in a sidebar.
+
 [Profile Switcher](https://marketplace.visualstudio.com/items?itemName=aaronpowell.vscode-profile-switcher) is an extension for Visual Studio Code that allows you to switch between different profiles you have created.
 
 [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) is an extension for Visual Studio Code that gets the Material Design icons into your VS Code.
