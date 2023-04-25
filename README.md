@@ -35,6 +35,7 @@
       - [Windows Security Hardening](https://github.com/mikeroyal/Windows-11-Guide#Windows-Security-Hardening)
          * [Encryption Tools](https://github.com/mikeroyal/Windows-11-Guide#Encryption-Tools)
 	 * [Virtual Private Network (VPN)](#vpn)
+	 * [SSH](#ssh)
       - [File Sync/Transfer](#File-SyncTransfer)
       - [Storage Disk Health/Data Recovery](https://github.com/mikeroyal/Windows-11-Guide#Storage-Disk-HealthData-Recovery)
       - [Backups](#Backups)
@@ -932,6 +933,29 @@ Nexcloud Hub
 [strongSwan](https://www.strongswan.org/) - Complete IPsec implementation for Linux.
 
 [tinc](https://www.tinc-vpn.org/) - Distributed p2p VPN.
+
+### SSH
+
+[Back to The Top](#table-of-contents)
+
+[Tailscale SSH](https://tailscale.com/kb/1193/tailscale-ssh/) is a service that allows Tailscale to manage the authentication and authorization of SSH connections on your tailnet.
+
+[SSHrc](https://github.com/Russell91/sshrc) - sources ~/.sshrc on your local computer after logging in remotely.
+
+[StormSSH](https://stormssh.readthedocs.org) - A command line tool to manage SSH connections.
+
+[Advanced SSH config](https://pypi.python.org/pypi/advanced-ssh-config/) - Enhances ssh_config file capabilities, completely transparent.
+
+[AutoSSH](https://www.harding.motd.ca/autossh/) - Automatically respawn ssh session after network interruption.
+
+[Cluster SSH](https://sourceforge.net/projects/clusterssh/) - Controls a number of xterm windows via a single graphical console.
+
+[DSH](https://www.netfort.gr.jp/~dancer/software/dsh.html.en) - Dancer's shell / distributed shell - Wrapper for executing multiple remote shell commands from one command line.
+
+[Mosh](https://mosh.org/) - is a command-line program, like SSH. You can use it inside xterm, gnome-terminal, urxvt, Terminal.app, iTerm, emacs, screen, or tmux.
+
+[Parallel SSH](https://parallel-ssh.org/) is an asynchronous parallel SSH library designed for large scale automation. It differentiates ifself from alternatives, other libraries and higher level frameworks like Ansible or Chef.
+
 
 ## File Sync/Transfer
 
