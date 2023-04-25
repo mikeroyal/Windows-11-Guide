@@ -33,9 +33,10 @@
          * [Privacy & Security Focused Browser extensions](https://github.com/mikeroyal/Windows-11-Guide#privacy--security-focused-browser-extensions)
          * [Privacy-focused Search Engines](https://github.com/mikeroyal/Windows-11-Guide#privacy-focused-search-engines)
       - [Windows Security Hardening](https://github.com/mikeroyal/Windows-11-Guide#Windows-Security-Hardening)
-         * [Encryption Tools](https://github.com/mikeroyal/Windows-11-Guide#Encryption-Tools)
-	 * [Virtual Private Network (VPN)](#vpn)
-	 * [SSH](#ssh)
+      
+           - [Encryption Tools](#encryption-tools)
+	    - [Virtual Private Network (VPN)](#vpn)
+	    - [SSH](#ssh)
       - [File Sync/Transfer](#File-SyncTransfer)
       - [Storage Disk Health/Data Recovery](https://github.com/mikeroyal/Windows-11-Guide#Storage-Disk-HealthData-Recovery)
       - [Backups](#Backups)
