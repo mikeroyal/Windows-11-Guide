@@ -194,7 +194,8 @@
 
 [Microsoft Windows Server](https://www.microsoft.com/en-us/windows-server/) is the operating system that connects on-premises environments with [Azure](https://azure.microsoft.com), adding additional layers of security while helping you modernize your applications and infrastructure.
 
-[Windows as a Service (WaaS)](https://docs.microsoft.com/en-us/windows/deployment/update/waas-overview) is a new development concept, introduced with the release of Windows 11. It simplifies the lives of IT professionals and maintains a consistent Windows 11 experience for all Windows customers. These improvements primarily focus on maximizing customer involvement in Windows development, simplifying the deployment and servicing of Windows client computers, and leveling out the resources needed to deploy and maintain Windows over time.
+[Windows as a Service (WaaS)](https://docs.microsoft.com/en-us/windows/deployment/update/waas-overview) is a new development concept, introduced with the release of Windows 11. It simplifies the 
+s of IT professionals and maintains a consistent Windows 11 experience for all Windows customers. These improvements primarily focus on maximizing customer involvement in Windows development, simplifying the deployment and servicing of Windows client computers, and leveling out the resources needed to deploy and maintain Windows over time.
 
 [Windows Virtual Desktop](https://azure.microsoft.com/en-us/services/virtual-desktop/) is a service that enables a secure, remote desktop experience from anywhere.
 
@@ -364,6 +365,7 @@ Add a new selection dialog for Windows 11 setup customization:
 
 ## Removing the Windows 11 Watermark
 [Back to the Top](https://github.com/mikeroyal/Windows-11-Guide#table-of-contents)
+
 The simplest way to do this is with Winarows Universal Water Mark Disabler which can be found at https://winaero.com/download-universal-watermark-disabler/
 
 There’s also a manual a way to remove the Windows 11 watermark. It’s important to know that removing the watermark does include editing some system registry files. So, do this at your own risk, and be careful.
@@ -510,6 +512,14 @@ There’s also a manual a way to remove the Windows 11 watermark. It’s importa
 [Wallpaper Engine](https://store.steampowered.com/app/431960/Wallpaper_Engine/) (£2.99) is a tool enables you to use live wallpapers on your Windows desktop. Various types of animated wallpapers are supported, including 3D and 2D animations, websites, videos and even certain applications. 
 
 [Lively Wallpaper](https://rocksdanister.github.io/lively/) is a Windows application designed to turn GIFs, games, and videos into animated wallpapers. 
+
+"God Mode" is a folder that shows all things in Control Panel in one folder.
+To add this
+1.) Make sure you system account has administrative privilages.
+
+2.) Right-click on the Windows 10 desktop and choose New > Folder.
+
+3.) Name the folder: GodMode.{ED7BA470-8E54-465E-825C-99712043E01C} and hit enter/return.
 
 ## Installing drivers for
 [Back to the Top](#table-of-contents)
