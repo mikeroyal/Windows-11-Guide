@@ -364,8 +364,8 @@ Add a new selection dialog for Windows 11 setup customization:
 
 ## Removing the Windows 11 Watermark
 [Back to the Top](https://github.com/mikeroyal/Windows-11-Guide#table-of-contents)
-
-There’s already a way to remove the Windows 11 watermark. It’s important to know that removing the watermark does include editing some system registry files. So, do this at your own risk, and be careful.
+The simplest way to do this is with Winarows Universal Water Mark Disabler witch can be found at https://winaero.com/download-universal-watermark-disabler/
+There’s also a manual a way to remove the Windows 11 watermark. It’s important to know that removing the watermark does include editing some system registry files. So, do this at your own risk, and be careful.
 
  - 1.  Access the Registry Editor by typing **‘Regedit’** in the Windows 11 search box and hitting OK to open it.
   
