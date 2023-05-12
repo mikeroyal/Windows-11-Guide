@@ -194,8 +194,7 @@
 
 [Microsoft Windows Server](https://www.microsoft.com/en-us/windows-server/) is the operating system that connects on-premises environments with [Azure](https://azure.microsoft.com), adding additional layers of security while helping you modernize your applications and infrastructure.
 
-[Windows as a Service (WaaS)](https://docs.microsoft.com/en-us/windows/deployment/update/waas-overview) is a new development concept, introduced with the release of Windows 11. It simplifies the 
-s of IT professionals and maintains a consistent Windows 11 experience for all Windows customers. These improvements primarily focus on maximizing customer involvement in Windows development, simplifying the deployment and servicing of Windows client computers, and leveling out the resources needed to deploy and maintain Windows over time.
+[Windows as a Service (WaaS)](https://docs.microsoft.com/en-us/windows/deployment/update/waas-overview) is a new development concept, introduced with the release of Windows 11. It simplifies the jobs of IT professionals and maintains a consistent Windows 11 experience for all Windows customers. These improvements primarily focus on maximizing customer involvement in Windows development, simplifying the deployment and servicing of Windows client computers, and leveling out the resources needed to deploy and maintain Windows over time.
 
 [Windows Virtual Desktop](https://azure.microsoft.com/en-us/services/virtual-desktop/) is a service that enables a secure, remote desktop experience from anywhere.
 
@@ -513,13 +512,13 @@ There’s also a manual a way to remove the Windows 11 watermark. It’s importa
 
 [Lively Wallpaper](https://rocksdanister.github.io/lively/) is a Windows application designed to turn GIFs, games, and videos into animated wallpapers. 
 
-"God Mode" is a folder that shows all things in Control Panel in one folder.
-To add this
-1.) Make sure you system account has administrative privilages.
+**"God Mode"** is a folder that shows all things in Control Panel in one folder. To add this
 
-2.) Right-click on the Windows 10 desktop and choose New > Folder.
+* 1.) Make sure you system account has administrative privilages.
 
-3.) Name the folder: GodMode.{ED7BA470-8E54-465E-825C-99712043E01C} and hit enter/return.
+* 2.) Right-click on the Windows 10 desktop and choose New > Folder.
+
+* 3.) Name the folder: GodMode.{ED7BA470-8E54-465E-825C-99712043E01C} and hit enter/return.
 
 ## Installing drivers for
 [Back to the Top](#table-of-contents)
