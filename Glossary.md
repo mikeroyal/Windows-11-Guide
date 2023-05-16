@@ -21,6 +21,8 @@ C
 
 **Command prompt (CMD)**  is the command-line interpreter of Windows operating systems.
 
+**Compatibility Support Module (CSM)** is a component of the UEFI firmware, which provides legacy BIOS compatibility by emulating a BIOS environment, allowing legacy operating systems and some option ROMs that do not support UEFI to still be used.
+
 D
 
 [Defender Security Center](https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/microsoft-defender-security-center?view=o365-worldwide) is a user portal where you can access Microsoft Defender for Endpoint capabilities. It gives enterprise security operations teams a single pane of glass experience to help secure networks.
@@ -29,9 +31,13 @@ D
 
 [DirectStorage API](https://devblogs.microsoft.com/directx/directstorage-is-coming-to-pc/) is an API in the DirectX family originally designed for the [Velocity Architecture](https://news.xbox.com/en-us/2020/07/14/a-closer-look-at-xbox-velocity-architecture/) to Windows.
 
+[Deployment Image Servicing and Management (DISM)](https://learn.microsoft.com/en-us/troubleshoot/windows-server/deployment/fix-windows-update-errors) is as a Windows 10/11 tool designed to help network administrators prepare, modify, restore, and repair Windows images, including those used for Windows PE, Windows Recovery Environment (Windows RE) and Windows Setup.
+
 [Dynamics 365](https://dynamics.microsoft.com/en-us/) is the essential business solution for busy professionals who need to engage with customers while staying productive at work and on the go. Arrive prepared for every appointment and update notes, tasks, and attachments. Along with relevant service and sales records.
 
 E
+
+[eBPF for Windows](https://github.com/microsoft/ebpf-for-windows) is an eBPF implementation that runs on top of Windows. eBPF is a well-known technology for providing programmability and agility, especially for extending an OS kernel, for use cases such as DoS protection and observability.
 
 [Edge](https://www.microsoftedgeinsider.com/) is a proprietary, cross-platform web browser created by Microsoft. It's available on Windows, macOS, Linux, Android, and iOS.
 
@@ -77,6 +83,8 @@ P
 
 **Powerpoint** is a presentation program developed by Microsoft for Windows, macOS, Android and iOS.
 
+[PowerToys](https://docs.microsoft.com/en-us/windows/powertoys/) is a set of utilities for power users to tune and streamline their Windows 10/11 experience for greater productivity.
+
 Q
 
 R
@@ -85,11 +93,15 @@ R
 
 S
 
-[Sysinternals Suite](https://docs.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite) is the entire set of Sysinternals Utilities rolled up into a single download. Also, checkout the [Sysinternals Utilities Index](https://docs.microsoft.com/en-us/sysinternals/downloads/).
-
 [Secure boot](https://docs.microsoft.com/en-us/windows-hardware/design/device-experiences/oem-secure-boot) is a security standard developed by members of the PC industry to help make sure that a device boots(Unified Extensible Firmware Interface (UEFI) BIOS) using only software(such as bootloaders, OS, UEFI drivers, and utilities) that is trusted by the Original Equipment Manufacturer (OEM).
 
+[SFC (System File Checker)](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/sfc) is a utility in Microsoft Windows that allows users to scan for and restore corrupted Windows system files.
+
+[sfc /scannow](https://support.microsoft.com/en-us/topic/use-the-system-file-checker-tool-to-repair-missing-or-corrupted-system-files-79aa86cb-ca52-166a-92a3-966e85d4094e) is a command will scan all protected system files, and replace corrupted files with a cached copy that is located in a compressed folder at %WinDir% \System32\dllcache. The %WinDir% placeholder represents the Windows operating system folder. 
+
 **SharePoint** is a team collaboration tool that shares and manages content, knowledge, and applications to empower teamwork, quickly find information, and seamlessly collaborate across the organization.
+
+[Sysinternals Suite](https://docs.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite) is the entire set of Sysinternals Utilities rolled up into a single download. Also, checkout the [Sysinternals Utilities Index](https://docs.microsoft.com/en-us/sysinternals/downloads/).
 
 T
 
@@ -98,6 +110,8 @@ T
 **Teams** is a business communication platform to chat, meet, call, and collaborate all in one place. Developed by Microsoft for Windows, macOS, Android and iOS.
 
 U
+
+**UEFI (Unified Extensible Firmware Interface)** is a tiny operating system that runs on top of the PC's firmware, and it can do a lot more than a BIOS. It may be stored in flash memory on the motherboard, or it may be loaded from a hard drive or network share at boot.
 
 V
 
@@ -120,6 +134,8 @@ W
 **Windows Subsystem for Linux (WSL)** is a feature of Windows that allows developers to run a Linux environment without the need for a separate virtual machine (VM) or dual-booting.
 
 **Word** is a word processing software developed by Microsoft for Windows, macOS, Android and iOS.
+
+[WinDirStat(Windows Directory Statistics)](https://windirstat.net/) is a disk usage statistics viewer and cleanup tool for various versions of Microsoft Windows.
 
 X
 
