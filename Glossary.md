@@ -29,6 +29,8 @@ D
 
 **Defender** is the built-in antivirus for Windows that protects you from the malicious sites you weren't expecting.
 
+[D3D11On12](https://learn.microsoft.com/en-us/windows/win32/direct3d12/direct3d-11-on-12) is a mechanism by which developers can use D3D11 interfaces and objects to drive the D3D12 API. D3D11on12 enables components written using D3D11 (for example, D2D text and UI) to work together with components written targeting the D3D12 API.
+
 [DirectStorage API](https://devblogs.microsoft.com/directx/directstorage-is-coming-to-pc/) is an API in the DirectX family originally designed for the [Velocity Architecture](https://news.xbox.com/en-us/2020/07/14/a-closer-look-at-xbox-velocity-architecture/) to Windows.
 
 [Deployment Image Servicing and Management (DISM)](https://learn.microsoft.com/en-us/troubleshoot/windows-server/deployment/fix-windows-update-errors) is as a Windows 10/11 tool designed to help network administrators prepare, modify, restore, and repair Windows images, including those used for Windows PE, Windows Recovery Environment (Windows RE) and Windows Setup.
@@ -86,6 +88,8 @@ P
 [PowerToys](https://docs.microsoft.com/en-us/windows/powertoys/) is a set of utilities for power users to tune and streamline their Windows 10/11 experience for greater productivity.
 
 Q
+
+[Qt](https://www.qt.io/) is a cross-platform application development framework for desktop, embedded and mobile. Supported Platforms include Linux, MacOS, Windows, Android, and iOS.
 
 R
 
