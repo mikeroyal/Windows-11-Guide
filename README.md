@@ -976,12 +976,20 @@ Nexcloud Hub
 
 **Firewall** is a system that provides network security by filtering incoming and outgoing network traffic based on a set of user-defined rules. In general, the purpose of a firewall is to reduce or eliminate the occurrence of unwanted network communications while allowing all legitimate communication to flow freely.
 
+[GlassWire](https://www.glasswire.com/) is a personal Network Traffic Monitor and Firewall. It instantly see your current & past network activity. Detecting malware, and block badly behaving apps.
+
+<p align="center">
+ <img src="https://github.com/mikeroyal/Windows-11-Guide/assets/45159366/34dc9404-795b-4a9a-b517-210854e0651f">
+  <br />
+</p>
+
 [Simplewall](https://www.henrypp.org/product/simplewall) is a simple tool to configure Windows Filtering Platform (WFP) which can configure network activity on your computer. It's not a control UI over Windows Firewall, and does not interact in any level with Windows Firewall. It works over Windows Filtering Platform (WFP) which is a set of API and system services that provide a platform for creating network filtering applications.
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/236403556-265071a6-241f-4bee-b0d2-b5ba983afe3a.png">
   <br />
 </p>
+
 
 ### MFA
 
