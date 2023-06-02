@@ -31,6 +31,8 @@ D
 
 [D3D11On12](https://learn.microsoft.com/en-us/windows/win32/direct3d12/direct3d-11-on-12) is a mechanism by which developers can use D3D11 interfaces and objects to drive the D3D12 API. D3D11on12 enables components written using D3D11 (for example, D2D text and UI) to work together with components written targeting the D3D12 API.
 
+[DirectX Raytracing (DXR)](https://microsoft.github.io/DirectX-Specs/d3d/Raytracing.html) is an API that focuses on delivering high performance by giving the application signficant low-level control, as with earlier versions of DirectX 12.
+
 [DirectStorage API](https://devblogs.microsoft.com/directx/directstorage-is-coming-to-pc/) is an API in the DirectX family originally designed for the [Velocity Architecture](https://news.xbox.com/en-us/2020/07/14/a-closer-look-at-xbox-velocity-architecture/) to Windows.
 
 [Deployment Image Servicing and Management (DISM)](https://learn.microsoft.com/en-us/troubleshoot/windows-server/deployment/fix-windows-update-errors) is as a Windows 10/11 tool designed to help network administrators prepare, modify, restore, and repair Windows images, including those used for Windows PE, Windows Recovery Environment (Windows RE) and Windows Setup.
@@ -51,13 +53,23 @@ F
 
 G
 
+[Geforce NOW](https://www.nvidia.com/en-us/geforce-now/download/) is NVIDIA's Cloud Gaming Service.
+
+[GOG GALAXY](https://lutris.net/games/gog-galaxy/) is a fully optional client to install, play and update your games.
+
 H
 
+[Heroic](https://heroicgameslauncher.com/) is an Open Source Game Launcher for Linux, Windows and macOS (for both Native and Windows Games using Crossover). 
+
 I
+
+[Itch.io Store](https://itch.io/app) is an app that lets you effortlessly download and run games and software from itch.io. 
 
 J
 
 K
+
+[KDE Connect](https://kdeconnect.kde.org/) is a tool that lets you easily link up your phone to your computer, your computer to your tablet; or your computer to your Steam Deck device.
 
 L
 
@@ -93,6 +105,8 @@ Q
 
 R
 
+[Ray tracing](https://developer.nvidia.com/rtx/ray-tracing) is a method of graphics rendering that simulates the physical behavior of light. 
+
 [Rufus](https://rufus.ie/) is a utility that helps format and create bootable USB flash drives.
 
 S
@@ -124,6 +138,8 @@ V
 [Visual Studio](https://visualstudio.microsoft.com/) is an integrated development environment from Microsoft. It's used to develop computer programs including websites, web apps, web services and mobile apps.
 
 [ViVe](https://github.com/thebookisclosed/ViVe) is a C# library you can use to make your own programs that interact with Windows 10/11's A/B feature mechanism.
+
+[Vulkan](https://vulkan.org/) is a low-overhead graphics and compute API for high-efficiency, cross-platform access to GPUs.
 
 W
 
