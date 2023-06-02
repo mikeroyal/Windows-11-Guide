@@ -67,6 +67,7 @@
       * [Useful OBS Studio 3rd party Plugins & Themes](#useful-obs-studio-3rd-party-plugins-and-themes)
    - [Discord](#Discord)
    - [Twitch](#Twitch)
+   - [Sleep/Suspend Games](#sleepsuspend-games)
    - [Game Stores & Launchers](#Game-Stores--Launchers)
      * [Steam](#Steam)
      * [Playnite](#Playnite)
@@ -1835,6 +1836,23 @@ AMD StoreMI. Image Credit: [AMD](https://www.amd.com/en/technologies/store-mi)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/45159366/203753175-0aaea65d-013e-4a4e-b67d-19a6ca52ff56.png">
+</p>
+
+### Sleep/Suspend Games
+
+[Back to the Top](#table-of-contents)
+
+[Nyrna](https://github.com/Merrit/nyrna/releases) is a tool that let's you Suspend games and applications. Similar to the useful sleep/suspend function found in consoles like the Nintendo Switch and Sony PlayStation; suspend your game (and its resource usage) at any time, and resume whenever you wish at the push of a button.
+
+**Suspend Games**
+
+ * Pause cutscenes to read the subtitles, examine the scene, answer the door, etc.
+ * Pause games that can't normally be paused (single-player games like Dark Souls, Elden Ring, etc).
+ * Suspend games whose pause screens keep the system running hot or playing unwanted music.
+ * Suspend inbetween checkpoints (example: Hollow Knight).
+ 
+<p align="center">
+ <img src="https://github.com/mikeroyal/Windows-11-Guide/assets/45159366/8e167ee5-820b-4b69-a157-1870e335fe74">
 </p>
 
 ## Game Stores & Launchers
