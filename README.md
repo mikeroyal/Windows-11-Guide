@@ -467,7 +467,7 @@ There’s also a manual a way to remove the Windows 11 watermark. It’s importa
 [Files](https://github.com/files-community/Files) is a file manager for Windows with a powerful yet intuitive design. It has features like multiple tabs, panes, columns, shell extensions in the context menu and tags.
 
 [EverythingToolbar](https://github.com/srwi/EverythingToolbar) is a tool that provides instant file search integration for the Windows taskbar powered by [Everything](https://www.voidtools.com/). It's compatible with both Windows 10 and Windows 11 and works well with tools like [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) and [StartAllBack](https://www.startallback.com/) to give you the full deskband integration even on Windows 11.
-
+[Redist Pack] (https://github.com/jbara2002/redist-pack) is a package which adds additional runtimes such as Visual C++ , Basic, DirectX, different version of JRE with JDK and more redists. Also it can installed one-to-one from releases.
 [Sysinternals Suite](https://docs.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite) is the entire set of Sysinternals Utilities rolled up into a single download. Also, checkout the [Sysinternals Utilities Index](https://docs.microsoft.com/en-us/sysinternals/downloads/).
 
 [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) is a tool that restores the taskbar, start menu, context menus, explorer, style and order back to the Windows 7 & 10 style.
