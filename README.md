@@ -81,7 +81,6 @@
      * [Rockstar Games](#Rockstar-Games)
      * [GOG Galaxy Store](#GOG-Galaxy)
      * [Itch.io Store](#Itchio-Store)
-     * [Prism for Minecraft](#Prism)
      * [FF XIV Launcher](#FFXIV-Launcher)
    - [Game Streaming](#Game-streaming)
      * [Cloud Game Streaming](#Cloud-Game-Streaming)
@@ -1973,16 +1972,6 @@ AMD StoreMI. Image Credit: [AMD](https://www.amd.com/en/technologies/store-mi)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/45159366/199429576-278a8604-7f76-4a41-abeb-84d03865daeb.png">
-</p>
-
-### Prism
-
-[Back to the Top](#table-of-contents)
-
-[Prism Launcher for Minecraft](https://prismlauncher.org/) is an Open Source Minecraft launcher with the ability to manage multiple instances, accounts and mods. 
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/45159366/209223630-4ae7df57-9561-411c-9be8-ea7cd76f266a.png">
 </p>
 
 ### FFXIV Launcher
