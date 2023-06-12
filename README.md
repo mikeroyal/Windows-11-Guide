@@ -70,6 +70,7 @@
    - [Sleep/Suspend Games](#sleepsuspend-games)
    - [Game Stores & Launchers](#Game-Stores--Launchers)
      * [Steam](#Steam)
+     * [Heroic Games Launcher](#heroic-games-launcher)
      * [Playnite](#Playnite)
      * [Launchbox](#Launchbox)
      * [Razor Cortex](#Razor-Cortex)
@@ -1868,6 +1869,16 @@ AMD StoreMI. Image Credit: [AMD](https://www.amd.com/en/technologies/store-mi)
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/112692999-14ea9800-8e3d-11eb-964a-6bee4e665900.png">
 </p>
+
+### Heroic Games Launcher
+[Back to the Top](#table-of-contents)
+
+[Heroic Game Launcher](https://heroicgameslauncher.com/) is an Open Source Game Launcher for Linux, Windows and MacOS (for both Native and Windows Games using Crossover). It supports launching games from the Epic Games Store and the GOG.com Store. 
+
+<p align="center">
+ <img src="https://github.com/mikeroyal/Apple-Silicon-Guide/assets/45159366/95b64ae6-1bf5-494d-a2bf-0a4e16786270">
+</p>
+
 
 ### Playnite
 
