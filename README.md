@@ -1873,7 +1873,7 @@ AMD StoreMI. Image Credit: [AMD](https://www.amd.com/en/technologies/store-mi)
 ### Heroic Games Launcher
 [Back to the Top](#table-of-contents)
 
-[Heroic Game Launcher](https://heroicgameslauncher.com/) is an Open Source Game Launcher for Linux, Windows and MacOS (for both Native and Windows Games using Crossover). It supports launching games from the Epic Games Store and the GOG.com Store. 
+[Heroic Games Launcher](https://heroicgameslauncher.com/) is an Open Source Game Launcher for Linux, Windows and MacOS (for both Native and Windows Games using Crossover). It supports launching games from the Epic Games Store and the GOG.com Store. 
 
 <p align="center">
  <img src="https://github.com/mikeroyal/Apple-Silicon-Guide/assets/45159366/95b64ae6-1bf5-494d-a2bf-0a4e16786270">
@@ -1912,8 +1912,6 @@ AMD StoreMI. Image Credit: [AMD](https://www.amd.com/en/technologies/store-mi)
 
 ### Epic Games Store
 [Back to the Top](#table-of-contents)
-
-[Heroic Game Launcher](https://heroicgameslauncher.com/) is an Open Source Game Launcher for Linux, Windows and MacOS (for both Native and Windows Games using Crossover). It supports launching games from the Epic Games Store using Legendary, a CLI alternative to the Epic Games Launcher. 
 
 [Epic Games Store](https://www.epicgames.com/store/) is a digital video game storefront for Microsoft Windows and macOS, operated by Epic Games.
 
