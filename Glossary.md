@@ -153,6 +153,8 @@ W
 
 **Windows Subsystem for Linux (WSL)** is a feature of Windows that allows developers to run a Linux environment without the need for a separate virtual machine (VM) or dual-booting.
 
+[Windows Recovery Environment (WinRE)](https://learn.microsoft.com/windows-hardware/manufacture/desktop/windows-recovery-environment--windows-re--technical-reference?view=windows-11) is a recovery environment that can repair common causes of unbootable operating systems. It's based on Windows Preinstallation Environment (Windows PE), and can be customized with additional drivers, languages, Windows PE Optional Components, and other troubleshooting and diagnostic tools. 
+
 **Word** is a word processing software developed by Microsoft for Windows, macOS, Android and iOS.
 
 [WinDirStat(Windows Directory Statistics)](https://windirstat.net/) is a disk usage statistics viewer and cleanup tool for various versions of Microsoft Windows.
