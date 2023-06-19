@@ -59,7 +59,9 @@ G
 
 H
 
-[Heroic](https://heroicgameslauncher.com/) is an Open Source Game Launcher for Linux, Windows and macOS (for both Native and Windows Games using Crossover). 
+[Heroic](https://heroicgameslauncher.com/) is an Open Source Game Launcher for Linux, Windows and macOS (for both Native and Windows Games using Crossover).
+
+**High Dynamic Range (HDR)** is a feature that offers better brightness and color capabilities compared to traditional content (Standard Dynamic Range (SDR) content). HDR can show a wider range of colors and light and more details in between the extremes. Colors are more vivid and unique in HDR content. 
 
 I
 
@@ -134,6 +136,8 @@ U
 **UEFI (Unified Extensible Firmware Interface)** is a tiny operating system that runs on top of the PC's firmware, and it can do a lot more than a BIOS. It may be stored in flash memory on the motherboard, or it may be loaded from a hard drive or network share at boot.
 
 V
+
+**Variable Refresh Rate (VRR)**  is a key feature that dynamically adjusts its refresh rate based on the frame rate of the content you’re viewing  without user input. A display supporting a variable refresh rate usually supports a specific range of refresh rates (30Hz-144Hz).
 
 [Visual Studio Code](https://code.visualstudio.com/) is a code editor redefined and optimized for building and debugging modern web and cloud applications. 
 
