@@ -103,6 +103,8 @@ Q
 
 [Qt](https://www.qt.io/) is a cross-platform application development framework for desktop, embedded and mobile. Supported Platforms include Linux, MacOS, Windows, Android, and iOS.
 
+[Quick Resume](https://support.xbox.com/help/games-apps/game-setup-and-play/get-back-to-your-game-instantly-with-quick-resume) is a feature on the Xbox Series X & Series S consoles, where you can jump back into your games right where you left off. When you switch from one game to another, the console saves the state of the current game. If there's a Quick Resume state for a game that you switch to, the console will load that state for you. Note, that Quick Resume will be coming to Windows in the near future through [DirectStorage](https://learn.microsoft.com/gaming/gdk/_content/gc/system/overviews/directstorage/directstorage-overview).
+
 R
 
 [Ray tracing](https://developer.nvidia.com/rtx/ray-tracing) is a method of graphics rendering that simulates the physical behavior of light. 
