@@ -1090,6 +1090,85 @@ Nexcloud Hub
 Scrutiny UI
 </p>
 
+## Reset/Restore Windows 11
+
+[Back to the Top](#table-of-contents)
+
+### Reset your Windows 11 system
+
+**Resetting**, is a process that reinstalls Windows 11, but lets you choose whether to keep your files or remove them, and then reinstalls Windows. You can reset your PC from Settings, the sign-in screen, or by using a recovery drive or installation media.
+
+**Reset your PC from Settings**
+
+   1. Select Start > Settings  > System  > Recovery .
+     <p align="center">
+       <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/3cf41513-3aa1-4df5-8be8-d4205c01a40b">
+         <br />
+      </p>
+
+   2.  Next to **Reset this PC** , select **Reset PC**. Then, select Keep my files, choose cloud or local, change your settings, and set Restore preinstalled apps? or No. 
+   
+   <p align="center">
+       <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/6dc439f6-333d-41cf-8bbd-1e5cc184eb80">
+         <br />
+      </p>
+      
+   3. Click the Keep my files option.
+   
+   <p align="center">
+       <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/466d7f88-f4c3-4af4-9cb8-00df772c2660">
+         <br />
+      </p>
+      
+   4.  * **Cloud download:** Download a fresh copy of the installation from the cloud and reinstall Windows 11. However, this option will not restore the tools, apps, and configuration that came with the original image provided by the manufacturer.
+       * **Local reinstall:** Uses the files already available to reset the computer. If this is a branded device (such as Dell, ASUS, Lenovo, etc.), this process will restore the factory drivers, settings, and tools.
+      
+   <p align="center">
+       <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/9aabb2fe-b00c-45de-a02d-915c7a52274d">
+         <br />
+      </p>
+
+5. Click the Reset button.
+
+<p align="center">
+       <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/8065337e-f4a6-4743-a199-7bb8c6eb9506">
+         <br />
+      </p>
+      
+ **Note:** You will need to do Sytem Updates when this process is finished.
+
+### Restore from System Restore Point
+
+This option takes your PC back to an earlier point in time, called a system restore point. Restore points are generated when you install a new app or driver, and when you create a restore point manually. Restoring won’t affect your personal files, but it will remove apps, drivers, and updates installed after the restore point was made.
+
+   1. In the search box on the taskbar, type control panel, and then choose it from the list of results
+
+   2. In the Control Panel search box, type recovery.
+
+   3. Select Recovery > Open System Restore.
+
+   4. In the Restore system files and settings box, select Next.
+
+   5. Select the restore point that you want to use in the list of results, and then select Scan for affected programs.
+
+   **Notes:**
+
+   * If you don’t see the restore point that you want to use, select the Show more restore points check box to see more restore points.
+
+   * If you’re not seeing any restore points, it might be because system protection isn’t turned on. Here’s how to check:
+
+        * In the search box on the taskbar, type control panel, and then choose it from the list of results.
+
+        * In the Control Panel search box, type recovery.
+
+        *  Select **Recovery > Configure System Restore > Configure** and see if the **Turn on system protection** option is selected.
+
+     * If the Turn on system protection option is not selected, system protection isn’t turned on and there aren't any restore points. In this scenario, you won't be able to recovery your PC using a system restore point and will need to use one of the other recovery options listed on this page.
+
+     * If the Turn on system protection option is selected, continue with step 6.
+
+   6. You'll see a list of items that will be deleted if you remove this restore point. If you're OK with the deletions, **select Close > Next > Finish**.
+
 ## Backups
 
 [Back to the Top](#table-of-contents)
