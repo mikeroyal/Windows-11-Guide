@@ -1094,6 +1094,9 @@ Scrutiny UI
 
 [Back to the Top](#table-of-contents)
 
+* **[Recovery options in Windows](https://support.microsoft.com/windows/recovery-options-in-windows-31ce2444-7de3-818c-d626-e3b5a3024da5)**
+* **[Windows backup in Windows 11](https://support.microsoft.com/windows/about-windows-backup-in-windows-11-2ed5c7af-055e-44e8-839e-20124b641795)**
+
 [Borgmatic](https://github.com/modem7/docker-borgmatic) is a simple, configuration-driven backup software for servers and workstations. It protects your files with client-side encryption. Backup your databases too. Monitor it all with integrated third-party services. 
 
 [BorgWarehouse](https://borgwarehouse.com/) is a  fast and modern WebUI for a BorgBackup's central repository server.
