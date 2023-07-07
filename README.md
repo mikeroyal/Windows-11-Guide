@@ -54,6 +54,7 @@
 
 3. [Gaming](#Gaming)
    - [Gaming Resources for Windows](#Gaming-Resources-for-Windows)
+   - [Gaming on Xbox Game Pass](#gaming-on-xbox-game-pass)
    - [Manage/Control Fans (CPU, GPU, and motherboard)](#managecontrol-fans)
    - [Gaming Peripherals](#Gaming-Peripherals)
      * [Gaming mice, keyboards, and headsets](#RGB-Devices)
@@ -1352,6 +1353,148 @@ Open the file in your browser and check the following parameters:
   * [r/graphicscards](https://www.reddit.com/r/graphicscard/)
   * [r/gigabyte](https://www.reddit.com/r/gigabyte/)
   * [r/Alienware](https://www.reddit.com/r/Alienware/)
+   
+## Gaming on Xbox Game Pass
+
+[Back to the Top](#table-of-contents)
+
+[Xbox Game Pass](https://xbox.com/xbox-game-pass) is a video game subscription services from Microsoft starting at $9.99 and $14.99 for the [Ultimate Pass](https://www.xbox.com/en-US/xbox-game-pass/ultimate). 
+
+<p align="center">
+ <img src="https://github.com/mikeroyal/Windows-11-Guide/assets/45159366/10d96a81-e5ba-4dc1-b106-bb2c635268f6">
+</br>
+</p>
+
+### A list of great [Game Pass](https://www.xbox.com/) Games to play on the ROG Ally.
+
+**May 23** 
+
+  * Planet of Lana (Xbox Series X|S Optimized, Xbox One, Windows PC, & Xbox Cloud Gaming)
+
+**May 25**
+
+  * Cassette Beasts (Xbox Series X|S, Xbox One, & Windows PC)
+
+**May 30**
+
+   * Chicory: A Colorful Tale (Xbox Series X|S Optimized, Xbox One, Windows PC, & Xbox Cloud Gaming)
+   * Farworld Pioneers (Xbox Series X|S, Xbox One, & Windows PC)
+    
+**June 1**
+
+   * Car Mechanic Simulator 2021 (Xbox Series X|S Optimized, Xbox One, Windows PC, & Xbox Cloud Gaming)
+   * Slayers X: Terminal Aftermath: Vengeance of the Slayer (Xbox Series X|S, Xbox One, Windows PC, & Xbox Cloud Gaming)
+   * The Big Con (Xbox Series X|S Optimized, Xbox One, Windows PC, & Xbox Cloud Gaming)
+
+**June 6**
+
+   * Amnesia: The Bunker (Xbox Series X|S, Xbox One, Windows PC, & Xbox Cloud Gaming)
+   * Hypnospace Outlaw (Xbox Series X|S, Xbox One, Windows PC, & Xbox Cloud Gaming)
+
+
+**June 8**
+
+   * Rune Factory 4 Special (Xbox Series X|S, Xbox One, Windows PC, & Xbox Cloud Gaming)
+   * Stacking (Xbox Series X|S, Xbox One, & Xbox Cloud Gaming)
+    
+**June 13**
+
+   * Dordogne (Xbox Series X|S, Xbox One, Windows PC, & Xbox Cloud Gaming)
+   
+**June 22**
+
+   * The Bookwalker: Thief of Tales (Xbox Series X|S, Xbox One, Windows PC, & Xbox Cloud Gaming)
+   * Need for Speed: Unbound (Xbox Series X|S Optimized, Windows PC, & Xbox Cloud Gaming) via **EA Play**
+
+**June 27**
+
+   * Bramble: The Mountain King (Xbox Series X|S Optimized, Xbox One, Windows PC, & Xbox Cloud Gaming)
+   * F.I.S.T.: Forged in Shadow Torch (Xbox Series X|S, Windows PC, & Xbox Cloud Gaming)
+
+**June 29**
+
+   * Story of Seasons: Friends of Mineral Town (Xbox Series X|S, Xbox One, & Windows PC)
+
+**July 3**
+
+   * Arcade Paradise (Xbox Series X|S, Xbox One, & Windows PC)
+
+**July 5**
+
+   * Grand Theft Auto V (Xbox Series X|S, Xbox One, & Xbox Cloud Gaming)
+
+   * Sword and Fairy: Together Forever (Xbox Series X|S, Xbox One, & Windows PC)
+   
+**July 6**
+
+ * McPixel 3 (Xbox Series X|S, Xbox One, Windows PC, & Xbox Cloud Gaming)
+ 
+**July 11**
+
+ * Common’hood (Xbox Series X|S, Xbox One, Windows PC, & Xbox Cloud Gaming)
+ * Insurgency: Sandstorm (Windows PC)
+ 
+**July 14**
+ 
+ * Exoprimal (Xbox Series X|S, Xbox One, Windows PC, & Xbox Cloud Gaming)
+ 
+**July 18**
+
+   * Techtonica (Xbox Series X|S, Xbox One, & Windows PC)
+   * The Cave (Xbox Series X|S, Xbox One, & Xbox Cloud Gaming)
+   
+**July 31**
+    
+   * Venba (Xbox Series X|S, Xbox One, & Windows PC)
+   
+**September 6**
+
+   * Starfield Direct (Xbox Series X|S, Xbox One, & Windows PC)
+ 
+**September 29**
+ 
+   * Cocoon (Xbox Series X|S, Xbox One, & Windows PC)
+ 
+**November 2**
+ 
+   * Thirsty Suitors (Xbox Series X|S, Xbox One, & Windows PC)
+
+**Early 2024**
+    
+   * Bounty Star (Xbox Series X|S, Xbox One, & Windows PC)
+   * Ghostbike (Xbox Series X|S, Xbox One, & Windows PC)
+   * Flock (Xbox Series X|S, Xbox One, & Windows PC)
+   * To A T (Xbox Series X|S, Xbox One, & Windows PC)
+
+   
+   
+   
+## Setting up Game Pass for Offline use
+
+ * **Note:** Most games with a campaign mode will be playable offline, but games with network co-op or multiplayer features will not work while you’re offline. Before you go offline, connect to the Xbox network to sync your most recent game save to the cloud. While you play offline, your game save progress will continue to be saved locally, and it’ll sync the next time you sign in to Xbox. If you want to continue playing on a different device, you’ll need to go online and connect to the Xbox network to allow your local saved game to sync with the cloud again.
+
+ * **Note 2:** PC Game Pass game licenses expire after 30 days when playing offline, and licenses for owned games expire after 14 days. To keep playing your game offline, go back online and launch the game. This renews the game’s license on your device and ensures you can go back to playing offline.  
+
+You can only have one device as your designated offline device. **To set your device as your designated offline device:**
+
+  * Make sure that you’re online.
+  * Check that your device has the latest Windows updates: **Go to Start -> Settings -> Update & security -> Windows Update and see if any relevant updates are available**.
+  * Open the Microsoft Store. You’ll be prompted to sign in if you haven’t already.
+  * Select your profile icon in the upper right corner.
+  * Select App settings, and then under Offline permissions, make sure that the toggle is set to On.
+
+Once you set this, any devices previously designated as offline will be toggled to Off, and you’ll no longer be able to play games offline on those devices.
+
+**Prepare your game or games**
+
+Once your device is set up, you’ll need to launch each game you want to play offline while signed in to the Xbox network. You only need to do this once per game, and you’ll need to do this even if you’ve already launched the game on your device.
+
+  * Make sure that you’re online, and that your device is set as your designated offline device. (See the steps above for details on how to do this.)
+  * Launch the game you want to play offline. When prompted, sign in to Xbox.
+  * Once you’ve started playing the game, you can exit at any time.
+
+Repeat this process for each game you want to play offline. Once completed, you can go offline at any time and launch those games whenever you want to play them, without needing to sign in online each time.
+  
 
 ## Manage/Control Fans
 
