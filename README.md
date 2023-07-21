@@ -218,7 +218,7 @@
 
 [Citrix Virtual Apps and Desktops for Azure](https://azure.microsoft.com/en-us/services/virtual-desktop/citrix-virtual-apps-desktops-for-azure/) is a desktop and app virtualization service available through Azure Marketplace or agreements with Citrix. Use familiar tools to manage on-premises Citrix deployments alongside Windows Virtual Desktop on Azure, supporting cloud modernization while maximizing your existing investment.
 
-[DirectStorage API](https://devblogs.microsoft.com/directx/directstorage-is-coming-to-pc/) is an API in the DirectX family originally designed for the [Velocity Architecture](https://news.xbox.com/en-us/2020/07/14/a-closer-look-at-xbox-velocity-architecture/) to Windows. The DirectX API is architected in a way that takes all this into account and maximizes performance throughout the entire pipeline from NVMe drive all the way to the GPU. It does this in several ways: by reducing per-request NVMe overhead, enabling batched many-at-a-time parallel IO requests which can be efficiently fed to the GPU, and giving games finer grain control over when they get notified of IO request completion instead of having to react to every tiny IO completion. The DirectStorage API will be available on [Windows 11](https://www.microsoft.com/en-us/windows/windows-11) PCs with NVMe SSDs, but will also be support in [Windows 10](https://www.microsoft.com/software-download/windows10) version 1909 and newer.
+[DirectStorage API](https://devblogs.microsoft.com/directx/directstorage-is-coming-to-pc/) is an API in the DirectX family originally designed for the [Velocity Architecture](https://news.xbox.com/en-us/2020/07/14/a-closer-look-at-xbox-velocity-architecture/) to Windows. The DirectX API is architected in a way that takes all this into account and maximizes performance throughout the entire pipeline from NVMe drive all the way to the GPU. It does this in several ways: by reducing per-request NVMe overhead, enabling batched many-at-a-time parallel IO requests which can be efficiently fed to the GPU, and giving games better control over when they get notified of IO request completion instead of having to react to every tiny IO completion. The DirectStorage API will be available on [Windows 11](https://www.microsoft.com/en-us/windows/windows-11) PCs with NVMe SSDs, but will also be support in [Windows 10](https://www.microsoft.com/software-download/windows10) version 1909 and newer.
 
 [WinDirStat(Windows Directory Statistics)](https://windirstat.net/) is a disk usage statistics viewer and cleanup tool for various versions of Microsoft Windows.
 
@@ -398,13 +398,6 @@ There’s also a manual a way to remove the Windows 11 watermark. It’s importa
 ## Ways to Customize Windows 11 Look and Feel
 [Back to the Top](https://github.com/mikeroyal/Windows-11-Guide#table-of-contents)
 
-[ThisIsWin11](https://github.com/builtbybel/ThisIsWin11) is a tool which helps you set up and customize Windows 11. Created by [Builtbybel](https://twitter.com/builtbybel).
-
-<p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/158269020-6157e460-0636-468a-82b4-dace91e9a739.png">
-  <br />
-</p>
-
 [Chris Titus Tech Windows Utility](https://github.com/ChrisTitusTech/winutil) is the Ultimate Windows 10 & 11 script designed to be a swiss army knife of Windows tools to help setup and optimize machines. [The Ultimate Windows Utility | Chris Titus Tech YouTube.](https://www.youtube.com/watch?v=tPRv-ATUBe4)
 
 **Paste this command into Powershell (admin):**
@@ -473,6 +466,8 @@ There’s also a manual a way to remove the Windows 11 watermark. It’s importa
 [Files](https://github.com/files-community/Files) is a file manager for Windows with a powerful yet intuitive design. It has features like multiple tabs, panes, columns, shell extensions in the context menu and tags.
 
 [EverythingToolbar](https://github.com/srwi/EverythingToolbar) is a tool that provides instant file search integration for the Windows taskbar powered by [Everything](https://www.voidtools.com/). It's compatible with both Windows 10 and Windows 11 and works well with tools like [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) and [StartAllBack](https://www.startallback.com/) to give you the full deskband integration even on Windows 11.
+
+[Wintoys](https://apps.microsoft.com/store/detail/wintoys/9P8LTPGCBZXD?hl=en-us&gl=us) is a tool that improves your Windows experience in your way and keep it fresh every day. Set up, debloat, optimize, repair, and tweak your operating system in a simple, time-saving, yet safe approach. Maintain it in a clean, healthy and productive state while having everything you need in one place.
 
 [Sysinternals Suite](https://docs.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite) is the entire set of Sysinternals Utilities rolled up into a single download. Also, checkout the [Sysinternals Utilities Index](https://docs.microsoft.com/en-us/sysinternals/downloads/).
 
