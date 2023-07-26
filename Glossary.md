@@ -6,7 +6,7 @@ A
  
  **Active Directory** is a directory service developed by Microsoft for Windows domain networks. It is included in most Windows Server operating systems as a set of processes and services. 
 
-[AdvancedRun](https://www.nirsoft.net/utils/advanced_run.html) is a simple tool for Windows that allows you to run a program with different settings that you choose, including - low or high priority, start directory, main window state (Minimized/Maximized), run the program with different user or permissions, Operating system compatibility settings, and environment variables. You can also save the desired settings into a configuration file and then run the program automatically from command-line with the desired settings. 
+[AdvancedRun](https://www.nirsoft.net/utils/advanced_run.html) is a simple tool for Windows that allows you to run a program with different settings that you choose, including low or high priority, start directory, main window state (Minimized/Maximized), run the program with different user or permissions, Operating system compatibility settings, and environment variables. It can also save the desired settings into a configuration file and then run the program automatically from command-line with the desired settings. 
 
 [AllThreadsView](https://www.nirsoft.net/utils/all_threads_view.html) is a simple tool for Windows that displays a list of all running threads from all processes on your system in one table. For every thread, the following information is displayed: Thread ID, Creation Time, Kernel Time, User Time, Duration, Start Address, Priority, Base Priority, Context Switch Count, Context Switch Change (Since the last refresh), Wait Reason, Process ID, Process Path. 
 
