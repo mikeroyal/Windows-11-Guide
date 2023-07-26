@@ -58,6 +58,10 @@ D
 
 [Dynamics 365](https://dynamics.microsoft.com/en-us/) is the essential business solution for busy professionals who need to engage with customers while staying productive at work and on the go. Arrive prepared for every appointment and update notes, tasks, and attachments. Along with relevant service and sales records.
 
+[DNSLookupView](https://www.nirsoft.net/utils/dns_lookup_view.html) is a DNS tracing tool for Windows that allows you to view the details of every DNS query sent through the DNS Client service of Windows. For every DNS query, the following information is displayed: Host Name, Query Type (A, AAAA, and so on), Query Status (Error or succeeded), Query Result, Query Timestamp, ID and name of the process that requested the DNS lookup. 
+
+[DriveLetterView](https://www.nirsoft.net/utils/drive_letter_view.html) is a simple utility that allows you to view the list of all drive letter assignments in your system, including local drives, remote network drives, CD/DVD drives, and USB drives - even if they are not currently plugged. It also allows you to easily change a drive letter of USB devices and remote network shares, as well as to delete a drive letter of USB device that is not plugged.
+
 E
 
 [eBPF for Windows](https://github.com/microsoft/ebpf-for-windows) is an eBPF implementation that runs on top of Windows. eBPF is a well-known technology for providing programmability and agility, especially for extending an OS kernel, for use cases such as DoS protection and observability.
