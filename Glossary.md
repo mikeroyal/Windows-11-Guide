@@ -24,6 +24,13 @@ B
 
 **Batch file** is a script file in DOS, OS/2 and Microsoft Windows. It consists of a series of commands to be executed by the command-line interpreter.
 
+[BatteryHistoryView](https://www.nirsoft.net/utils/battery_history_view.html) is atool that extracts and displays the history information of the laptop battery stored in the SRUDB.dat database of Windows 10 and Windows 11. The battery history information is automatically collected by Windows operating systems and includes the following information: Timestamp, Cycle Count, Designed Capacity, Full Charged Capacity, Charge Level, Charge Percent, Active AC Time, CS AC Time, Active DC Time, CS DC Time, Active Discharge Time, CS Discharge Time, Active Energy, CS Energy. 
+
+[BlueScreenView](https://www.nirsoft.net/utils/blue_screen_view.html) is a tool that scans all your minidump files created during **'blue screen of death'** crashes, and displays the information about all crashes in one table. For each crash, BlueScreenView displays the minidump filename, the date/time of the crash, the basic crash information displayed in the blue screen (Bug Check Code and 4 parameters), and the details of the driver or module that possibly caused the crash (filename, product name, file description, and file version). 
+
+[BluetoothView](https://www.nirsoft.net/utils/bluetooth_viewer.html) is a small utility that runs in the background, and monitor the activity of Bluetooth devices around you. For each detected Bluetooth device, it displays the following information: Device Name, Bluetooth Address, Major Device Type, Minor Device Type, First Detection Time, Last Detection Time, and more. 
+
+[BulkFileChanger](https://www.nirsoft.net/utils/bulk_file_changer.html) is a small utility that allows you to create files list from multiple folders, and then make some action on them - Modify their created/modified/accessed time, change their file attribute (Read Only, Hidden, System), run an executable with these files as parameter, and copy/cut paste into Explorer. 
 
 C
 
