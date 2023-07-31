@@ -142,6 +142,10 @@ P
 
 [PowerToys](https://docs.microsoft.com/en-us/windows/powertoys/) is a set of utilities for power users to tune and streamline their Windows 10/11 experience for greater productivity.
 
+[PingInfoView](https://www.nirsoft.net/utils/multiple_ping_tool.html) is a small utility that allows you to easily ping multiple host names and IP addresses, and watch the result in one table. It automatically ping to all hosts every number of seconds that you specify, and displays the number of succeed and failed pings, as well as the average ping time. You can also save the ping result into text/html/xml file, or copy it to the clipboard.
+
+[Product Key Scanner](https://www.nirsoft.net/utils/product_key_scanner.html) is a tool that scans the Registry of Windows Operating system and finds the product keys of Windows and other Microsoft products. You can scan the Registry of your current running system, as well as you can scan the Registry from external hard drive plugged to your computer. 
+
 Q
 
 [Qt](https://www.qt.io/) is a cross-platform application development framework for desktop, embedded and mobile. Supported Platforms include Linux, MacOS, Windows, Android, and iOS.
