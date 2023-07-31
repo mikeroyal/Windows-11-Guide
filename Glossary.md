@@ -98,6 +98,8 @@ K
 
 [KDE Connect](https://kdeconnect.kde.org/) is a tool that lets you easily link up your phone to your computer, your computer to your tablet; or your computer to your Steam Deck device.
 
+[KeyboardStateView](https://www.nirsoft.net/utils/keyboard_state_view.html) is a simple tool for Windows that displays the current state and virtual key code of every key you press. It also allows you to view the current state of all keyboard keys. For every key, the following information is displayed: Key Name (VK_XXXX ), Description, Key Code (Decimal), Key Code (Hexadecimal), Key Pressed Status, Key Toggled Status (Useful for Num Lock, Caps Lock), and last time that the key was pressed. 
+
 L
 
 [Language Server Protocol (LSP)](https://microsoft.github.io/language-server-protocol/) is a tool that defines the protocol used between an editor or IDE and a language server that provides language features like auto complete, go to definition, find all references.
