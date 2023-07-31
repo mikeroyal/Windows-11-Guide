@@ -118,6 +118,10 @@ N
 
 [.NET](https://dotnet.microsoft.com/learn/dotnet/what-is-dotnet) is a developer platform with tools and libraries for building any type of app, including web, mobile, desktop, games, IoT, cloud, and microservices.
 
+[NetworkCountersWatch](https://www.nirsoft.net/utils/network_counters_watch.html) is a tool for Windows that displays system counters for every network interface on your system. The system counters include the number of incoming/outgoing bytes, number of incoming/outgoing packets, number of broadcast packets, and more. 
+
+[NetworkInterfacesView](https://www.nirsoft.net/utils/network_interfaces.html) is a simple tool that displays the list of all network adapters/interfaces installed on your system. It displays network interfaces that are currently active, as well as network interfaces that have been installed previously, and now they are not connected (like USB wireless network adapters). For every network interface found on your system, the following information is displayed (if it's stored in the Registry): Device Name, Connection Name, IP Address, Subnet Mask, Default Gateway, DHCP Server, Status, MAC Address and more.
+
 [NuGet Package Manager](https://marketplace.visualstudio.com/items?itemName=NuGetTeam.NuGetPackageManager) collection of tools to automate the process of downloading, installing, upgrading, configuring, and removing packages from a VS Project.
 
 [NVIDIA DLSS (Deep Learning Super Sampling)](https://www.nvidia.com/geforce/technologies/dlss/) is a Nvidia RTX feature that provides AI-powered performance multiplier which boosts frame rates by up to 4X. It uses Deep learning to produce an image that looks like a higher-resolution image of the original lower resolution image at a playable game frame rate and responsiveness. 
