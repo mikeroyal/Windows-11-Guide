@@ -156,6 +156,8 @@ R
 
 [Ray tracing](https://developer.nvidia.com/rtx/ray-tracing) is a method of graphics rendering that simulates the physical behavior of light. 
 
+[RunAsDate](https://www.nirsoft.net/utils/run_as_date.html) is a small utility that allows you to run a program in the date and time that you specify. This utility doesn't change the current system date and time of your computer, but it only injects the date/time that you specify into the desired application. It can run multiple applications simultaneously, each application works with different date and time, while the real date/time of your system continues to run normally. 
+
 [Rufus](https://rufus.ie/) is a utility that helps format and create bootable USB flash drives.
 
 S
