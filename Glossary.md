@@ -164,6 +164,10 @@ S
 
 [Secure boot](https://docs.microsoft.com/en-us/windows-hardware/design/device-experiences/oem-secure-boot) is a security standard developed by members of the PC industry to help make sure that a device boots(Unified Extensible Firmware Interface (UEFI) BIOS) using only software(such as bootloaders, OS, UEFI drivers, and utilities) that is trusted by the Original Equipment Manufacturer (OEM).
 
+[SearchMyFiles](https://www.nirsoft.net/utils/search_my_files.html) is an alternative to the standard "Search For Files And Folders" module of Windows. It allows you to easily search files in your system by wildcard, by last modified/created/last accessed time, by file attributes, by file content (text or binary search), and by the file size. SearchMyFiles allows you to make a very accurate search that cannot be done with Windows search.
+
+[SoundVolumeCommandLine](https://www.nirsoft.net/utils/sound_volume_command_line.html) is a console application that allows you to do many actions related to sound volume from command-line, including - set sound volume of devices and applications, mute/unmute devices and applications, increase/decrease volume of devices and applications, set the volume level of specific channel, set the default render/capture device, get the current sound volume level of specific device, and more.
+
 [SFC (System File Checker)](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/sfc) is a utility in Microsoft Windows that allows users to scan for and restore corrupted Windows system files.
 
 [sfc /scannow](https://support.microsoft.com/en-us/topic/use-the-system-file-checker-tool-to-repair-missing-or-corrupted-system-files-79aa86cb-ca52-166a-92a3-966e85d4094e) is a command will scan all protected system files, and replace corrupted files with a cached copy that is located in a compressed folder at %WinDir% \System32\dllcache. The %WinDir% placeholder represents the Windows operating system folder. 
