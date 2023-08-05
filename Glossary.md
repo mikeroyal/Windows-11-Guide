@@ -216,6 +216,14 @@ W
 
 [WinDirStat(Windows Directory Statistics)](https://windirstat.net/) is a disk usage statistics viewer and cleanup tool for various versions of Microsoft Windows.
 
+[WakeMeOnLan](https://www.nirsoft.net/utils/wake_on_lan.html) is a utility allows you to easily turn on one or more computers remotely by sending Wake-on-LAN (WOL) packet to the remote computers. When your computers are turned on, WakeMeOnLan allows you to scan your network, and collect the MAC addresses of all your computers, and save the computers list info a file. Later, when your computers are turned off or in standby mode, you can use the stored computers list to easily choose the computer you want to turn on, and then turn on all these computers with a single click. 
+
+[WhatInStartup](https://www.nirsoft.net/utils/what_run_in_startup.html) is a utility that displays the list of all applications that are loaded automatically when Windows starts up. For each application, the following information is displayed: Startup Type (Registry/Startup Folder), Command-Line String, Product Name, File Version, Company Name, Location in the Registry or file system, and more. It allows you to easily disable or delete unwanted programs that run in your Windows startup. You can use it on your currently running instance of Windows, as well as you can use it on external instance of Windows in another drive.  
+
+[WhoisThisDomain](https://www.nirsoft.net/utils/whois_this_domain.html) is a utility allows you to easily get information about a registered domain. It automatically connects to the right WHOIS server, according to the top-level domain name, and retrieve the WHOIS record of the domain. It supports both generic domains and country code domains. 
+
+[WinDefThreatsView](https://www.nirsoft.net/utils/windows_defender_threats_view.html) is tool for Windows 10 that displays the list of all threats detected by Windows Defender Antivirus and allows you to easily set the default action (Allow, Quarantine, Clean, Remove, Block, or No Action) for multiple threats at once. You can use this tool on your local computer and also on remote computer, as long as you have permission to access WMI on the remote machine. 
+
 X
 
 [Xbox Game Pass](https://xbox.com/xbox-game-pass) is a  video game subscription services from Microsoft. 
