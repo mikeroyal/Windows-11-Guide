@@ -36,7 +36,7 @@
       - [Secure & Privacy-focused Web Browsers](https://github.com/mikeroyal/Windows-11-Guide#secure--privacy-focused-web-browsers)
          * [Privacy & Security Focused Browser extensions](https://github.com/mikeroyal/Windows-11-Guide#privacy--security-focused-browser-extensions)
          * [Privacy-focused Search Engines](https://github.com/mikeroyal/Windows-11-Guide#privacy-focused-search-engines)
-      - [Windows Security Hardening](https://github.com/mikeroyal/Windows-11-Guide#Windows-Security-Hardening)
+      - [Windows Security Hardening](https://github.com/mikeroyal/Windows-11-Guide#windows-security-hardening)
       
            - [Encryption Tools](#encryption-tools)
 	    - [Virtual Private Network (VPN)](#vpn)
