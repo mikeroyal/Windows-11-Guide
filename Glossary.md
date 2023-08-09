@@ -224,6 +224,8 @@ W
 
 [WinDefThreatsView](https://www.nirsoft.net/utils/windows_defender_threats_view.html) is tool for Windows 10 that displays the list of all threats detected by Windows Defender Antivirus and allows you to easily set the default action (Allow, Quarantine, Clean, Remove, Block, or No Action) for multiple threats at once. You can use this tool on your local computer and also on remote computer, as long as you have permission to access WMI on the remote machine. 
 
+[WinUpdatesView](https://www.nirsoft.net/utils/windows_updates_history_viewer.html) is a simple tool that displays the history of Windows updates on your system. WinUpdatesView can load the Windows updates history from your local system, using API, and it can also read and parse the Windows updates database file (DataStore.edb) from external drive or from remote computer on your network. For every Windows update history record, WinUpdatesView displays the following fields: Title, Description, Install Date, Update Operation (Install, Uninstall, Not Started, In Progress), Operation Result (Succeeded, Succeeded With Errors, Failed, Aborted), Category, Information URL, Support URL, Uninstall Notes, Client Application ID, Service ID, Update ID, Revision Number, Unmapped Result Code, Server Selection, hResult.
+
 X
 
 [Xbox Game Pass](https://xbox.com/xbox-game-pass) is a  video game subscription services from Microsoft. 
