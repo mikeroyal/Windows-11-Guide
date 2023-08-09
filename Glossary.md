@@ -186,6 +186,12 @@ U
 
 **UEFI (Unified Extensible Firmware Interface)** is a tiny operating system that runs on top of the PC's firmware, and it can do a lot more than a BIOS. It may be stored in flash memory on the motherboard, or it may be loaded from a hard drive or network share at boot.
 
+[UninstallView](https://www.nirsoft.net/utils/uninstall_view.html) is a tool for Windows that collects information about all programs installed on your system and displays the details of the installed programs in one table. You can use it to get installed programs information for your local system, for remote computer on your network, and for external hard-drive plugged to your computer. It also allows you to easily uninstall a software on your local computer and remote computer (Including quiet uninstall if the installer supports it). 
+
+[USBDeview](https://www.nirsoft.net/utils/usb_devices_view.html) is a small utility that lists all USB devices that currently connected to your computer, as well as all USB devices that you previously used. For each USB device, extended information is displayed: Device name/description, device type, serial number (for mass storage devices), the date/time that device was added, VendorID, ProductID, and more.
+
+[USBLogView](https://www.nirsoft.net/utils/usb_log_view.html) is a small utility that runs in the background and records the details of any USB device that is plugged or unplugged into your system. For every log line created by USBLogView, the following information is displayed: Event Type (Plug/Unplug), Event Time, Device Name, Description, Device Type, Drive Letter (For storage devices), Serial Number (Only for some types of devices), Vendor ID, Product ID, Vendor Name, Product Name, and more.
+
 V
 
 **Variable Refresh Rate (VRR)**  is a key feature that dynamically adjusts its refresh rate based on the frame rate of the content you’re viewing  without user input. A display supporting a variable refresh rate usually supports a specific range of refresh rates (30Hz-144Hz).
