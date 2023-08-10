@@ -1044,6 +1044,8 @@ Nexcloud Hub
 
 [Back to Top](#table-of-contents)
 
+**Disk Image Creation** - is a process of Data backup and recovery where creating an image ensures that the original data on the disk is preserved. With an exact copy, you can extract the data from the disk image anytime you need.
+
 * [AccessData FTK Imager](http://accessdata.com/product-download/?/support/adownloads#FTKImager) - Forensics tool whose main purpose is to preview recoverable data from a disk of any kind. FTK Imager can also acquire live memory and paging file on 32bit and 64bit systems.
 * [Bitscout](https://github.com/vitaly-kamluk/bitscout) - Bitscout by Vitaly Kamluk helps you build your fully-trusted customizable LiveCD/LiveUSB image to be used for remote digital forensics (or perhaps any other task of your choice). It is meant to be transparent and monitorable by the owner of the system, forensically sound, customizable and compact.
 * [Magnet ACQUIRE](https://www.magnetforensics.com/magnet-acquire/) - ACQUIRE by Magnet Forensics allows various types of disk acquisitions to be performed on Windows, Linux, and OS X as well as mobile operating systems.
@@ -1051,6 +1053,8 @@ Nexcloud Hub
 ### Evidence Collection
 
 [Back to Top](#table-of-contents)
+
+**Evidence Collection** - is a set of protocols that apply to both pre-collection and post-collection evidence. This process helps with Preserving & Collecting Evidence making sure the evidence is not destroyed or devalued as a source of information.
 
 * [Acquire](https://github.com/fox-it/acquire) - Acquire is a tool to quickly gather forensic artifacts from disk images or a live system into a lightweight container. This makes Acquire an excellent tool to, among others, speedup the process of digital forensic triage. It uses [Dissect](https://github.com/fox-it/dissect) to gather that information from the raw disk, if possible.
 * [artifactcollector](https://github.com/forensicanalysis/artifactcollector) - The artifactcollector project provides a software that collects forensic artifacts on systems.
@@ -1066,6 +1070,8 @@ Nexcloud Hub
 ### Incident Management
 
 [Back to Top](#table-of-contents)
+
+**Incident Management** - is the process used by development and IT Operations teams to respond to an unplanned event or service interruption and restore the service to its operational state.
 
 * [Catalyst](https://github.com/SecurityBrewery/catalyst) - A free SOAR system that helps to automate alert handling and incident response processes.
 * [CyberCPR](https://www.cybercpr.com) - Community and commercial incident management tool with Need-to-Know built in to support GDPR compliance while handling sensitive incidents.
@@ -1084,6 +1090,10 @@ Nexcloud Hub
 ### Sandboxing/Reversing Tools
 
 [Back to Top](#table-of-contents)
+
+**Sandboxing** - is a security practice in which you use an isolated environment, or a "sandbox," for testing. Within the sandbox you run code, analyze the code in a safe, isolated environment without affecting the application, system or platform.
+
+**Reverse-engineering** - is the process of dismantling a device, system, or piece of software to see how it works. It's done primarily to analyze and gain knowledge about the way a product works but often is used to duplicate or enhance the product.
 
 * [Any Run](https://app.any.run/) - Interactive online malware analysis service for dynamic and static research of most types of threats using any environment.
 * [CAPEv2](https://github.com/kevoreilly/CAPEv2) - Malware Configuration And Payload Extraction.
