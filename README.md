@@ -1519,6 +1519,38 @@ Open the file in your browser and check the following parameters:
 **July 31**
     
    * Venba (Xbox Series X|S, Xbox One, & Windows PC)
+    
+**August 1**
+
+ * Celeste (Cloud, Xbox Series X|S, and PC)
+
+**August 3**
+
+ * A Short Hike (Cloud, Xbox Series X|S, and PC)
+
+**August 8**
+
+ * Broforce Forever (Cloud, Xbox Series X|S, and PC)
+
+**August 9**
+
+ * Limbo (Cloud, (Xbox Series X|S, and PC) 
+
+**August 10**
+
+ * Airborne Kingdom (Cloud, Xbox Series X|S, and PC)
+
+**August 15**
+
+ * Everspace 2 (Cloud and Xbox Series X|S) 
+
+**August 18**	
+
+ * The Texas Chain Saw Massacre (Xbox Series X|S, PC, Cloud(TBD))
+
+**August 29**	
+
+ * Sea of Stars (Xbox Series X|S, Cloud(TBD))   
    
 **September 6**
 
