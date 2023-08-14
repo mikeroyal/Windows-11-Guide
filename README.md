@@ -28,6 +28,7 @@
       - [Bypass Windows 11's TPM, CPU and RAM Requirements](https://github.com/mikeroyal/Windows-11-Guide#bypass-Windows-11-requirements)
       - [Creating a Local Account on Windows 11 Home and Pro](https://github.com/mikeroyal/Windows-11-Guide#Creating-a-Local-Account-on-Windows-11-Home-and-Pro)
       - [Removing the Windows 11 Watermark for Unsupported Hardware](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#removing-the-windows-11-watermark)
+      - [Optimizing Windows 11](#optimizing-windows-11)
       - [Ways to Customize Windows 11 Look and Feel](https://github.com/mikeroyal/Windows-11-Guide#Ways-to-Customize-Windows-11-Look-and-Feel)
       - [Installing drivers for Windows the easy way](https://github.com/mikeroyal/Windows-11-Guide#installing-drivers-for-windows)
         * [General Drivers](#General-Drivers)    
@@ -398,6 +399,94 @@ There’s also a manual a way to remove the Windows 11 watermark. It’s importa
 <br />
 </p>
 
+## Optimizing Windows 11
+
+[Back to the Top](#table-of-contents)
+
+[BloatyNosy](https://github.com/builtbybel/BloatyNosy) is a tool that streamlines and houses all the essential settings under one app and allows you to disable and remove unnecessary features with just a simple click.
+
+<p align="center">
+ <img src="https://github.com/mikeroyal/Windows-11-Guide/assets/45159366/3eb29f89-297d-4698-88f2-7c60e2bf7e78">
+  <br />
+</p>
+
+[Chris Titus Tech Windows Utility](https://github.com/ChrisTitusTech/winutil) is a tool that helps you install Programs, Tweaks, Fixes, and Updates. It makes Windows 11 setup easy and optimizes your machine. [The Ultimate Windows Utility | Chris Titus Tech YouTube.](https://www.youtube.com/watch?v=tPRv-ATUBe4)
+
+The recommended way is to right click on the start menu and select (Windows Terminal As Admin Windows 11)
+
+**Launch Command:**
+
+```iwr -useb https://christitus.com/win | iex```
+
+Or
+
+```irm christitus.com/win | iex```
+
+<p align="center">
+ <img src="https://github.com/mikeroyal/Windows-11-Guide/assets/45159366/31fd56ce-388b-488d-871c-6be7a11a4b2a">
+  <br />
+</p>
+
+[Process Lasso](https://bitsum.com/) is a tool for real-Time CPU Optimization and Automation.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/45159366/209896493-4fd594f8-1486-4051-a6e4-752ff9675990.png">     
+</p>
+
+### Disable/Turnoff unwanted Apps on your Windows system
+
+With Windows 11 a lot system resources such as CPU and Ram are taken up when your system starts up. There are serval ways turnoff/disable apps from auto-starting when you log-in to Windows 11 
+
+First way to stop auto-start apps is through Startup folder in the Windows settings.
+
+<p align="center">
+ <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/80284562-f67e-4f10-9281-a64f1f88ed0d">
+  <br />
+</p>
+
+<p align="center">
+ <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/dc1e40a3-5440-4ee4-b8c5-e19f7d000245">
+  <br />
+</p>
+
+Second way to stop auto-start apps is through Task Manager. Open task manager in the start menu.
+
+<p align="center">
+ <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/090acde5-e101-44a7-be20-cf0d84f033f2">
+  <br />
+</p>
+
+### Turnoff VBS
+
+**Virtualization Based Security (VBS)** can slow apps (and games) down by **5 to 15% in Windows 11** especially if you're on an **AMD system**.
+
+ * 1. **Open System Information**. Do this by searching for "system information" in Windows search and clicking the top result.
+
+ * 2. Scroll down to find the "Virtualization-based security" row. If it says "running," VBS is enabled. But if it says "not enabled," then you're done.
+
+**Below are different are Two Ways you can disable VBS in Windows 11:**
+
+**Disable VBS/HVCI in Windows 11**
+
+ * 1. Search for Core Isolation in Windows search and click the top result.
+
+ * 2. Toggle Memory Integrity to off, if it was on. 
+
+ * 3. Reboot your PC as prompted.
+
+ * 4. Check **System Information** again to see if virtualization-based security is listed as "not enabled." 
+
+**Disable VBS By Uninstalling Virtual Machine**
+
+If VBS is running, you can get rid of it by uninstalling the **"Virtual Machine"** feature in Windows. **Note:** that if this is the feature that's enabling VBS for you, losing it may cost you the ability to run **Windows Subsystem for Linux 2 (WSL2)**.
+
+ * 1. Open Turn Windows Features on or Off by searching for it.
+
+ * 2. Uncheck Virtual machine and click Ok.
+
+ * 3. Reboot your PC.
+
+ * 4. Check **System Information** again to make sure virtualization based security is listed as "not enabled."
 
 ## Ways to Customize Windows 11 Look and Feel
 [Back to the Top](https://github.com/mikeroyal/Windows-11-Guide#table-of-contents)
