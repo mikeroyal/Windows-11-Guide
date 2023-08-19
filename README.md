@@ -403,6 +403,10 @@ There’s also a manual a way to remove the Windows 11 watermark. It’s importa
 
 [Back to the Top](#table-of-contents)
 
+[![Debloat Windows 11 Installations With Just 2 Clicks](https://ytcards.demolab.com/?id=mZm6mY3I7J4&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Debloat Windows 11 Installations With Just 2 Clicks")](https://www.youtube.com/watch?v=mZm6mY3I7J4) 
+[![The Perfect Windows 11 Install](https://ytcards.demolab.com/?id=6UQZ5oQg8XA&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "The Perfect Windows 11 Install")](https://www.youtube.com/watch?v=6UQZ5oQg8XA) 
+[![Windows 11: Debloat and Optimize for Ultimate Performance](https://ytcards.demolab.com/?id=hdrsHMko17k&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Windows 11: Debloat and Optimize for Ultimate Performance")](https://www.youtube.com/watch?v=hdrsHMko17k) 
+
 [BloatyNosy](https://github.com/builtbybel/BloatyNosy) is a tool that streamlines and houses all the essential settings under one app and allows you to disable and remove unnecessary features with just a simple click.
 
 <p align="center">
