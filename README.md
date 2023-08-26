@@ -3232,6 +3232,8 @@ VS Code Marketplace
 
 [GitHub Pull Requests and Issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github) is an extension for Visual Studio Code that allows you to review and manage GitHub pull requests and issues in Visual Studio Code.
 
+[Tailscale for VS Code](https://marketplace.visualstudio.com/items?itemName=Tailscale.vscode-tailscale) is an extension that provides no-hassle, secure networking alongside your code. With Tailscale Funnel you can share anything from a device or node in your [Tailscale network (tailnet)](https://tailscale.com/kb/1136/tailnet/) with anyone on the Internet.
+
 [Terminal](https://marketplace.visualstudio.com/items?itemName=formulahendry.terminal) is an extension for Visual Studio Code that lets you run terminal command directly in the Editor.
 
 [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) is a tool that provides autocomplete-style suggestions from an AI pair programmer as you code.
