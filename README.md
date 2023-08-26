@@ -9,7 +9,7 @@
 	 
 ![Maintenance](https://img.shields.io/maintenance/yes/2023?style=for-the-badge)
 ![Last-Commit](https://img.shields.io/github/last-commit/mikeroyal/windows-11-guide?style=for-the-badge)
-
+![GitHub-Commit-Activity](https://img.shields.io/github/commit-activity/t/mikeroyal/windows-11-guide?style=for-the-badge)
 
 #### A guide on setting up your Windows 11 Desktop with all the essential Applications, Tools, and Games to make your experience with Windows 11 great!
 
@@ -3120,9 +3120,10 @@ Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-L
 
 [Visual Studio](https://visualstudio.microsoft.com/) is an integrated development environment (IDE) from Microsoft; which is a feature-rich application that can be used for many aspects of software development. Visual Studio makes it easy to edit, debug, build, and publish your app. By using Microsoft software development platforms such as Windows API, Windows Forms, Windows Presentation Foundation, and Windows Store.
 
-[VSExtensibility](https://github.com/microsoft/VSExtensibility) is a repo for upcoming changes to extensibility in Visual Studio, the new extensibility model, and [Language Server Protocol(LSP)](https://github.com/microsoft/VSExtensibility/blob/main/docs/lsp/lsp-extensions-specifications.md). 
-
-[Visual Studio Documentation](https://docs.microsoft.com/en-us/visualstudio/windows/)
+ * [VSExtensibility](https://github.com/microsoft/VSExtensibility) is a repo for upcoming changes to extensibility in Visual Studio, the new extensibility model, and [Language Server Protocol(LSP)](https://github.com/microsoft/VSExtensibility/blob/main/docs/lsp/lsp-extensions-specifications.md). 
+ * [Visual Studio Documentation](https://docs.microsoft.com/en-us/visualstudio/windows/)
+ * [What's new in C# 12](https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-12)
+ * [What's new in .NET 8](https://dotnet.microsoft.com/en-us/download/dotnet)
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/45159366/171919459-9e437c54-0d1e-4e85-bae1-efd8fc21859c.png">
