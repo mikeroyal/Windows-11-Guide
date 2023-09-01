@@ -17,6 +17,10 @@ A
  [AMD FidelityFX Super Resolution 3 (FSR 3)](https://www.amd.com/en/technologies/fidelityfx-super-resolution), is the latest version of the company’s upscaling tech. AMD claims it’ll provide 2x times increase in frame rate over FSR 2, boosted by the new AMD Fluid Motion Frames technology.
 
  [AMD Radeon Super Resolution (RSR)](https://www.amd.com/technologies/radeon-super-resolution) is a feature that works at the graphics-drivers level rather than at the game-engine level. Therefore, it has no control over game settings, and doesn't require any developer support. It's not meant to replace **FidelityFX Super Resolution (FSR)**, but rather provide a way for gamers to improve the performance of any game at minimal image quality loss.
+
+[AMD Radeon™ Image Sharpening](https://www.amd.com/technologies/radeon-image-sharpening) is a image-sharpening technology that employs a contrast adaptive sharpening algorithm using AI that restores clarity to in-game visuals that may have been softened by other effects, bringing out better details of objects without creating some of the visual artifacts seen in other sharpening effects.
+
+[AMD HYPR-RX](https://www.amd.com/technologies/software) is a driver-level switch you can flip to enable Radeon Boost, Radeon Anti-Lag, and Radeon Super Resolution features all at once in all games that support them.
  
  [ARM64EC (“Emulation Compatible”)](https://docs.microsoft.com/en-us/windows/uwp/porting/arm64ec) is a new application binary interface (ABI) for Windows 11 on ARM that runs with native speed and is interoperable with x64 architecture. An app, process, or even a module can freely mix and match with ARM64EC and x64 as needed. 
  
