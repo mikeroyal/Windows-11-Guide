@@ -1533,7 +1533,7 @@ Open the file in your browser and check the following parameters:
 </br>
 </p>
 
-### A list of great [Game Pass](https://www.xbox.com/) Games to play on the ROG Ally.
+### A list of great [Game Pass](https://www.xbox.com/) Games to play.
 
 **May 23** 
 
@@ -1654,6 +1654,18 @@ Open the file in your browser and check the following parameters:
 **September 6** or **September 1 with [Starfield Premium Edition Upgrade](https://www.xbox.com/games/store/starfield-premium-edition-upgrade/9PB4ZWV7S2MG/0017)**
 
    * Starfield Direct (Xbox Series X|S, Xbox One, & Windows PC)
+
+**September 19**
+
+ * Lies of P (Xbox Series X|S, Cloud, & Windows PC)
+
+**September 20**
+
+ * Party Animals (Xbox Series X|S, Xbox One, & Windows PC)
+
+**September 23**
+
+ * Payday 3 (Xbox Series X|S, Cloud, & Windows PC)
  
 **September 29**
  
