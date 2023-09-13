@@ -15,12 +15,6 @@ A
 
   [Application Specific Integrated Circuits (ASICs)](https://en.wikipedia.org/wiki/Application-specific_integrated_circuit) is an integrated circuit (IC) chip customized for a particular use in embedded systems, mobile phones, personal computers, professional workstations, rather than intended for general use.
   
-  [Apple Hypervisor](https://developer.apple.com/documentation/hypervisor) is a frameowrk that builds virtualization solutions on top of a lightweight hypervisor, without third-party kernel extensions. Hypervisor provides C APIs so you can interact with virtualization technologies in user space, without writing kernel extensions (KEXTs). As a result, the apps you create using this framework are suitable for distribution on the [Mac App Store](https://www.appstore.com/).
-
-   [Apple Virtualization Framework](https://developer.apple.com/documentation/virtualization) is a framework that provides high-level APIs for creating and managing virtual machines on Apple silicon and Intel-based Mac computers. This framework is used to boot and run a Linux-based operating system in a custom environment that you define. It also supports the [Virtio specification](https://www.redhat.com/en/virtio-networking-series), which defines standard interfaces for many device types, including network, socket, serial port, storage, entropy, and memory-balloon devices.
-
-   [Apple Paravirtualized Graphics Framework](https://developer.apple.com/documentation/paravirtualizedgraphics) is a framework that implements hardware-accelerated graphics for macOS running in a virtual machine, hereafter known as the guest. The operating system provides a graphics driver that runs inside the guest, communicating with the framework in the host operating system to take advantage of Metal-accelerated graphics.
-  
 B
 
 
@@ -49,6 +43,9 @@ G
    
    
    [Graphics Double Data Rate (GDDR) SDRAM](https://en.wikipedia.org/wiki/GDDR6_SDRAM#GDDR6X) is a type of synchronous graphics random-access memory (SGRAM) with a high bandwidth ("double data rate") interface designed for use in graphics cards, game consoles, and high-performance computing.
+
+   [GPU-Z](https://www.techpowerup.com/gpuz/) is a lightweight system utility designed to provide vital information about your video card and graphics processor. 
+
 
 H
 
