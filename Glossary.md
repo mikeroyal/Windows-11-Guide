@@ -46,6 +46,8 @@ C
 
 **Compatibility Support Module (CSM)** is a component of the UEFI firmware, which provides legacy BIOS compatibility by emulating a BIOS environment, allowing legacy operating systems and some option ROMs that do not support UEFI to still be used.
 
+[CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) is a system profiling and monitoring application for Windows that gathers information on some of the main devices of your system such as CPU, RAM, Mainboard chipset, and module specifications (SPD). 
+
 D
 
 [Defender Security Center](https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/microsoft-defender-security-center?view=o365-worldwide) is a user portal where you can access Microsoft Defender for Endpoint capabilities. It gives enterprise security operations teams a single pane of glass experience to help secure networks.
