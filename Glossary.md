@@ -86,6 +86,8 @@ G
 
 [GOG GALAXY](https://lutris.net/games/gog-galaxy/) is a fully optional client to install, play and update your games.
 
+[GPU-Z](https://www.techpowerup.com/gpuz/) is a lightweight system utility designed to provide vital information about your video card and graphics processor. 
+
 H
 
 [Heroic](https://heroicgameslauncher.com/) is an Open Source Game Launcher for Linux, Windows and macOS (for both Native and Windows Games using Crossover).
