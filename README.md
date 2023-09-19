@@ -37,6 +37,7 @@
       - [Secure & Privacy-focused Web Browsers](https://github.com/mikeroyal/Windows-11-Guide#secure--privacy-focused-web-browsers)
          * [Privacy & Security Focused Browser extensions](https://github.com/mikeroyal/Windows-11-Guide#privacy--security-focused-browser-extensions)
          * [Privacy-focused Search Engines](https://github.com/mikeroyal/Windows-11-Guide#privacy-focused-search-engines)
+      - [Systems Management](#systems-management)
       - [Windows Security Hardening](https://github.com/mikeroyal/Windows-11-Guide#windows-security-hardening)
       
            - [Encryption Tools](#encryption-tools)
@@ -952,6 +953,91 @@ Nexcloud Hub
   <br />
 
 </p>
+
+## Systems Management
+
+[Back to the Top](#table-of-contents)
+
+**Systems management** is a range of tasks, ranging across infrastructures, operating systems and applications.
+
+ * [System Management Components overview - Windows Server](https://learn.microsoft.com/troubleshoot/windows-server/system-management-components/system-management-components-overview)
+ * [Azure Active Directory is Becoming Microsoft Entra ID | Microsoft Azure](https://azure.microsoft.com/products/active-directory/)
+ * [Microsoft Entra - Secure Identities and Access | Microsoft Security](https://www.microsoft.com/security/business/microsoft-entra)
+ * [Active Directory Domain Services | Microsoft Learn](https://learn.microsoft.com/windows-server/identity/ad-ds/active-directory-domain-services)
+ * [Microsoft 365 Products, Apps, and Services | Microsoft 365](https://www.microsoft.com/microsoft-365/products-apps-services)
+ * [Systems management 101: An ultimate guide](https://zapier.com/blog/systems-management/)
+ 
+ 
+ <p align="center">
+ <img src="https://github.com/mikeroyal/Windows-11-Guide/assets/45159366/52ab9e39-efcd-49cf-b75d-9d34cd451667">
+</br>
+</p>
+ 
+ 
+ *  **[Active Directory](https://learn.microsoft.com/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview)** is a directory service developed by Microsoft for Windows domain networks. It is included in most Windows Server operating systems as a set of processes and services. 
+ 
+ * **[Microsoft 365](https://www.microsoft.com/microsoft-365)** is a subscription that includes the most collaborative, up-to-date features in one seamless, integrated experience. It includes productivity tools such as Microsoft Word, Excel, PowerPoint, Microsoft Teams, Outlook, OneDrive, and more all in one place. 
+ 
+ **[Microsoft Entra ID (formerly Azure Active Directory)](https://learn.microsoft.com/entra/)** is a service that manages user identities and control access to your apps, data, and resources. It protects, monitors, and audits access to critical assets in your organization.
+ 
+ * [Activepieces](https://www.activepieces.com) is a No-code business automation tool like Zapier or Tray. For example, you can send a Slack notification for each new Trello card. 
+
+ * [ActiveWorkflow](https://github.com/automaticmode/active_workflow)  is an intelligent process and workflow automation platform based on software agents. 
+ 
+ * [AdvancedRun](https://www.nirsoft.net/utils/advanced_run.html) is a simple tool for Windows that allows you to run a program with different settings that you choose, including - low or high priority, start directory, main window state (Minimized/Maximized), run the program with different user or permissions, Operating system compatibility settings, and environment variables. You can also save the desired settings into a configuration file and then run the program automatically from command-line with the desired settings. 
+
+ * [AllThreadsView](https://www.nirsoft.net/utils/all_threads_view.html) is a simple tool for Windows that displays a list of all running threads from all processes on your system in one table. For every thread, the following information is displayed: Thread ID, Creation Time, Kernel Time, User Time, Duration, Start Address, Priority, Base Priority, Context Switch Count, Context Switch Change (Since the last refresh), Wait Reason, Process ID, Process Path. 
+
+ * [Automatisch](https://automatisch.io) is a Business automation tool that lets you connect different services like Twitter, Slack, and more to automate your business processes (Open source Zapier alternative). 
+
+ * [Baserow](https://baserow.io/) is an Open source online database tool and Airtable alternative. Create your own database without technical experience. 
+  
+ * [BlueScreenView](https://www.nirsoft.net/utils/blue_screen_view.html) is a tool that scans all your minidump files created during **'blue screen of death'** crashes, and displays the information about all crashes in one table. For each crash, BlueScreenView displays the minidump filename, the date/time of the crash, the basic crash information displayed in the blue screen (Bug Check Code and 4 parameters), and the details of the driver or module that possibly caused the crash (filename, product name, file description, and file version). 
+ 
+ * [BulkFileChanger](https://www.nirsoft.net/utils/bulk_file_changer.html) is a small utility that allows you to create files list from multiple folders, and then make some action on them - Modify their created/modified/accessed time, change their file attribute (Read Only, Hidden, System), run an executable with these files as parameter, and copy/cut paste into Explorer. 
+
+ * [ChiefOnboarding](https://chiefonboarding.com) is a Employee onboarding platform that allows you to provision user accounts and create sequences with todo items, resources, text/email/Slack messages, and more! Available as a web portal and Slack bot. 
+
+ * [Datasette](https://datasette.io/) is an open source multi-tool for exploring and publishing data, easy import and export and database management. 
+ 
+ * [DNSLookupView](https://www.nirsoft.net/utils/dns_lookup_view.html) is a DNS tracing tool for Windows 10 that allows you to view the details of every DNS query sent through the DNS Client service of Windows. For every DNS query, the following information is displayed: Host Name, Query Type (A, AAAA, and so on), Query Status (Error or succeeded), Query Result, Query Timestamp, ID and name of the process that requested the DNS lookup.
+ 
+ * [DriveLetterView](https://www.nirsoft.net/utils/drive_letter_view.html) is a simple utility that allows you to view the list of all drive letter assignments in your system, including local drives, remote network drives, CD/DVD drives, and USB drives - even if they are not currently plugged. It also allows you to easily change a drive letter of USB devices and remote network shares, as well as to delete a drive letter of USB device that is not plugged.
+
+ * [Eonza](https://www.eonza.org) is a tool used to create scripts and automate tasks on servers or VPS hosting. Manage your servers from any browser on any device. 
+
+ * [Fleek](https://getfleek.dev/) is an all-in-one management system for everything you need to be productive on your computer. 
+ 
+ * [Patrowl](https://github.com/Patrowl/PatrowlManager) is an Open Source, Smart and Scalable Security Operations Orchestration Platform.
+ 
+ * [ManageWirelessNetworks](https://www.nirsoft.net/utils/manage_wireless_networks.html) is an alternative tool to the standard 'Manage Wireless Networks' of Windows (or 'Manage Known Networks' on Windows). It displays extensive information about every wireless profile on your system, even if the network adapter is not active. For every wireless profile, the following information is displayed: Profile Name, SSID, Connection Type, Connection Mode, Authentication, Encryption, Key Type, Auto Switch (Yes/No), Non Broadcast (Yes/No), Profile Position, Created Time, Modified Time, Wireless Key, and more.
+ 
+ * [NetworkInterfacesView](https://www.nirsoft.net/utils/network_interfaces.html) is a simple tool that displays the list of all network adapters/interfaces installed on your system. It displays network interfaces that are currently active, as well as network interfaces that have been installed previously, and now they are not connected (like USB wireless network adapters). For every network interface found on your system, the following information is displayed (if it's stored in the Registry): Device Name, Connection Name, IP Address, Subnet Mask, Default Gateway, DHCP Server, Status, MAC Address and more.
+
+ * [PingInfoView](https://www.nirsoft.net/utils/multiple_ping_tool.html) is a small utility that allows you to easily ping multiple host names and IP addresses, and watch the result in one table. It automatically ping to all hosts every number of seconds that you specify, and displays the number of succeed and failed pings, as well as the average ping time. You can also save the ping result into text/html/xml file, or copy it to the clipboard.
+ 
+ * [Policy Plus](https://github.com/Fleex255/PolicyPlus) is a tool for Local Group Policy Editor plus more, for all Windows editions.
+
+   **Features:**
+ 
+     * Run and work on all Windows editions, not just Pro and Enterprise.
+     * Comply fully with licensing (i.e. transplant no components across Windows installations).
+     * View and edit Registry-based policies in local GPOs, per-user GPOs, individual POL files, offline Registry user hives, and the live Registry.
+     * Navigate to policies by ID, text, or affected Registry entries.
+     * Show additional technical information about objects (policies, categories, products).
+     * Provide convenient ways to share and import policy settings.
+
+ * [Product Key Scanner](https://www.nirsoft.net/utils/product_key_scanner.html) is a tool that scans the Registry of Windows Operating system and finds the product keys of Windows and other Microsoft products. You can scan the Registry of your current running system, as well as you can scan the Registry from external hard drive plugged to your computer.
+ 
+ * [Salt](https://www.saltstack.com/) -  is an event-driven automation tool and framework to deploy, configure, and manage complex IT systems. It automates common infrastructure administration tasks and ensure that all the components of your infrastructure are operating in a consistent desired state. 
+ 
+ * [StackStorm](https://stackstorm.com) is an event-driven automation for auto-remediation, security responses, troubleshooting, deployments, and more. Includes rules engine, workflow, 160 integration packs with 6000+ actions and ChatOps.
+ 
+ * [WhoisThisDomain](https://www.nirsoft.net/utils/whois_this_domain.html) is a utility allows you to easily get information about a registered domain. It automatically connects to the right WHOIS server, according to the top-level domain name, and retrieve the WHOIS record of the domain. It supports both generic domains and country code domains. 
+
+ * [WinDefThreatsView](https://www.nirsoft.net/utils/windows_defender_threats_view.html) is tool for Windows 11 that displays the list of all threats detected by Windows Defender Antivirus and allows you to easily set the default action (Allow, Quarantine, Clean, Remove, Block, or No Action) for multiple threats at once. You can use this tool on your local computer and also on remote computer, as long as you have permission to access WMI on the remote machine. 
+
+ * [WinUpdatesView](https://www.nirsoft.net/utils/windows_updates_history_viewer.html) is a simple tool that displays the history of Windows updates on your system. WinUpdatesView can load the Windows updates history from your local system, using API, and it can also read and parse the Windows updates database file (DataStore.edb) from external drive or from remote computer on your network. For every Windows update history record, WinUpdatesView displays the following fields: Title, Description, Install Date, Update Operation (Install, Uninstall, Not Started, In Progress), Operation Result (Succeeded, Succeeded With Errors, Failed, Aborted), Category, Information URL, Support URL, Uninstall Notes, Client Application ID, Service ID, Update ID, Revision Number, Unmapped Result Code, Server Selection, hResult.
 
 ## Windows Security Hardening
 [Back to the Top](#table-of-contents)
