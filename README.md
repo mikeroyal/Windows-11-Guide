@@ -978,7 +978,7 @@ Nexcloud Hub
  
  * **[Microsoft 365](https://www.microsoft.com/microsoft-365)** is a subscription that includes the most collaborative, up-to-date features in one seamless, integrated experience. It includes productivity tools such as Microsoft Word, Excel, PowerPoint, Microsoft Teams, Outlook, OneDrive, and more all in one place. 
  
- **[Microsoft Entra ID (formerly Azure Active Directory)](https://learn.microsoft.com/entra/)** is a service that manages user identities and control access to your apps, data, and resources. It protects, monitors, and audits access to critical assets in your organization.
+ * **[Microsoft Entra ID (formerly Azure Active Directory)](https://learn.microsoft.com/entra/)** is a service that manages user identities and control access to your apps, data, and resources. It protects, monitors, and audits access to critical assets in your organization.
  
  * [Activepieces](https://www.activepieces.com) is a No-code business automation tool like Zapier or Tray. For example, you can send a Slack notification for each new Trello card. 
 
