@@ -118,6 +118,8 @@ M
 
 [ManageWirelessNetworks](https://www.nirsoft.net/utils/manage_wireless_networks.html) is an alternative tool to the standard 'Manage Wireless Networks' of Windows (or 'Manage Known Networks' on Windows). It displays extensive information about every wireless profile on your system, even if the network adapter is not active. For every wireless profile, the following information is displayed: Profile Name, SSID, Connection Type, Connection Mode, Authentication, Encryption, Key Type, Auto Switch (Yes/No), Non Broadcast (Yes/No), Profile Position, Created Time, Modified Time, Wireless Key, and more.
 
+[Microsoft Entra ID (formerly Azure Active Directory)](https://learn.microsoft.com/entra/) is a service that manages user identities and control access to your apps, data, and resources. It protects, monitors, and audits access to critical assets in your organization.
+
 [MobileFileSearch](https://www.nirsoft.net/utils/mobile_device_file_search.html) is a tool for Windows that allows you to search files inside a mobile device (Smartphone or Tablet) plugged to the USB port on your computer, with Media Transfer Protocol (MTP). You can search files by their size, their created time, their modified time, or their name (using wildcard). 
 
 [MultiMonitorTool](https://www.nirsoft.net/utils/multi_monitor_tool.html) is a small tool that allows you to do some actions related to working with multiple monitors. With MultiMonitorTool, you can disable/enable monitors, set the primary monitor, save and load the configuration of all monitors, and move windows from one monitor to another. You can do these actions from the user interface or from command-line, without displaying user interface. 
