@@ -38,8 +38,8 @@
          * [Privacy & Security Focused Browser extensions](https://github.com/mikeroyal/Windows-11-Guide#privacy--security-focused-browser-extensions)
          * [Privacy-focused Search Engines](https://github.com/mikeroyal/Windows-11-Guide#privacy-focused-search-engines)
       - [Systems Management](#systems-management)
+         * [Setting up Active Directory](#setting-up-active-directory)
       - [Windows Security Hardening](https://github.com/mikeroyal/Windows-11-Guide#windows-security-hardening)
-      
            - [Encryption Tools](#encryption-tools)
 	    - [Virtual Private Network (VPN)](#vpn)
 	    - [SSH](#ssh)
@@ -1038,6 +1038,97 @@ Nexcloud Hub
  * [WinDefThreatsView](https://www.nirsoft.net/utils/windows_defender_threats_view.html) is tool for Windows 11 that displays the list of all threats detected by Windows Defender Antivirus and allows you to easily set the default action (Allow, Quarantine, Clean, Remove, Block, or No Action) for multiple threats at once. You can use this tool on your local computer and also on remote computer, as long as you have permission to access WMI on the remote machine. 
 
  * [WinUpdatesView](https://www.nirsoft.net/utils/windows_updates_history_viewer.html) is a simple tool that displays the history of Windows updates on your system. WinUpdatesView can load the Windows updates history from your local system, using API, and it can also read and parse the Windows updates database file (DataStore.edb) from external drive or from remote computer on your network. For every Windows update history record, WinUpdatesView displays the following fields: Title, Description, Install Date, Update Operation (Install, Uninstall, Not Started, In Progress), Operation Result (Succeeded, Succeeded With Errors, Failed, Aborted), Category, Information URL, Support URL, Uninstall Notes, Client Application ID, Service ID, Update ID, Revision Number, Unmapped Result Code, Server Selection, hResult.
+
+### Setting up Active Directory
+
+[Back to the Top](#table-of-contents)
+
+<p align="center">
+ <img src="https://github.com/mikeroyal/Windows-11-Guide/assets/45159366/2885f4d7-67db-44be-9c8b-8bae2bb54c33">
+</br>
+Active Directory
+</p>
+ 
+  *  **[Active Directory](https://learn.microsoft.com/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview)** is a directory service developed by Microsoft for Windows domain networks. It is included in most Windows Server operating systems as a set of processes and services. 
+ 
+ * **[Microsoft 365](https://www.microsoft.com/microsoft-365)** is a subscription that includes the most collaborative, up-to-date features in one seamless, integrated experience. It includes productivity tools such as Microsoft Word, Excel, PowerPoint, Microsoft Teams, Outlook, OneDrive, and more all in one place. 
+ 
+ * **[Microsoft Entra ID (formerly Azure Active Directory)](https://learn.microsoft.com/entra/)** is a service that manages user identities and control access to your apps, data, and resources. It protects, monitors, and audits access to critical assets in your organization.
+ 
+ * **[Active Directory Federation Services (AD FS)](https://learn.microsoft.com/en-us/windows-server/identity/ad-fs/ad-fs-overview)** allows you can employ single sign-on to external systems such as applications and websites. One typical example of the use of AD FS is Office 365. When a user signs in to Office 365, the user ID and password are redirected via the federation server to check whether the entered credentials are authentic against your On-prem AD. This is how it provides authentication to external systems through the local Active Directory.
+
+* **[Active Directory Lightweight Directory Services (AD LDS)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/hh831593(v=ws.11))** is a service that offers directory services with the help of LDAP protocol without having to deploy any DCs. The service is used to provide directory service functionally to directory-enabled applications. 
+
+ * **[Active Directory Rights Management Services (AD RMS)](https://learn.microsoft.com/en-us/azure/information-protection/how-does-it-work)** is a service allows you to protect information within digital content. It secures the documents by defining which users can modify, open, view, print, forward, or take similar documents.
+
+**Hierarchical Structure of Active Directory Domain Services**
+
+ * **[Tree](https://learn.microsoft.com/en-us/azure/azure-monitor/visualize/workbooks-tree-visualizations)** is formed by grouping one or more domains in a logical hierarchy. All domains within a tree are logically linked; hence they “trust” each other.
+ * **[Forest](https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/identity/adds-forest)** is a topmost level in the Active Directory of your organization. It contains one or more trees grouped. Trees within a forest are also said to “trust” each other and share catalogs, directory schemas, domain configurations, and application data.
+* **[Organizations Units (OU)](https://learn.microsoft.com/en-us/azure/active-directory-domain-services/create-ou)** are used to organize groups, users, computers, and other entities.
+* **[Containers](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/plan/delegating-administration-of-default-containers-and-ous)**: is a tool similar to an OU; with the only difference is that you cannot link a GPO (Group Policy Object) to a generic container within AD.
+
+### Active Directory Best Practices Security Resources
+
+- [Microsoft - Best Practices for Securing Active Directory](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/best-practices-for-securing-active-directory)
+- [Microsoft - Best practices for securing Active Directory Federation Services](https://docs.microsoft.com/en-us/windows-server/identity/ad-fs/deployment/best-practices-securing-ad-fs)
+- [ANSSI CERT-FR - Active Directory Security Assessment Checklist](https://www.cert.ssi.gouv.fr/uploads/guide-ad.html) - [other version with changelog](https://www.cert.ssi.gouv.fr/uploads/ad_checklist.html) - 2022 (English and French versions)
+- [Microsoft - Windows security baselines](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-security-baselines)
+- [Microsoft - Windows Server Security | Assurance](https://docs.microsoft.com/en-us/windows-server/security/security-and-assurance)
+- [Microsoft - Windows 10 Enterprise Security](https://docs.microsoft.com/en-us/windows/security/)
+- [ACSC - Securing PowerShell in the Enterprise](https://www.cyber.gov.au/publications/securing-powershell-in-the-enterprise)
+- [Awesome Windows Domain Hardening](https://github.com/PaulSec/awesome-windows-domain-hardening)
+- [Microsoft - How to detect, enable and disable SMBv1, SMBv2, and SMBv3 in Windows and Windows Server](https://support.microsoft.com/en-gb/help/2696547/detect-enable-disable-smbv1-smbv2-smbv3-in-windows-and-windows-server)
+- [Microsoft recommended block rules](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/microsoft-recommended-block-rules) - List of applications or files that can be used by an attacker to circumvent application whitelisting policies.
+- [ERNW - IPv6 Hardening Guide for Windows Servers](https://www.ernw.de/download/ERNW_Guide_to_Configure_Securely_Windows_Servers_For_IPv6_v1_0.pdf)
+- [NSA - AppLocker Guidance](https://github.com/nsacyber/AppLocker-Guidance) - Configuration guidance for implementing application whitelisting with AppLocker.
+- [NSA - BitLocker Guidance](https://github.com/nsacyber/BitLocker-Guidance) - Configuration guidance for implementing disk encryption with BitLocker.
+- [NSA - Event Forwarding Guidance](https://github.com/nsacyber/Event-Forwarding-Guidance) - Configuration guidance for implementing collection of security relevant Windows Event Log events by using Windows Event Forwarding.
+- [Windows Defense in Depth Strategies](https://docs.google.com/document/d/1_43UroB0zY4-R2E2r_nH4ndYpDmXAY8g0oTp8yWlwBk/edit?usp=sharing) - work in progress.
+
+**Initial Setup Process**
+
+<p align="center">
+ <img src="https://github.com/mikeroyal/Windows-11-Guide/assets/45159366/cae354e9-5665-4641-8f1a-f0b45264445d">
+</br>
+Active Directory Lifecycle
+</p>
+
+<p align="center">
+ <img src="https://github.com/mikeroyal/Windows-11-Guide/assets/45159366/26571870-032f-49ad-be11-72a6e619cf55">
+</br>
+</p>
+
+<p align="center">
+ <img src="https://github.com/mikeroyal/Windows-11-Guide/assets/45159366/8a135603-497d-40a0-a2c8-97cd5a902615">
+</br>
+</p>
+
+<p align="center">
+ <img src="https://github.com/mikeroyal/Windows-11-Guide/assets/45159366/146a289c-0c69-4cd4-8263-c12237bcd8c9">
+</br>
+</p>
+
+<p align="center">
+ <img src="https://github.com/mikeroyal/Windows-11-Guide/assets/45159366/3cc1f699-f27c-412c-ba08-aef1f1fa3110">
+</br>
+</p>
+
+<p align="center">
+ <img src="https://github.com/mikeroyal/Windows-11-Guide/assets/45159366/c36d1a52-dbf4-422e-8106-91e095bc876d">
+</br>
+</p>
+
+<p align="center">
+ <img src="https://github.com/mikeroyal/Windows-11-Guide/assets/45159366/d6aab061-e6a3-434b-a404-b9783b5220f8">
+</br>
+</p>
+
+<p align="center">
+ <img src="https://github.com/mikeroyal/Windows-11-Guide/assets/45159366/edeca40a-bdba-4b6e-94cc-dced56e6f18c">
+</br>
+</p>
+
 
 ## Windows Security Hardening
 [Back to the Top](#table-of-contents)
