@@ -44,6 +44,7 @@
 	    - [Virtual Private Network (VPN)](#vpn)
 	    - [SSH](#ssh)
 	    - [Firewall Filtering](#firewall-filtering)
+            - [Network Packet Filtering with eBPF](#network-packet-filtering-with-ebpf)
 	    - [Multifactor Authentication (MFA)](#mfa)
 	    - [Windows Forensic Analysis](#windows-forensic-analysis)
             - [Disk Image Creation Tools](#disk-image-creation-tools)
@@ -1271,6 +1272,44 @@ Active Directory Lifecycle
   <br />
 </p>
 
+### Network Packet Filtering with eBPF
+
+[Back to the Top](#table-of-contents)
+
+ * **Packet filtering** is the process of passing or blocking data packets at a network interface by a firewall based on source and destination addresses, ports or protocols.
+
+[![eBPF for Windows – Dave Thaler, Microsoft](https://ytcards.demolab.com/?id=CEl29L2IDEo&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "eBPF for Windows – Dave Thaler, Microsoft")](https://www.youtube.com/watch?v=CEl29L2IDEo)  
+[![Getting Linux Based eBPF Programs to Run with eBPF for Windows - Poorna Gaddehosur & Anurag Saxena](https://ytcards.demolab.com/?id=5koIhn3qlk4&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Getting Linux Based eBPF Programs to Run with eBPF for Windows - Poorna Gaddehosur & Anurag Saxena")](https://www.youtube.com/watch?v=5koIhn3qlk4)  
+[![Tutorial: Getting Started with eBPF - Liz Rice, Isovalent](https://ytcards.demolab.com/?id=TJgxjVTZtfw&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Tutorial: Getting Started with eBPF - Liz Rice, Isovalent")](https://www.youtube.com/watch?v=TJgxjVTZtfw)  
+[![eBPF Summit 2023](https://ytcards.demolab.com/?id=EViAho-6qoc&pp=ygUMZWJwZiB3aW5kb3dz&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "eBPF Summit 2023")](https://www.youtube.com/watch?v=EViAho-6qoc&pp=ygUMZWJwZiB3aW5kb3dz)
+
+[eBPF](https://ebpf.io/) is a technology that can run sandboxed programs in the operating system kernel without changing kernel source code or loading kernel modules. By making the operating system kernel programmable, infrastructure software can leverage existing layers, making them more intelligent and feature-rich without continuing to add additional layers of complexity to the system.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/145732237-9906cb94-41fb-4302-b1bf-b4584975534b.png">
+  <br />
+</p>
+
+**eBPF Architecture Overview. Credit: [eBPF.io](https://ebpf.io/)**
+
+[eBPF for Windows](https://github.com/microsoft/ebpf-for-windows) is an eBPF implementation that runs on top of Windows. eBPF is a well-known technology for providing programmability and agility, especially for extending an OS kernel, for use cases such as DoS protection and observability. 
+
+* [Cilium L4 Load Balancer using eBPF-for-Windows](https://github.com/microsoft/ebpf-for-windows-demo/blob/main/cilium/load_balancer/docs/CiliumL4LBSetup.md)
+* [Connection Tracking with Native eBPF program using eBPF for Windows](https://github.com/microsoft/ebpf-for-windows-demo/blob/main/connection_tracker/README.md)
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/180627324-fc93c21f-a9be-41e6-9b78-aeebe78278cb.png">
+  <br />
+</p>
+
+**eBPF for Windows Architecture Overview. Credit: [Microsoft](https://cloudblogs.microsoft.com/opensource/2021/05/10/making-ebpf-work-on-windows/)**
+
+[XDP for Windows](https://github.com/microsoft/xdp-for-windows) is a Windows interface similar to XDP (eXpress Data Path), used to send and receive packets at high rates by bypassing most of the OS networking stack.
+
+ * [Usage](https://github.com/microsoft/xdp-for-windows/blob/main/docs/usage.md)
+ * [Development](https://github.com/microsoft/xdp-for-windows/blob/main/docs/development.md)
+ * [AF_XDP API](https://github.com/microsoft/xdp-for-windows/blob/main/docs/afxdp.md)
+ * [Release and Support](https://github.com/microsoft/xdp-for-windows/blob/main/docs/release.md)
 
 ### MFA
 
