@@ -40,11 +40,11 @@
       - [Systems Management](#systems-management)
          * [Setting up Active Directory](#setting-up-active-directory)
       - [Windows Security Hardening](https://github.com/mikeroyal/Windows-11-Guide#windows-security-hardening)
-           - [Encryption Tools](#encryption-tools)
+            - [Encryption Tools](#encryption-tools)
 	    - [Virtual Private Network (VPN)](#vpn)
 	    - [SSH](#ssh)
 	    - [Firewall Filtering](#firewall-filtering)
-            - [Network Packet Filtering with eBPF](#network-packet-filtering-with-ebpf)
+        - [Network Packet Filtering with eBPF](#network-packet-filtering-with-ebpf)
 	    - [Multifactor Authentication (MFA)](#mfa)
 	    - [Windows Forensic Analysis](#windows-forensic-analysis)
             - [Disk Image Creation Tools](#disk-image-creation-tools)
@@ -1278,9 +1278,9 @@ Active Directory Lifecycle
 
  * **Packet filtering** is the process of passing or blocking data packets at a network interface by a firewall based on source and destination addresses, ports or protocols.
 
-[![eBPF for Windows – Dave Thaler, Microsoft](https://ytcards.demolab.com/?id=CEl29L2IDEo&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "eBPF for Windows – Dave Thaler, Microsoft")](https://www.youtube.com/watch?v=CEl29L2IDEo)  
-[![Getting Linux Based eBPF Programs to Run with eBPF for Windows - Poorna Gaddehosur & Anurag Saxena](https://ytcards.demolab.com/?id=5koIhn3qlk4&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Getting Linux Based eBPF Programs to Run with eBPF for Windows - Poorna Gaddehosur & Anurag Saxena")](https://www.youtube.com/watch?v=5koIhn3qlk4)  
-[![Tutorial: Getting Started with eBPF - Liz Rice, Isovalent](https://ytcards.demolab.com/?id=TJgxjVTZtfw&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Tutorial: Getting Started with eBPF - Liz Rice, Isovalent")](https://www.youtube.com/watch?v=TJgxjVTZtfw)  
+[![eBPF for Windows – Dave Thaler, Microsoft](https://ytcards.demolab.com/?id=CEl29L2IDEo&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "eBPF for Windows – Dave Thaler, Microsoft")](https://www.youtube.com/watch?v=CEl29L2IDEo) 
+[![Getting Linux Based eBPF Programs to Run with eBPF for Windows - Poorna Gaddehosur & Anurag Saxena](https://ytcards.demolab.com/?id=5koIhn3qlk4&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Getting Linux Based eBPF Programs to Run with eBPF for Windows - Poorna Gaddehosur & Anurag Saxena")](https://www.youtube.com/watch?v=5koIhn3qlk4) 
+[![Tutorial: Getting Started with eBPF - Liz Rice, Isovalent](https://ytcards.demolab.com/?id=TJgxjVTZtfw&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Tutorial: Getting Started with eBPF - Liz Rice, Isovalent")](https://www.youtube.com/watch?v=TJgxjVTZtfw) 
 [![eBPF Summit 2023](https://ytcards.demolab.com/?id=EViAho-6qoc&pp=ygUMZWJwZiB3aW5kb3dz&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "eBPF Summit 2023")](https://www.youtube.com/watch?v=EViAho-6qoc&pp=ygUMZWJwZiB3aW5kb3dz)
 
 [eBPF](https://ebpf.io/) is a technology that can run sandboxed programs in the operating system kernel without changing kernel source code or loading kernel modules. By making the operating system kernel programmable, infrastructure software can leverage existing layers, making them more intelligent and feature-rich without continuing to add additional layers of complexity to the system.
