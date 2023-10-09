@@ -21,8 +21,12 @@ A
 [AMD Radeon™ Image Sharpening](https://www.amd.com/technologies/radeon-image-sharpening) is a image-sharpening technology that employs a contrast adaptive sharpening algorithm using AI that restores clarity to in-game visuals that may have been softened by other effects, bringing out better details of objects without creating some of the visual artifacts seen in other sharpening effects.
 
 [AMD HYPR-RX](https://www.amd.com/technologies/software) is a driver-level switch you can flip to enable Radeon Boost, Radeon Anti-Lag, and Radeon Super Resolution features all at once in all games that support them.
+
+[AMD FreeSync](https://www.amd.com/en/technologies/free-sync) is an AMD technology for the refresh rate of a display is synchronized with the framerate of FreeSync compatible graphics cards, reducing or eliminating visual artifacts that many users experience such as: input latency, screen tearing, and stuttering during gaming and video playback.
+
+[AMD PSP (Platform Security Processor)](https://www.amd.com/en/technologies/pro-security) is an on-die, isolated security processor that runs independently from the main x86 cores of the platform. Security-sensitive components run on the PSP without being affected by the commodity or untrusted software running on the x86 cores. The PSP executes its own firmware and shares the SPI flash storage that is used by the system BIOS.
  
- [ARM64EC (“Emulation Compatible”)](https://docs.microsoft.com/en-us/windows/uwp/porting/arm64ec) is a new application binary interface (ABI) for Windows 11 on ARM that runs with native speed and is interoperable with x64 architecture. An app, process, or even a module can freely mix and match with ARM64EC and x64 as needed. 
+[ARM64EC (“Emulation Compatible”)](https://docs.microsoft.com/en-us/windows/uwp/porting/arm64ec) is a new application binary interface (ABI) for Windows 11 on ARM that runs with native speed and is interoperable with x64 architecture. An app, process, or even a module can freely mix and match with ARM64EC and x64 as needed. 
  
  **Azure** is a Microsoft's cloud computing platform.
 
