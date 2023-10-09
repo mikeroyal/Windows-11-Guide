@@ -96,6 +96,8 @@ H
 
 I
 
+[Intel ME (Management Engine)](https://www.intel.com/content/www/us/en/support/articles/000008927/software/chipset-software.html) is an embedded microcontroller (integrated on some Intel chipsets) running a lightweight microkernel operating system that provides a variety of features and services for Intel® processor-based computer systems.
+
 [Intel XeSS (Xe Super Sampling)](https://www.intel.com/content/www/products/docs/discrete-gpus/arc/technology/xess.html), is an upscaling feature of [Intel Arc Alchemist graphics cards](https://www.intel.com/content/www/products/details/discrete-gpus/arc.html). It works by rendering your game at a lower resolution and then upscaling it using machine learning and dedicated AI hardware found inside the GPU. This helps it improve performance while maintaining as much image quality as possible.
 
 [Itch.io Store](https://itch.io/app) is an app that lets you effortlessly download and run games and software from itch.io. 
