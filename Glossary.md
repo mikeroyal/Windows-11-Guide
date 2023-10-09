@@ -134,7 +134,11 @@ N
 
 [NuGet Package Manager](https://marketplace.visualstudio.com/items?itemName=NuGetTeam.NuGetPackageManager) collection of tools to automate the process of downloading, installing, upgrading, configuring, and removing packages from a VS Project.
 
-[NVIDIA DLSS (Deep Learning Super Sampling)](https://www.nvidia.com/geforce/technologies/dlss/) is a Nvidia RTX feature that provides AI-powered performance multiplier which boosts frame rates by up to 4X. It uses Deep learning to produce an image that looks like a higher-resolution image of the original lower resolution image at a playable game frame rate and responsiveness. 
+[NVIDIA DLSS (Deep Learning Super Sampling)](https://www.nvidia.com/geforce/technologies/dlss/) is a Nvidia RTX feature that provides AI-powered performance multiplier which boosts frame rates by up to 4X. It uses Deep learning to produce an image that looks like a higher-resolution image of the original lower resolution image at a playable game frame rate and responsiveness.
+
+[NVIDIA DLAA (Deep Learning Anti-Aliasing)](https://developer.nvidia.com/rtx/streamline) is a AI-based anti-aliasing mode for users who have spare GPU headroom and want higher levels of image quality. DLAA uses the same technology developed for DLSS, but works on a native resolution image to maximize image quality instead of boosting performance. It requires Tensor Cores available in Nvidia RTX cards.
+
+[NVIDIA DLSS Frame Generation](https://www.nvidia.com/geforce/news/nvidia-rtx-games-engines-apps/) is a feature in DLSS (Deep Learning Super Sampling) and generates frames using AI to analyze two sequential in-game images (current and prior game frames) and calculates game engine data such as motion vectors and depth.
 
 [NVIDIA Reflex](https://www.nvidia.com/geforce/technologies/reflex/) is a feature that delivers latency improvements in GPU-intensive gaming scenarios on NVIDIA RTX graphics cards. It can lower rendering lag by as much as 80%. 
 
