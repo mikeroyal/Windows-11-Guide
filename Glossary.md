@@ -150,6 +150,10 @@ P
 
 **Powerpoint** is a presentation program developed by Microsoft for Windows, macOS, Android and iOS.
 
+[PowerShell](https://learn.microsoft.com/en-us/powershell/) is a cross-platform task automation solution made up of a command-line shell, a scripting language, and a configuration management framework. It runs on Windows, Linux, and macOS. 
+
+[PowerShell Execution Policy](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-7.3) is a safety feature that controls the conditions under which PowerShell loads configuration files and runs scripts. This feature helps prevent the execution of malicious scripts. 
+
 [PowerToys](https://docs.microsoft.com/en-us/windows/powertoys/) is a set of utilities for power users to tune and streamline their Windows 10/11 experience for greater productivity.
 
 [PingInfoView](https://www.nirsoft.net/utils/multiple_ping_tool.html) is a small utility that allows you to easily ping multiple host names and IP addresses, and watch the result in one table. It automatically ping to all hosts every number of seconds that you specify, and displays the number of succeed and failed pings, as well as the average ping time. You can also save the ping result into text/html/xml file, or copy it to the clipboard.
