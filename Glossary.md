@@ -58,6 +58,8 @@ D
 
 **Defender** is the built-in antivirus for Windows that protects you from the malicious sites you weren't expecting.
 
+[Dell Integrated Dell Remote Access Controller (iDRAC)](https://www.dell.com/en-us/dt/solutions/openmanage/idrac.htm) is a piece of hardware that sits on the server motherboard that allows Systems Administrators to update and manage Dell systems, even when the server is turned off. The iDRAC also provides both a web interface and command line interface that allows administrators to perform remote management tasks.
+
 [D3D11On12](https://learn.microsoft.com/en-us/windows/win32/direct3d12/direct3d-11-on-12) is a mechanism by which developers can use D3D11 interfaces and objects to drive the D3D12 API. D3D11on12 enables components written using D3D11 (for example, D2D text and UI) to work together with components written targeting the D3D12 API.
 
 [DirectX Raytracing (DXR)](https://microsoft.github.io/DirectX-Specs/d3d/Raytracing.html) is an API that focuses on delivering high performance by giving the application signficant low-level control, as with earlier versions of DirectX 12.
@@ -71,6 +73,8 @@ D
 [DNSLookupView](https://www.nirsoft.net/utils/dns_lookup_view.html) is a DNS tracing tool for Windows that allows you to view the details of every DNS query sent through the DNS Client service of Windows. For every DNS query, the following information is displayed: Host Name, Query Type (A, AAAA, and so on), Query Status (Error or succeeded), Query Result, Query Timestamp, ID and name of the process that requested the DNS lookup. 
 
 [DriveLetterView](https://www.nirsoft.net/utils/drive_letter_view.html) is a simple utility that allows you to view the list of all drive letter assignments in your system, including local drives, remote network drives, CD/DVD drives, and USB drives - even if they are not currently plugged. It also allows you to easily change a drive letter of USB devices and remote network shares, as well as to delete a drive letter of USB device that is not plugged.
+
+[Drvload](https://learn.microsoft.com/en-us/windows-hardware/manufacture/desktop/drvload-command-line-options?view=windows-11) is a tool that adds out-of-box drivers to a booted Windows Preinstallation Environment (Windows PE) image. It takes one or more driver ```.inf``` files as inputs. To add a driver to an offline Windows PE image, use the [Deployment Image Servicing and Management (DISM)](https://learn.microsoft.com/en-us/windows-hardware/manufacture/desktop/dism---deployment-image-servicing-and-management-technical-reference-for-windows?view=windows-11) tool.
 
 E
 
