@@ -102,6 +102,8 @@ H
 
 **High Dynamic Range (HDR)** is a feature that offers better brightness and color capabilities compared to traditional content (Standard Dynamic Range (SDR) content). HDR can show a wider range of colors and light and more details in between the extremes. Colors are more vivid and unique in HDR content. 
 
+[HPE Integrated Lights-Out (iLO)](https://www.hpe.com/us/en/hpe-integrated-lights-out-ilo.html) is a tool that makes it easy to remotely manage Integrity servers from just about anywhere in the world. Remotely manage system health over a secure LAN interface through either a text-based command-line control or from a browser-based, easy-to-use GUI.
+
 I
 
 [Intel ME (Management Engine)](https://www.intel.com/content/www/us/en/support/articles/000008927/software/chipset-software.html) is an embedded microcontroller (integrated on some Intel chipsets) running a lightweight microkernel operating system that provides a variety of features and services for Intel® processor-based computer systems.
