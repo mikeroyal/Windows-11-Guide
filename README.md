@@ -25,6 +25,7 @@
 1. [Getting Started](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#getting-started)
 
       - [Windows 11 Desktop](https://github.com/mikeroyal/Windows-11-Guide#windows-11-desktop)
+      - [Windows 11 on ARM](#windows-on-arm)
       - [Bypass Windows 11's TPM, CPU and RAM Requirements](https://github.com/mikeroyal/Windows-11-Guide#bypass-Windows-11-requirements)
       - [Creating a Local Account on Windows 11 Home and Pro](https://github.com/mikeroyal/Windows-11-Guide#Creating-a-Local-Account-on-Windows-11-Home-and-Pro)
       - [Removing the Windows 11 Watermark for Unsupported Hardware](https://github.com/mikeroyal/Windows-11-Guide/blob/main/README.md#removing-the-windows-11-watermark)
@@ -239,8 +240,6 @@
 
 [BitLocker Drive Encryption](https://docs.microsoft.com/en-us/windows/security/information-protection/bitlocker/bitlocker-overview) is a data protection feature that integrates with the operating system and addresses the threats of data theft or exposure from lost, stolen, or inappropriately decommissioned computers. BitLocker provides the most protection when used with a Trusted Platform Module (TPM) version 1.2 or later.
 
-[ARM64EC (“Emulation Compatible”)](https://docs.microsoft.com/en-us/windows/uwp/porting/arm64ec) is a new application binary interface (ABI) for Windows 11 on ARM that runs with native speed and is interoperable with x64 architecture. An app, process, or even a module can freely mix and match with ARM64EC and x64 as needed. The ARM64EC code in the app will run natively while any x64 code will run using Windows 11 on ARM’s built-in emulation. The ARM64EC ABI differs slightly from the current [ARM64 ABI](https://docs.microsoft.com/en-us/cpp/build/arm64-windows-abi-conventions?view=msvc-160) in ways that make it binary compatible with x64 code. Specifically, the ARM64EC ABI follows x64 software conventions including calling convention, stack usage, and data alignment, making ARM64EC and x64 interoperable. Apps built as ARM64EC may contain x64 code but do not have to, since ARM64EC is its own complete, first-class ABI for Windows.
-
 ## Windows 11 Desktop
 [Back to the Top](https://github.com/mikeroyal/Windows-11-Guide#table-of-contents)
 
@@ -278,6 +277,85 @@
 </p>
 
 **Easily snap the layout of your Desktop Apps on Windows 11. Source: [Microsoft](https://www.microsoft.com/en-us/windows/windows-11)**
+
+## Windows on ARM
+ 
+ * [Windows Dev Kit 2023 (Project Volterra) | Microsoft Learn](https://learn.microsoft.com/en-us/windows/arm/dev-kit/)
+ * [Windows Apps on Arm | Microsoft Developer](https://developer.microsoft.com/en-us/windows/arm/)
+ * [Visual Studio on ARM powered devices](https://learn.microsoft.com/en-us/visualstudio/install/visual-studio-on-arm-devices?view=vs-2022)
+ * [Windows on Arm documentation | Microsoft Learn](https://learn.microsoft.com/en-us/windows/arm/overview)
+ * [Add support Arm devices to your Windows app | Microsoft Learn](https://learn.microsoft.com/en-us/windows/arm/add-arm-support)
+ * [Windows Arm-based PCs FAQ - Microsoft Support](https://support.microsoft.com/en-us/windows/windows-arm-based-pcs-faq-477f51df-2e3b-f68f-31b0-06f5e4f8ebb5)
+ * [List of Windows ARM games | PCGamingWiki](https://www.pcgamingwiki.com/wiki/List_of_Windows_ARM_games)
+ 
+[ARM64EC (“Emulation Compatible”)](https://docs.microsoft.com/en-us/windows/uwp/porting/arm64ec) is an application binary interface (ABI) for Windows 11 on ARM that runs with native speed and is interoperable with x64 architecture. An app, process, or even a module can freely mix and match with ARM64EC and x64 as needed. The ARM64EC code in the app will run natively while any x64 code will run using Windows 11 on ARM’s built-in emulation. The ARM64EC ABI differs slightly from the current [ARM64 ABI](https://docs.microsoft.com/en-us/cpp/build/arm64-windows-abi-conventions?view=msvc-160) in ways that make it binary compatible with x64 code. Specifically, the ARM64EC ABI follows x64 software conventions including calling convention, stack usage, and data alignment, making ARM64EC and x64 interoperable. Apps built as ARM64EC may contain x64 code but do not have to, since ARM64EC is its own complete, first-class ABI for Windows.
+ 
+ 
+**NOTE:** Qualcomm's Snapdragon X Elite chip will be available in mobile devices starting Mid-2024.
+
+[Snapdragon X Elite](https://www.qualcomm.com/news/releases/2023/10/qualcomm-unleashes-snapdragon-x-elite--the-ai-super-charged-plat) is its all-new custom CPU architecture, codenamed Oryon. The X Elite includes a total of **12 Oryon cores**, rather than a mix of large and small cores like Qualcomm has used in past designs. When all cores are active, they can run at peak speeds of up to **3.8 GHz**, though when just one or two cores are boosting they can go up to **4.3 GHz**.
+ 
+ * Qualcomm says that the X Elite's Adreno GPU has upgradeable drivers, which means new capabilities can be added over time. it will support a **4K 120 Hz laptop display**, plus a total of **three 4K external displays (or two 5K external displays)**. The GPU supports the DirectX 12 graphics API—no Vulkan support, at least not yet—and Qualcomm says it will feature **upgradeable drivers**. Qualcomm compared the X Elite's GPU performance to both [Intel's Iris Xe](https://www.intel.com/content/www/us/en/products/details/discrete-gpus/iris-xe.html) and [AMD's Radeon 780M](https://www.amd.com/en/products/apu/amd-ryzen-7-7840u). The Adreno GPU is reportedly up to 2x as fast as the Iris Xe and up to 80% faster than the Radeon 780M, while using about one-fifth as much power.
+ 
+ * The chip also includes respectable media encoding and decoding capabilities, with support for **hardware-accelerated H.264, H.265/HEVC, and AV1 video encoding and decoding**, plus hardware-accelerated decoding support for the **VP9 codec**.
+ 
+ * The X Elite can use up to **64GB of LPDDR5x RAM** with up to **136 GB/s of memory bandwidth** to the chip. The image signal processor (ISP) supports up to 64 MP cameras and 4K HDR video capture. The chip supports **PCIe 4.0 NVMe SSDs and the UFS 4.0 and SD 3.0 storage standards**, as well as up to **three USB 4 ports (plus two more 10 Gbps USB 3.2 gen 2 ports)**.
+
+
+ <p align="center">
+ <img src="https://github.com/mikeroyal/Windows-11-Guide/assets/45159366/44442def-d217-4c19-a84f-a966e7f26cdb">
+</br>
+Image credit: Qualcomm
+</p>
+
+ <p align="center">
+ <img src="https://github.com/mikeroyal/Windows-11-Guide/assets/45159366/2468ec9a-a4be-4767-9af9-2a26723c6e00">
+</br>
+Image credit: Qualcomm
+</p>
+
+ <p align="center">
+ <img src="https://github.com/mikeroyal/Windows-11-Guide/assets/45159366/1b64da93-a9cd-453c-9b74-1525ea269a96">
+</br>
+Image credit: Qualcomm
+</p>
+
+ <p align="center">
+ <img src="https://github.com/mikeroyal/Windows-11-Guide/assets/45159366/8997a5fc-2f91-4b6e-b549-974bdfa8e6d4">
+</br>
+Image credit: Qualcomm
+</p>
+
+ <p align="center">
+ <img src="https://github.com/mikeroyal/Windows-11-Guide/assets/45159366/603595d4-8c60-4698-8715-89b386d675c5">
+</br>
+Image credit: Qualcomm
+</p>
+
+ <p align="center">
+ <img src="https://github.com/mikeroyal/Windows-11-Guide/assets/45159366/e65c5451-dce9-4fda-9174-02400089dd9b">
+</br>
+Image credit: Qualcomm
+</p>
+
+### Snapdragon X Elite Benchmarks
+
+|Geekbench 6 |(multi-core) scores|
+|-------------|-----------------|
+|Snapdragon X Elite (Config A)|	15,130|
+|Snapdragon X Elite (Config B)|	14,000|
+|Apple M2|	8,911|
+|Apple M2 Pro|	14,965|
+|Apple M2 Max|	14,939|
+|Intel Core i7-13000H|	12,171|
+
+|3DMark |  Wild Life Extreme Unlimited |
+|-------------|-----------------|
+|Snapdragon X Elite|	44.5 fps (Config A) | 39 fps (Config B)|
+|MacBook Pro 14-inch M2 Pro|	73 fps|
+|MacBook Pro 14-inch M2 Max|	80 fps|
+|MacBook Pro 13-inch M2 |	40.5 fps|
+
 
 ## Bypass Windows 11 Requirements
 [Back to the Top](https://github.com/mikeroyal/Windows-11-Guide#table-of-contents)
