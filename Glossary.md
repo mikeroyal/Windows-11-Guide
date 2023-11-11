@@ -270,6 +270,12 @@ X
 
 [Xbox Game Pass](https://xbox.com/xbox-game-pass) is a  video game subscription services from Microsoft. 
 
+[xemu](https://xemu.app/) is an original Xbox emulator.
+
+[Xenia](https://github.com/xenia-project/xenia) is an Xbox 360 Emulator.
+
 Y
+
+[yuzu](https://yuzu-emu.org) is an experimental open-source emulator for the Nintendo Switch from the creators of Citra.
 
 Z
