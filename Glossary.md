@@ -82,6 +82,8 @@ E
 
 [Edge](https://www.microsoftedgeinsider.com/) is a proprietary, cross-platform web browser created by Microsoft. It's available on Windows, macOS, Linux, Android, and iOS.
 
+[EFI system partition (ESP)](https://en.wikipedia.org/wiki/EFI_System_partition) is an Operating System independent partition that acts as the storage place for the UEFI boot loaders, applications and drivers to be launched by the Unified Extensible Firmware Interface (UEFI) firmware.
+
 **Excel** is a spreadsheet developed by Microsoft for Windows, macOS, Android and iOS.
 
 F
