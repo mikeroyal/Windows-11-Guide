@@ -286,7 +286,11 @@
  * [Windows on Arm documentation | Microsoft Learn](https://learn.microsoft.com/en-us/windows/arm/overview)
  * [Add support Arm devices to your Windows app | Microsoft Learn](https://learn.microsoft.com/en-us/windows/arm/add-arm-support)
  * [Windows Arm-based PCs FAQ - Microsoft Support](https://support.microsoft.com/en-us/windows/windows-arm-based-pcs-faq-477f51df-2e3b-f68f-31b0-06f5e4f8ebb5)
+ * [Update app architecture from ARM32 to ARM64 | Microsoft Learn](https://learn.microsoft.com/en-us/windows/arm/arm32-to-arm64)
+ * [Add support Arm devices to your Windows app | Microsoft Learn](https://learn.microsoft.com/en-us/windows/arm/add-arm-support)
+ * [Best native apps for Windows on ARM in 2023](https://www.xda-developers.com/windows-arm-apps/)
  * [List of Windows ARM games | PCGamingWiki](https://www.pcgamingwiki.com/wiki/List_of_Windows_ARM_games)
+ * [Xbox Cloud Gaming is available on Windows PCs running ARM64 on newer Surface devices(2022 or later) and upcoming devices with the Snapdragon X Elite chip.](https://www.xbox.com/play)
  
 [ARM64EC (“Emulation Compatible”)](https://docs.microsoft.com/en-us/windows/uwp/porting/arm64ec) is an application binary interface (ABI) for Windows 11 on ARM that runs with native speed and is interoperable with x64 architecture. An app, process, or even a module can freely mix and match with ARM64EC and x64 as needed. The ARM64EC code in the app will run natively while any x64 code will run using Windows 11 on ARM’s built-in emulation. The ARM64EC ABI differs slightly from the current [ARM64 ABI](https://docs.microsoft.com/en-us/cpp/build/arm64-windows-abi-conventions?view=msvc-160) in ways that make it binary compatible with x64 code. Specifically, the ARM64EC ABI follows x64 software conventions including calling convention, stack usage, and data alignment, making ARM64EC and x64 interoperable. Apps built as ARM64EC may contain x64 code but do not have to, since ARM64EC is its own complete, first-class ABI for Windows.
  
