@@ -1651,6 +1651,14 @@ This option takes your PC back to an earlier point in time, called a system rest
 * **[Recovery options in Windows](https://support.microsoft.com/windows/recovery-options-in-windows-31ce2444-7de3-818c-d626-e3b5a3024da5)**
 * **[Windows backup in Windows 11](https://support.microsoft.com/windows/about-windows-backup-in-windows-11-2ed5c7af-055e-44e8-839e-20124b641795)**
 
+<p align="center">
+ <img src="https://github.com/mikeroyal/Windows-11-Guide/assets/45159366/469a86c5-ee0d-4c38-8dd9-741de9f0ce1b">
+</br>
+New Windows Backup System Settings in Windows 11 23H2.
+</p>
+
+### Backup Tools
+
 [Borgmatic](https://github.com/modem7/docker-borgmatic) is a simple, configuration-driven backup software for servers and workstations. It protects your files with client-side encryption. Backup your databases too. Monitor it all with integrated third-party services. 
 
 [BorgWarehouse](https://borgwarehouse.com/) is a  fast and modern WebUI for a BorgBackup's central repository server.
