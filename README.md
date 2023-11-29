@@ -1514,6 +1514,8 @@ Active Directory Lifecycle
 
 [Syncthing](https://syncthing.net/) is a continuous file synchronization program. It synchronizes files between two or more computers in real time.
 
+[TeraCopy](https://www.codesector.com/teracopy) is a program to copy and paste large files at a high speed. The program is used for frequent file transfers, large file sizes, moving files from separate SSD drives/Hard drives.
+
 [KDE Connect](https://kdeconnect.kde.org/) is a tool that lets you easily link up your phone to your computer, your computer to your tablet; or your computer to your Steam Deck device. It can be used to share files across devices, read and send SMS directly from your laptop, and lock up your computer remotely.
 
 [Open Cloud Saves](https://github.com/DavidDeSimone/OpenCloudSaves) is an open source application for managing your saves games across Windows, MacOS, and Linux (including SteamOS).
