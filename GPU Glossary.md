@@ -102,6 +102,10 @@ S
   
   [Secure virtual memory](https://support.apple.com/guide/mac-help/what-is-secure-virtual-memory-on-mac-mh11852/mac) is a technique used in macOS that encrypts the data in virtual memory. Secure virtual memory is always on, so data is kept secure while it’s swapped between your hard disk and RAM. The RAM on your Mac contains no information when it’s off.
 
+  [Screen Space Reflections (SSR)](https://docs.unrealengine.com/en-US/Engine/Rendering/PostProcessEffects/ScreenSpaceReflection/index.html) is an effect which is enabled by default that alters the appearance of objects on the surface of Materials. This is an easy way to depict wet, shiny, or mirrored surfaces. They're commonly seen in science fiction art in the form of mirrored floors and rain puddles in wet asphalt. 
+
+  [Screen Space Ambient Occlusion (SSAO)](https://developer.valvesoftware.com/wiki/Screen_Space_Ambient_Occlusion_(SSAO)) is a computer graphics technique that works by examining an onscreen pixel, and then comparing its location in a depth buffer to the pixels around it. Pixels which are close together but not coplanar (on the same face) are shaded to simulate soft shadows. To maintain playable framerates, it is not possible to sample every pixel every frame, so random sampling is used, which will inevitably create noise/grain which may be more noticeable with movement. To counter this, the SSAO pass is often blurred to remove such grain. 
+
 T 
 
    [Transaction Layer Packets (TLPs)](https://www.oreilly.com/library/view/pci-express-system/0321156307/0321156307_ch04lev1sec5.html) is the starting point in the assembly of outbound Transaction Layer Packets (TLPs), and the end point for disassembly of inbound TLPs at the receiver. Along the way, the Data Link Layer and Physical Layer of each device contribute to the packet assembly and disassembly.
