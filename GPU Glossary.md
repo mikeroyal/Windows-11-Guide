@@ -96,6 +96,10 @@ R
   
   [RT (Real-time ray tracing) Cores](https://developer.nvidia.com/blog/nvidia-turing-architecture-in-depth/) is a hardware-based ray tracing acceleration accelerate Bounding Volume Hierarchy (BVH) traversal and ray/triangle intersection testing (ray casting) functions. RT Cores perform visibility testing on behalf of threads running in the SM, allowing it to handle another vertex, pixel, and compute shading work.
 
+  [RTX Global Illumination (RTXGI)](https://developer.nvidia.com/rtx/ray-tracing/rtxgi) is a collection of algorithms that leverage GPU ray tracing to provide scalable solutions for rendering real-time Global Illumination (GI). The goal of RTXGI is to provide optimized implementations of global lighting algorithms that are flexible enough to be useful in both real-time and pre-computed lighting scenarios. Focusing on scalability allows RTXGI to be an effective tool across a wide range of platforms with varying computational capabilities.
+
+[Ray Marching](https://en.wikipedia.org/wiki/Ray_marching) is a class of rendering methods for 3D computer graphics process of iteratively extending or contracting the length or magnitude of some vector in order to probe or sample some space for information.
+
 S 
 
   [Single Instruction, Multiple Data (SIMD)](https://en.wikipedia.org/wiki/SIMD) is a type of parallel processing that describes computers with multiple processing elements that perform the same operation on multiple data points simultaneously.
