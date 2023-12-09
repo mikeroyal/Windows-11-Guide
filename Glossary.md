@@ -84,6 +84,8 @@ E
 
 [EFI system partition (ESP)](https://en.wikipedia.org/wiki/EFI_System_partition) is an Operating System independent partition that acts as the storage place for the UEFI boot loaders, applications and drivers to be launched by the Unified Extensible Firmware Interface (UEFI) firmware.
 
+[Extended Security Updates (ESU)](https://learn.microsoft.com/en-us/windows-server/get-started/extended-security-updates-overview) is a program that provides customers who need to run certain legacy Microsoft products past the end of support. It includes **Critical and/or Important** security updates for a **maximum of three years** after the product's End of Extended Support date. [How to get Extended Security Updates (ESU) for Windows Server](https://learn.microsoft.com/en-us/windows-server/get-started/extended-security-updates-deploy).
+
 **Excel** is a spreadsheet developed by Microsoft for Windows, macOS, Android and iOS.
 
 F
