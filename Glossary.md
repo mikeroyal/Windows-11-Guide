@@ -244,6 +244,8 @@ W
 
 [Windows Terminal](https://github.com/microsoft/terminal) is a multi-tabbed terminal emulator that Microsoft has developed for Windows 10 and later as a replacement for Windows Console.
 
+[Windows Server Update Services (WSUS)](https://learn.microsoft.com/en-us/windows-server/administration/windows-server-update-services/get-started/windows-server-update-services-wsus) is a server role on your server, including network connections, firewall settings, proxy settings, SSL protocol, and computer groups. 
+
 [Windows as a Service (WaaS)](https://docs.microsoft.com/en-us/windows/deployment/update/waas-overview) is a new development concept, introduced with the release of Windows 11. It simplifies the lives of IT professionals and maintains a consistent Windows 11 experience for all Windows customers. 
 
 [Windows Virtual Desktop](https://azure.microsoft.com/en-us/services/virtual-desktop/) is a service that enables a secure, remote desktop experience from anywhere.
