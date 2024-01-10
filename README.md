@@ -236,7 +236,7 @@
 
 [Secure boot](https://docs.microsoft.com/en-us/windows-hardware/design/device-experiences/oem-secure-boot) is a security standard developed by members of the PC industry to help make sure that a device boots(Unified Extensible Firmware Interface (UEFI) BIOS) using only software(such as bootloaders, OS, UEFI drivers, and utilities) that is trusted by the Original Equipment Manufacturer (OEM).
 
-[Microsoft Defender Security Center](https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/microsoft-defender-security-center?view=o365-worldwide) is a user portal where you can access Microsoft Defender for Endpoint capabilities. It gives enterprise security operations teams a single pane of glass experience to help secure networks.
+[Microsoft Security Center](https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/microsoft-defender-security-center?view=o365-worldwide) is a user portal where you can access Microsoft Defender for Endpoint capabilities. It gives enterprise security operations teams a single pane of glass experience to help secure networks.
 
 [BitLocker Drive Encryption](https://docs.microsoft.com/en-us/windows/security/information-protection/bitlocker/bitlocker-overview) is a data protection feature that integrates with the operating system and addresses the threats of data theft or exposure from lost, stolen, or inappropriately decommissioned computers. BitLocker provides the most protection when used with a Trusted Platform Module (TPM) version 1.2 or later.
 
@@ -698,6 +698,8 @@ If VBS is running, you can get rid of it by uninstalling the **"Virtual Machine"
 [Wallpaper Engine](https://store.steampowered.com/app/431960/Wallpaper_Engine/) (£2.99) is a tool enables you to use live wallpapers on your Windows desktop. Various types of animated wallpapers are supported, including 3D and 2D animations, websites, videos and even certain applications. 
 
 [Lively Wallpaper](https://rocksdanister.github.io/lively/) is a Windows application designed to turn GIFs, games, and videos into animated wallpapers. 
+
+[Defender Remover](https://github.com/jbara2002/windows-defender-remover) is a Windows app which removes, enables, disables Windows Defender and Security Center Components. Also it can modify original Windows ISO images by removing or disabling Windows Defender.
 
 **"God Mode"** is a folder that shows all things in Control Panel in one folder. To add this
 
