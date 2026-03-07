@@ -1557,6 +1557,8 @@ Active Directory Lifecycle
 
 [WizTree](https://www.diskanalyzer.com/) is a Disk Space Analyzer tool that helps you find the files and folders using the most space on your hard drive quickly.
 
+[FreeUpDisk](https://freeupdisk.com/) is a fast, free disk space analyzer for Windows and Mac. It scans your drive in under 30 seconds and displays a treemap visualization showing which files and folders use the most space.
+
 [Disk Drill](https://www.cleverfiles.com/data-recovery-software.html) is a Data Recovery Software that recover any type of deleted files in Windows including Office documents, messages, and media files quickly and easily. Disk Drill for Windows is free data recovery software that restores deleted files from an HDD, USB drive or any kind of disk-based storage media. 
 
 [Scrutiny](https://github.com/AnalogJ/scrutiny) is a WebUI tool for smartd [S.M.A.R.T monitoring](https://www.crucial.com/articles/about-ssd/smart-and-ssds), Historical Trends & Real World Failure Thresholds.
